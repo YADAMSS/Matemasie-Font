@@ -2,195 +2,10 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-I,
-"AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZZZZŹŽŻaáăâäàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöòőōøõœpþqrrŕřŗsśšşșßtfťțuúŭûüùűūųůvwẃŵẅẁxyýŷÿỳzzzźzzžzzzzzzzzzzżªº0123456789  /.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%̈̇̀́̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯¸˛",
-"lc to lc Spacing and kerning (and joining sometimes) checks - Split - Left+ and +Right 
+"AÁĂÂÄÀĀĄÅÃAÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZZZZŹŽŻaáăâäàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöòőōøõœpþqrrŕřŗsśšşșßtfťțuúŭûüùűūųůvwẃŵẅẁxyýŷÿỳzzzźzzžzzzzzzzzzzżªº0123456789  /.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%̈̇̀́̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯¸˛",
+"Matemasie
 
-[a+]
-aah paæet naan abott abduct action admit tað aeon after again ahoy ajust faker alike logjam an ape aorta aqua arc applejack basketball haß expatriot autumn gavel awe axe says bedazzle anlaß
-
-[+a]
-aardvark læat bad calf daffy afboða easy fall gaia hao miao jab kap plan mail nabbed oars pangolin ikqa rats save tablet aquavit vats wash hexapod yay zara großartig
-
-[b+]
-bad bærn dribble ribcage cabdriver bed bð obfuscate hobgoblins bhindi bicycle bjorn liebknecht bliss crabmill snubnose boss subpoena subquality brick absolute debt butter obvious bwana subxhosa by jekabzeel krebß
-
-[+b]
-abaca kæbe ebbing cbs dbx góðbændur ebony góðbændur afbakenen bangbroek beachboy ibis jbops kbyte album ambacht bonbons observe hipbone ruqbaa absorb sbaen tbilisi uber servbot cowbell xbox cybernetic uzbek tovßbbra 
-
-[c+]
-cab cædwallas ecbolic lucca anecdote cedar cðng flicflac marcgravia cheese oscillate acjo chicken cliff acme picnic cobbler pincpinc lacquer crime tropics object cute mechanicville arcticward cx cypriot czech aucßerdem
-
-[+c]
-aches æcsečine bobcat accede headcount þeoðcyninga ecru defcon dogcatcher ashcan ice aramejczyk crankcase zilch kimchi income ocular upcurl baliqchi architect scale kitchen cluck vcard showcase boxcar lycea mezcals spießchen
-
-[d+]
-darling oldæus db adcraft nodded dðng deep boldface porridge dharma dime django maidkin coddle adman wednesday done dpt lapdogs drink kids burkhardt dunes medvedev dwiggins dx dynamoe adzuki lanndßhut
-
-[+d]
-add ħæmmæd rubdown synecdoche noddle norðdepil eddy fiefdom kingdom liðdýr fahd acid ejder workday old gumdrop and anode update maqdisi awkward misdeed letdown budge uøvd wdrażania twixdagen boyd azdjer grüaßde
-
-[e+]
-easy ulineær treble mechanic educate eð effort ego meh ein applejack lekker eleven empathy end georges pepe equal inquieries estimate adieu ever ewer expert eye bezier grieß
-
-[+e]
-aerie mæe ben cello demon blóðeitrun eek female gehena helios ieger jelly kewpie lei men new noel pen enqenunsa rescue semiotics teller ue venus welcome xerox yen zebra außen
-
-[f+]
-famous færies offbow briefcase halfdressed fð fey off puffball sgraffito offhand offkey safflower afghan sulfhydryl finally fjord kafka fly wolfman dwarfness for rafpin nifqas free elfship left doffs lift fun plafvu halfway remotefx iffy ufza kaufß
-
-[+f] 
-after æfr arcticfox eddfacit nauðflva effort dogfish matchfcus iffy rajfire backfit elfish emfbt csfnf often pfff qfaktor arflex sfsufr ltfî ufo halvfäbodar nmwfifa xfinans healthyforms malzfeldt bloßfüßig
-
-[g+]
-games gælunafnið bagboy eggcup swingdevil heimsfrægð general jugful ghost gift logjam figking glimer ogmane gnosis gonzo bagpipe rpgquest great frogs sgt. guns trygve legwork sÿrigx gyms zigzag tagßkrefft 
-
-[+g]
-ago hægra badge macgyver budge moðguðr egg afghan aggro churchgoer igloo panjgur ginkgo algae wormgear sing ogre stopgap qgaat large disgust shotgun ugly evgeni cowgirl texgene cygnus fitzgerald paßgang
-
-h+]
-hail hægra hunchback ahchoo baghdad hð there reproachful sahgum brouhha high mahjong archknave ehler rhythm john horn jodhpur earthquake hrumpf baths right hub ahven hwang morphx physic mahzor ovoid hawaii röhß
-
-[+h] 
-ah erzæhlen bhaktas chord dhal wðhrend aceh offhand ghost ahh bihari jhodpur khan delhi farmhand arnhem ohno aleph fqhm rhone ship the uhm vhs why exhale keyhole shenzhen großhändler
-
-[i+]
-india biærnulv jiblet ick identity ið iens naif iggy hiho dijon pompeii sikh bakerij will crimp inn olio oedipus piquant shirt island italian xiu civil taiwan pixies riyal grizzled beißâ
-
-[+i]
-aim wæi bicycle cinema digs austfirðir ein fibs girl hills hawaii basenji kipper limes miles nice oil pie qilin ribbit sir time quixote virus bewirkt axiom boyish zip dreißig
-
-[j+]
-jam jæger drujba abjurer gejcharm majdan plojðe djebles jenny rajfire fjordix gjetost panjgur jhuggi jiggled fajitas rijswijk kejla ajman vojno joana enjoy basenji weijpoort jonquil hevajra alforja outjuts rejsekort vojtech jubilee juicing szájvíz jwg jinx jyotish skyjack földrajz jazz grejßdn
-
-[+j]
-ajax bæjar objet krucjata djini norðjörður aparejo fjord gjetost hjelmeland hijinks hajj kjell killjoy ramjets donjons rojected pjöngjang qjras carjack disjoin nightjar pujol vjesnik sowjet konxji anyja közjegyző schümmnaßjum 
-
-[k+]
-kanguru kæleigh kd kð kentucky workflow ginkgos khan kinetic kjeller klan kmer know kooning checkpoint ikqa kramer ksenia bhaktis kunis kvala parkway dawckx kyle takzże bürkß
-
-[+k]
-yakuza hiæk liebknecht black bodkins miðklettur beknots silifke songkok archknave ikebana kisvejke chukkas chalk nemko pink okay pumpkin xboqk shark skunk prątki fluke křivky gawky boxkeepers tykes azkco geißkopf
-
-[l+]
-lana læs alba palco fold galðr lex alfie fidalgo alho liz aljezeera filk llano filme ln lock alpe alquimia already falsa alta bölþór lundi ulva lwei lawn lx lexie lyon calzone elßas
-
-[+l]
-all hiælp black clouds dawdle fiskieðlu elves flower glove athlete illness blokzijl backlog ill aimless unlucky ola place uniqlo twirl slain atlas ulcer pavlova lowland taxless acrylic sozzled roßlinde
-
-[m+]
-mano mærk ambar tramcar lamda blaðamðaur men chamfer tamga grtimheuer mine mjosa lemki html mnemonica month empirico symquel armrest whimsey amtrak mundo symvoli gumwood mxpa mylar hamza mßî
-
-[+m] 
-abram æmt submenu discman grandma māðm empathy elfmania segment cashmere immediate ajman kmer almonds yumm nmì omni sapmi subiqmena korma small xhtml umbrella javma sawmill flaxman acronym khorezm píßmená
-
-[n+]
-nara ulnæ bonbons incontestavel end kolnður nelly enfatic english morninho niagara fanja unknown sunless ironman panna notorious panpipe anque unranked fans ant nude envy chinwag anxious nyman fanzine funßnote
-
-[+n]
-angle ænpdi subnet picnic adnate dðng english dafnero gnome ethnic india dizájn knoll telnet alumni ann one pneumatic qnlvk acorn snow catnaps under travnik unknown laxness anodyne luznice kompaßnade  
-
-[o+]
-oars hoæé obey octopus odile oðe oef ofelia ogre oh oigo ojo ok oleg omni onus opportunity oque orense osiris otelo oþ outro ovo oxo oygo ozone oßo
-
-[+o]
-aoristic æolisk bones copilot donut sīðode leon found gods home ions joke ko lord mouse nose fool pond qo rose soup today sequoia volume woman axon yoyo zoo reußok
-
-[p+]
-pan pædagogik hipbone upcurl wkpd skipði penny knüopft sopgeregte phantome piada prokopjevi ppka plaza chipmuck dampness ponte nipple npqf prato psìquicos apto trúaruppþot puglia paardpvd opweb apx python pzyhazo tripß 
-
-[+p]
-apple græstæppe subpar ecphora endpin blóðprufu epidemis halfpipe magpie ashpit clip jairajpur inkpot alpaca empire inputs option poppies qp carpal special hatpin upper shivpuri blowpipe expats atypic tezpur großpopowitzer  
-
-[q+]
-qabalistic dzændjyqæu ruqbaa baliqchi qdnbp fjölgaqð antiouqensis qforma vszqgilvius qhäśnasaćha wŭqián eqjs xboqk oqlx fqm ĺqn poibqoqa aiypwzqp raqqa fqrnt qstripa ekvqt ëòqþ quino quando lindqvist qwest kalaqxavaya qyamta mezquit daqß
-
-[+q]
-aqua bæqætari bbq acquit headquarter ðq equity elfqueen hazgqx dshqgo tukiqi ujqish kqdersiz còlquic symquel rosenqvist ċoqqa pqh aeqq arqueo square dialectquiz muqãta ekvqt bowquin exquisite bernabeyqa rizqikhusus eiweißquelle 
-
-[r+]
-rato præciuos arbol arco farda dýragarður recto arfar argument rhino rita rjasan sarja fork arlequim farm arno ron harpa arquitecto farsa arte ruminar erva fbaerwald rye erza fvrßl
-
-[+r]
-arquebus æro brave craven drop moðguðr ergot france grace hrant irreparable gajraula krona ballroom nimrod unreal orange profit fuqra purr misrule tramp our vouvray wrap boxroom butyryl fitzroy éßr  
-
-[s+]
-santiago sæson busboy scorcese doomsday sðrk sevilha disfavor osga shiva siri misjoinder skala slavic smith snob some sputnik esquilo sri passeio stout misþyrmdar sul sveva swan prisxtra synod kuvasz ausßerdem
-
-[+s]
-asp hatteæske absurd antics bleeds huliðshj essay coifs jigsaw oaths vision rijstafel daks else jams fans hose kips tranqs person bassist kits status slavsk arrows oxshoe always waltzs beschußschäden
-
-[t+]
-tara peltæ football flatcaps outdoor vāltðzott television artful catgut theme tim maatje catkin tartly catnip toca hatpeg outquote trama itself mütße attico útþrá tulip tva twardoch jatxou tyrone ersatz tßökersje
-
-[+t]
-attack góðgæti doubt fact redtop auðtrúa etta zaftig ragtag fight italy frejtag poyekto although amtrak headcount otter styptic ekvqt start little utter kevvt newton extra python gewürztraminer paaßt 
-
-[u+]
-aqua liljuætt ubiquitous buck udara guðrið due uffici ugo bauhaus uivo pujol fluke ulisses uma uno uomo upstairs uq urze uso util uþsala vacuum uva kuwaiti tux buy buzzard ußo
-
-[+u]
-audio oldæus but cup dull àður eurydice fun guns hungry medium jump backup lumin music nuance out puzzle quest ruin sun tupple equus vulva wushu nexus yuzu zulu ßubst  
-
-[v+]
-vania papirværk vblog kravchii havdoloh ákvðna vera rivfader havgula devhelp viscera nagbavji křivky vlad javma travnik vomero shivpuri chevres favs kevvt njállaávþi vulgo savvy devwhy uvxvq vydya evzone tovßbbra
-
-[+v]
-avenue mævi subvert aascv dvořàk vöðvanna every fvrßl dogvane schvartzes bolivar kweekvijver kvass valve humvee envy oven blipvert naqvi curvy kosva bodhisattva oeuvre savvy wvisbeen īxvar tyvek mitzvah mißv   
-
-[w+]
-wacky wæstm drawback wcráin crawdads wðhrend well awful awg wganda whirl wild sowjet awkward owls sawmill down women kewpie snowquake wrong wsbecistan drawtube uxwþra wuther nieuwvliet powwow wxns wynona blowzy rawß
-
-[+w]
-away æw bwana colicweeds dwelling evklíðwoodv lewis halfway gweneth thwacked iwata ajwa kwamsa lweis dimwit chinwag owls sopwith qwest fbaerwald swing two thruway navwuis yellowware uxwþra byway buzzword gottweißwohin
-
-[x+]
-xadrez xæzæras oxbows boxcar xdrive aspexðiu xenofobia foxfires cuxüxgu xhoä ximeno boxjuice exkuseia axl luxmeter flexnet xote experience marşwzfpxqu exradius oxshoe exterior nlxþýðingar xuxu uvxvq boxwoods pawełxxl xylaphone xxzxcu grxß
-
-[+x]
-axe æxlafræði bxreangst acxiom dxcn ðxàcorrrect exit holosofx ningxian freshxpress fixation rijxdorp dkxæŋks hydraulx mxpa jynx oxen apx kalaqxavaya grxß prisxtra jatxou lux divx wxns pawełxxl sardonyx nazxul nßxos
-
-[y+]
-yago yæke hybrid lycee cyd brońþryð yen crayfish dayglows heeyh ying pyjamas pyknosis acetoxyl antonyms anodynes yoga typiques yquem lyrics abyss myth myþologia yudi yvone byway pyxis sayyid syzygy yßhãœ
-
-[+y] 
-say sandæy bye cyborg dynamoe meiðyrði eyelash joyful gyms hype riyal jynx kyoto lyman mynah irony enjoy pyro qyamta very syro styptic buy envy wyoming xylene sayyid lazy großyacht
-
-[z+]
-zaza erzæhlen whizbang mezcal Erzdiözese zð zelia putzfrau metzgerei zhaha zizou muzjik azkco embezzle zmar luznice zola izpeg colzq fitzroy waltzs qzt tabrizþjóðfélagssýnin zulu mitzvah zweigeschßige xxzxcu zyste ozy pizza gruzß
-
-[+z]  
-azure xæzæras subbzone czar adze vāltðzott fez klopfzeichen zigzag machzor friz lkjz okz qzpbq hamza influenza ozark pzpa qzt orzo grosz blitz zuz evzone blowzy noxzema syzygy fizzy hügelfußzone
-
-[ß+]
-ßa ßæ fußball aucßerdem bloßfüßig lanndßhut abschließen bloßfüßig tagßkrefft zweigeschßige eiweißquelle grejßdn kritikßpunkt elßas bemßdorff funßnote großyacht kompßlett daqß stuirß beschußschäden stoßtrupp ßubst mißv gottweißwohin nßxos rißy prodaestjagroßzügixt
-
-[+ß]
-großaspach æßðđŋħjł krebß aucßerdem lanndßhut eßen kaufß tagßkrefft röhß dreißig grejßdn bürkß lßas mßî funßnote großžupan tripß daqß fvrßl ausßerdem tßökersje fußball rußverschmiert tovßbbra rawß grxß großyacht gruzß 
-weißwurst sweißzeichnung
-
-[þ+]
-îþaç forraþære uþb þcada hþdansbende suþern þfn meþgul riþhastiforme elveþia þjóðlagagítar iliþkin sōþlīċe norþmest parþneskri þolgler mōnaþphanér þquilexecutiu norþryhte roþs þti erþu þvagsýrugigt þwer þxar þytur ofaqlbiuþz liþþuanisc þðß
-
-[+þ] 
-raþz sæþjóðanna mobþáttaraðir orcþyrsdiente vindþursar meþþä kitilhafþa margþrenning gelstrichþrór iriþs guðsjþjónustur víkþa vélþýðing samþykir skopgrínþættinum spsrroþar hleypþa ëòqþ örþunn misþyrmdar næstþéttbýlasta geymsluþolið njállaávþi uxwþra nlxþýðingar myþologia tabrizþjóðfélagssýnin ßþquel ",
-"The grated potatoes are then shaped into rounds or patties, which come in different sizes, usually measuring between 1 to 5 inches in diameter and 0.5 inch thick. In Swiss popular consciousness, Rösti are eaten only in the German-speaking part of the country.",
-"HHOOHH
-AVWYJT
-DBEFUI
-QCGZS",
-"AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻaáăâäàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöòoőōøõœpþqrŕřŗsśšşșßtťțuúŭûüùűūųůvwẃŵẅẁxyýŷÿỳzźžżªº0123456789  /.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%̈̇̀́̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯¸˛",
-"Ļ",
-hkKmn,
-"Ť",
-D,
-"5",
-"/five.ss01",
-"7",
-"/seven.ss02",
-"0",
-L,
-"/L.ss01"
+"
 );
 customParameters = (
 {
@@ -1369,7 +1184,7 @@ unicode = 260;
 glyphname = Aring;
 kernLeft = "20";
 kernRight = "20";
-lastChange = "2023-11-19 01:47:48 +0000";
+lastChange = "2023-11-26 14:51:21 +0000";
 layers = (
 {
 anchors = (
@@ -1380,76 +1195,6 @@ pos = (426,1082);
 );
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 shapes = (
-{
-closed = 1;
-nodes = (
-(298,400,o),
-(361,434,o),
-(425,434,cs),
-(488,434,o),
-(550,400,o),
-(550,334,cs),
-(550,319,o),
-(547,297,o),
-(533,282,cs),
-(516,264,o),
-(477,251,o),
-(429,251,cs),
-(383,251,o),
-(336,263,o),
-(317,281,cs),
-(305,292,o),
-(298,309,o),
-(298,332,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(728,71,o),
-(837,317,o),
-(837,471,cs),
-(837,667,o),
-(659,817,o),
-(424,817,cs),
-(193,817,o),
-(11,671,o),
-(11,468,cs),
-(11,317,o),
-(112,80,o),
-(257,1,cs),
-(277,-10,o),
-(292,-14,o),
-(303,-14,cs),
-(347,-14,o),
-(344,42,o),
-(334,81,cs),
-(329,102,o),
-(317,137,o),
-(317,150,cs),
-(317,160,o),
-(323,169,o),
-(337,175,cs),
-(351,181,o),
-(387,190,o),
-(426,190,cs),
-(455,190,o),
-(487,185,o),
-(511,175,cs),
-(528,168,o),
-(532,161,o),
-(532,153,cs),
-(532,137,o),
-(518,102,o),
-(514,81,cs),
-(506,35,o),
-(501,-14,o),
-(545,-14,cs),
-(556,-14,o),
-(572,-10,o),
-(591,0,cs)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -1483,9 +1228,12 @@ nodes = (
 (450,884,o),
 (424,884,cs)
 );
+},
+{
+ref = A;
 }
 );
-width = 848;
+width = 850;
 }
 );
 unicode = 197;
@@ -1561,81 +1309,11 @@ unicode = 195;
 },
 {
 glyphname = AE;
-lastChange = "2023-11-16 23:28:50 +0000";
+lastChange = "2023-11-26 14:51:59 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 shapes = (
-{
-closed = 1;
-nodes = (
-(299,400,o),
-(361,434,o),
-(425,434,cs),
-(488,434,o),
-(549,400,o),
-(549,334,cs),
-(549,319,o),
-(546,298,o),
-(532,283,cs),
-(515,265,o),
-(477,252,o),
-(429,252,cs),
-(383,252,o),
-(337,264,o),
-(318,282,cs),
-(306,293,o),
-(299,310,o),
-(299,332,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(726,73,o),
-(835,318,o),
-(835,471,cs),
-(835,665,o),
-(658,815,o),
-(424,815,cs),
-(194,815,o),
-(13,669,o),
-(13,468,cs),
-(13,318,o),
-(114,82,o),
-(258,3,cs),
-(278,-8,o),
-(293,-11,o),
-(304,-11,cs),
-(347,-11,o),
-(344,44,o),
-(335,83,cs),
-(330,104,o),
-(318,139,o),
-(318,152,cs),
-(318,161,o),
-(324,170,o),
-(338,176,cs),
-(351,182,o),
-(387,191,o),
-(426,191,cs),
-(455,191,o),
-(487,186,o),
-(510,176,cs),
-(527,169,o),
-(531,162,o),
-(531,154,cs),
-(531,139,o),
-(517,104,o),
-(513,83,cs),
-(506,37,o),
-(501,-11,o),
-(544,-11,cs),
-(555,-11,o),
-(571,-8,o),
-(590,2,c)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -1691,6 +1369,9 @@ nodes = (
 (836,231,o),
 (849,233,cs)
 );
+},
+{
+ref = A;
 }
 );
 width = 1296;
@@ -10729,13 +10410,13 @@ unicode = 234;
 },
 {
 glyphname = edieresis;
-lastChange = "2023-11-19 02:08:31 +0000";
+lastChange = "2023-11-26 14:26:34 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (303,814);
+pos = (310,814);
 }
 );
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -10746,35 +10427,35 @@ ref = e;
 {
 closed = 1;
 nodes = (
-(108,765,o),
-(138,736,o),
-(184,736,cs),
-(230,736,o),
-(260,765,o),
-(260,810,cs),
-(260,854,o),
-(230,882,o),
-(184,882,cs),
-(138,882,o),
-(108,854,o),
-(108,810,cs)
+(133,765,o),
+(163,736,o),
+(209,736,cs),
+(255,736,o),
+(285,765,o),
+(285,810,cs),
+(285,854,o),
+(255,882,o),
+(209,882,cs),
+(163,882,o),
+(133,854,o),
+(133,810,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(304,765,o),
-(334,736,o),
-(380,736,cs),
-(426,736,o),
-(456,765,o),
-(456,810,cs),
-(456,854,o),
-(426,882,o),
-(380,882,cs),
-(334,882,o),
-(304,854,o),
-(304,810,cs)
+(329,765,o),
+(359,736,o),
+(405,736,cs),
+(451,736,o),
+(481,765,o),
+(481,810,cs),
+(481,854,o),
+(451,882,o),
+(405,882,cs),
+(359,882,o),
+(329,854,o),
+(329,810,cs)
 );
 }
 );
@@ -14284,7 +13965,7 @@ nodes = (
 (402,122,o),
 (363,122,cs)
 );
-},
+}
 );
 width = 715;
 },
@@ -16832,7 +16513,7 @@ unicode = 253;
 },
 {
 glyphname = ycircumflex;
-lastChange = "2023-11-16 23:28:50 +0000";
+lastChange = "2023-11-26 14:39:15 +0000";
 layers = (
 {
 anchors = (
@@ -16849,40 +16530,40 @@ ref = y;
 {
 closed = 1;
 nodes = (
-(356,730,o),
-(347,721,o),
-(323,704,cs),
-(270,665,l),
-(236,641,o),
-(211,623,o),
-(192,641,cs),
-(177,657,o),
-(191,676,o),
-(209,714,cs),
-(222,739,o),
-(239,771,o),
-(259,806,cs),
-(286,854,o),
-(322,884,o),
-(366,884,cs),
-(410,884,o),
-(446,854,o),
-(473,806,cs),
-(493,771,o),
-(510,739,o),
-(523,714,cs),
-(541,676,o),
-(555,657,o),
-(540,641,cs),
-(521,623,o),
-(496,641,o),
-(462,665,cs),
-(449,675,o),
-(425,693,o),
-(404,708,cs),
-(386,721,o),
-(376,730,o),
-(366,730,cs)
+(350,730,o),
+(341,721,o),
+(317,704,cs),
+(264,665,l),
+(230,641,o),
+(205,623,o),
+(186,641,cs),
+(171,657,o),
+(185,676,o),
+(203,714,cs),
+(216,739,o),
+(233,771,o),
+(253,806,cs),
+(280,854,o),
+(316,884,o),
+(360,884,cs),
+(404,884,o),
+(440,854,o),
+(467,806,cs),
+(487,771,o),
+(504,739,o),
+(517,714,cs),
+(535,676,o),
+(549,657,o),
+(534,641,cs),
+(515,623,o),
+(490,641,o),
+(456,665,cs),
+(443,675,o),
+(419,693,o),
+(398,708,cs),
+(380,721,o),
+(370,730,o),
+(360,730,cs)
 );
 }
 );
@@ -17167,7 +16848,7 @@ unicode = 378;
 },
 {
 glyphname = zcaron;
-lastChange = "2023-11-16 23:28:50 +0000";
+lastChange = "2023-11-26 14:27:34 +0000";
 layers = (
 {
 anchors = (
@@ -17221,14 +16902,14 @@ nodes = (
 );
 }
 );
-width = 567;
+width = 582;
 }
 );
 unicode = 382;
 },
 {
 glyphname = zdotaccent;
-lastChange = "2023-11-20 22:32:51 +0000";
+lastChange = "2023-11-26 14:27:39 +0000";
 layers = (
 {
 anchors = (
@@ -17260,7 +16941,7 @@ nodes = (
 );
 }
 );
-width = 543;
+width = 582;
 }
 );
 unicode = 380;
@@ -21435,7 +21116,7 @@ unicode = 169;
 {
 color = 10;
 glyphname = registered;
-lastChange = "2023-11-16 23:28:50 +0000";
+lastChange = "2023-11-26 15:11:41 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -21477,74 +21158,59 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(156,456,o),
-(146,462,o),
-(146,473,cs),
-(146,485,o),
-(158,489,o),
-(168,489,cs),
-(181,489,o),
+(155,456,o),
+(145,462,o),
+(145,473,cs),
+(145,486,o),
+(157,490,o),
+(168,490,cs),
+(181,490,o),
 (190,482,o),
 (190,472,cs),
-(190,461,o),
+(190,460,o),
 (179,456,o),
-(169,456,cs)
+(168,456,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(98,460,o),
-(117,421,o),
-(140,408,cs),
-(143,406,o),
-(145,405,o),
-(147,405,cs),
-(149,405,o),
-(151,406,o),
-(152,407,cs),
+(96,459,o),
+(114,421,o),
+(138,407,cs),
+(142,405,o),
+(144,404,o),
+(147,404,cs),
+(155,404,o),
 (155,410,o),
-(155,413,o),
-(154,417,cs),
-(152,424,ls),
-(152,426,o),
-(151,427,o),
-(151,429,cs),
-(151,437,o),
-(158,439,o),
-(163,439,cs),
-(172,439,o),
-(179,430,o),
-(180,428,cs),
-(184,422,o),
-(190,413,o),
-(192,411,cs),
-(196,407,o),
-(201,403,o),
-(206,406,cs),
-(208,408,o),
-(210,410,o),
-(210,414,cs),
-(210,416,o),
-(210,418,o),
-(208,421,cs),
-(195,437,ls),
-(193,439,o),
-(193,440,o),
-(193,441,cs),
-(193,444,o),
-(195,444,o),
-(197,444,cs),
-(221,444,o),
-(240,464,o),
-(240,488,cs),
-(240,488,ls),
-(240,518,o),
-(215,548,o),
-(167,548,cs),
-(125,548,o),
-(98,524,o),
-(98,489,cs)
+(151,422,cs),
+(150,425,o),
+(150,427,o),
+(150,429,cs),
+(150,436,o),
+(157,438,o),
+(162,438,cs),
+(173,438,o),
+(186,419,o),
+(193,409,cs),
+(195,406,o),
+(198,404,o),
+(202,404,cs),
+(207,404,o),
+(221,411,o),
+(207,440,cs),
+(206,442,o),
+(205,445,o),
+(207,445,cs),
+(227,445,o),
+(240,467,o),
+(240,489,cs),
+(240,519,o),
+(213,549,o),
+(166,549,cs),
+(124,549,o),
+(96,525,o),
+(96,489,cs)
 );
 }
 );
@@ -24370,6 +24036,88 @@ width = 212;
 unicode = 731;
 },
 {
+glyphname = A.ss01;
+lastChange = "2023-11-26 14:52:56 +0000";
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(312,400,o),
+(375,434,o),
+(439,434,cs),
+(502,434,o),
+(564,400,o),
+(564,334,cs),
+(564,319,o),
+(561,297,o),
+(547,282,cs),
+(530,264,o),
+(491,251,o),
+(443,251,cs),
+(397,251,o),
+(350,263,o),
+(331,281,cs),
+(319,292,o),
+(312,309,o),
+(312,332,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(742,71,o),
+(851,317,o),
+(851,471,cs),
+(851,667,o),
+(673,817,o),
+(438,817,cs),
+(207,817,o),
+(25,671,o),
+(25,468,cs),
+(25,317,o),
+(126,80,o),
+(271,1,cs),
+(291,-10,o),
+(306,-14,o),
+(317,-14,cs),
+(361,-14,o),
+(358,42,o),
+(348,81,cs),
+(343,102,o),
+(331,137,o),
+(331,150,cs),
+(331,160,o),
+(337,169,o),
+(351,175,cs),
+(365,181,o),
+(401,190,o),
+(440,190,cs),
+(469,190,o),
+(501,185,o),
+(525,175,cs),
+(542,168,o),
+(546,161,o),
+(546,153,cs),
+(546,137,o),
+(532,102,o),
+(528,81,cs),
+(520,35,o),
+(515,-14,o),
+(559,-14,cs),
+(570,-14,o),
+(586,-10,o),
+(605,0,cs)
+);
+}
+);
+width = 876;
+}
+);
+},
+{
 glyphname = L.ss01;
 lastChange = "2023-11-24 15:41:58 +0000";
 layers = (
@@ -26044,16 +25792,6 @@ nodes = (
 }
 );
 width = 625;
-}
-);
-},
-{
-glyphname = newGlyph.001;
-lastChange = "2023-11-24 15:35:19 +0000";
-layers = (
-{
-layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
-width = 600;
 }
 );
 },
