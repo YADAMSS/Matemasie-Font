@@ -13,10 +13,12 @@ Socith cestes orente of “many the mucied wigh wis beffe derman the by phs 1 so
 "adhesion
 ADHESION",
 01EKEXNXFXFz,
-"æa",
 "̨",
 "&3",
-"6983523"
+"6983523",
+"þ",
+"Þ",
+"OØ"
 );
 customParameters = (
 {
@@ -7571,7 +7573,7 @@ unicode = 80;
 },
 {
 glyphname = Thorn;
-lastChange = "2023-12-01 03:37:21 +0000";
+lastChange = "2023-12-11 04:54:08 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -7726,7 +7728,7 @@ nodes = (
 );
 }
 );
-width = 650;
+width = 653;
 }
 );
 unicode = 222;
