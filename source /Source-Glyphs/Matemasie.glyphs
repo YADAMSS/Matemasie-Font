@@ -4,21 +4,446 @@
 DisplayStrings = (
 "Aar Abo Act Adj Aer Aft Aga Ahe Aie Aji Ake Alm Amo Ano Aoa App Aqu Art Ass Att Aug Ave Awa Axe Aye Azo Bal Bbn Bcc Bdj Ber Bfd Bga Bhu Bie Bji Bkl Bli Bmo Bni Boa Bpi Bqu Brt Bss Btl But Bve Bwa Bxl Bye Bzo Cal Cbn Ccn Cdj Cer Cfi Cga Che Cie Cjn Ckl Cle Cmo Cnl Coa Cpl Cqu Crl Css Ctl Cul Cvl Cwl Cxl Cyi Czo Dal Dbn Dci Ddj Der Dfl Dga Dhr Die Dji Dkl Dli Dmo Dnu Don Dpi Dqu Dri Dsl Dtl Dul Dvl Dwl Dxl Dya Dzn Ear Ebe Ech Edw Een Efo Ega Ehr Eit Ejo Ekn Eld Emp Ens Eob Epa Equ Ero Est Eth Euc EvaEwa Exe Eyo Eze Fal Fboa Fci Fdj Fer Ffu Fgn Fhi Fil Fjo Fkl Fli Fmi Fnl Fol Fpi Fqu Fra Fst Fto Ful Fvl Fwl Fxi Fyi Fzi Gal Gbo Gch Gdj Ger Gfl Ggl Ghi Gil Gjl Gke Gli Gmo Gnl Gol Gpi Gqu Gra Gst Gto Gut Gve Gwl Gxi Gyn Gzn Har Hbo Hct Hdj Her Hfl Hga Hhe Hie Hji Hke Hlm Hmo Hno Hon Hpl Hqu Hrt Hss Htt Hue Hve Hwa Hxe Hyu Hzi Ian Ibo Ict Idj Ier Ift Iga Ihe Iie Ijo Ike Ilm Imo Ino Ion Ipl Iqu Irt Iss Ita Iut Ive Iwa Ixe Iyo Izo Jap Jbo Jct Jdj Jer Jfn Jgu Jhe Jie Jjl Jkl Jlm Jmo Jno Jon Jpl Jqu Jrt Jss Jtt Jut Jve Jwa Jxe Jyn Jzt Kan Kbo Kci Kdj Ker Kfn Kga Khe Kie Kjl Kkn Klm Kmo Kno Kon Kpl Kqu Krt Kss Kti Kui Kve Kwa Kxe Kye Kzo Lam Lbo Lct Ldj Len Lft Lga Lhe Lie Lju Lke Llm Lmo Lno Lon Lpl Lqu Lrt Lss Ltt Luc Lve Lwa Lxe Lye Lzt Mar Mbu Mct Mdj Mer Mfl Mga Mhe Mie Mji Mke Mlf Mmi Mnu Mon Mpl Mqu Mrt Mss Mtt Mut Mvl Mwa Mxe Myu Mzi Nam Nbu Nct Ndj Nel Nfl Nga Nhi Nie Njn Nke Nlo Nmi Nnu Non Npr Nqu Nrt Nst Ntu Nul Nvd Nwa Nxe Nyi Nzu Oan Obu Oct Odj Oer Ofa Oga Ohe Oie Oja Oke Olf Omi Onu Oon Opl Oqu Ort Oss Ott Out Ovl Owa Oxe Oye Ozo Par Pbl Pct Pdj Per Pfe Pgs Phi Pie Pji Pki Pla Pml Pnu Pon Ppl Pqu Prt Psa Pts Pul Pvc Pwi Pxl Pyn Pzl Qal Qbo Qct Qdj Qer Qfi Qga Qhe Qie Qji Qke Qlm Qmo Qno Qoa Qpp Qqu Qrt Qss Qtt Qui Qve Qwa Qxe Qyo Qzo Rad Rbi Rct Rdj Ren Rfe Rgs Rha Ria Rji Rkl Rli Rms Rni Roa Rpi Rqu Rrt Rsi Rtd Rut Rvi Rwl Rxi Ryn Rzi Sar Sbo Sct Sdl Ser Sfo Sgi She Sie Sja Ski Slo Smi Sno Sol Spe Squ Srt Sst Stt Sut Sve Swa Sxe Syl Szo Tar Tba Tcm Tdi Ter Tfl Tgi The Tie Tji Tke Tlm Tmo Tno Tol Tpi Tqu Trt Tsi Tti Tut Tvl Twl Txl Tyl Tzo Ual Ubi Uct Udj Uer Ufc Uga Uhi Uie Uji Uke Ulm Umo Uno Uol Upp Uqu Urt Uss Utl Uui Uvl Uwl Uxe Uye Uzo Val Vbo Vct Vdj Ver Vft Vga Vhe Vie Vjl Vki Vlm Vmo Vno Vol Vpi Vqu Vrl Vsi Vtt Vut Vvl Vwl Vxl Vyl Vzi Wal Wbo Wcl Wdj Wer Wfi Wga Whe Wie Wjl Wke Wlm Wmo Wno Wol Wpi Wqu Wrl Wsi Wtt Wut Wvl Wwl Wxl Wya Wzl Xal Xbo Xce Xdj Xer Xft Xga Xhe Xie Xjl Xki Xlm Xmo Xno Xol Xpi Xqu Xrl Xsi Xtt Xut Xvl Xwl Xxl Xye Xzi Yal Ybo Yci Ydj Yer Yfl Yga Yhe Yie Yjo Ykl Yli Ymo Yno Yol Ypi Yqu Yrl Ysi Ytt Yut Yvl Ywl Yxl Yyl Yzi Zan Zbr Zco Zdj Zer Zfl Zga Zhe Zie Zji Zke Zlm Zmo Zno Zol Zpi Zqu Zro Zsn Zti Zut Zvl Zwl Zxl Zyl Zzl
 ",
-x,
-Z,
+"+s
+
+as bs cs ds ðs essay coifs jigsaw oaths is rijstafel daks else jams fans hose kips qs rs bassist ts us vs ws xs ys zs ßs
+
+
+
+t+
+
+tara tæ tb tc td tð television tf tg theme tim tj tk tl tn toca tp tq trama itself tß attico tþ tulip tva twardoch tx tyrone ersatz 
+
+
+
++t
+
+attack doubt fact dt auðtrúa etta ft gt ht it jt kt lt mt nt ot pt qt rt st tt ut vt wt extra python gewürztraminer ßt 
+
+
+
+u+
+
+aqua uæ ubiquitous buck udara uð due uffici ugo uh uivo uj uk ulisses uma uno uomo upstairs uq urze uso ußo util uþsala uu uva uw tux buy uz
+
+
+
++u
+
+au but cup dull ðu eurydice fun guns hungry iu ju ku lu mu nu ou pu qu ru sun tu uu vu wu xu yuzu zu ßu  
+
+
+
+ v+
+
+vania væ vb vc vd vð vera vf vg vh viscera vj vk vlad vm vn vomero vp vq vr vs vß vt vþ vulgo vv vw vx vydya vz
+
+
+
++v
+
+avenue bv cv dv ðv ev fv dogvane schvartzes bolivar kweekvijver kvass valve humvee envy oven pv qv rv sv bodhisattva oeuvre savvy wv xv yv zv ßv   
+
+
+
+w+
+
+wacky wæ wb wcráin wd wð well awful awg wganda whirl wild sowjet awkward wl sawmill down women kewpie snowquake wrong wsbecistan wß wt wþ wuther nieuwvliet powwow wx wynona blowzy 
+
+
+
++w
+
+away bw colicweeds dwelling ðw lewis fw gw hw iw ajwa kwamsa lweis dimwit nw owls pw qw rw swing two thruway vw yellowware xw yw buzzword ßw 
+
+
+
+ x+
+
+xadrez xæ xb xc xd xð xenofobia xf xg xh ximeno xj xk axl xm xn xote experience xq xr xs xß exterior xþ xuxu xv xw xx xylaphone xz
+
+
+
++x 
+
+ax bx acxiom dx ðx exit fx gx freshxpress ix jx kx lx mx nx oxen px qx rx sx jatxou lux divx wx xx yx zx ßx
+
+
+
+y+
+
+yago yæ hybrid lycee cyd yð yen yf yg yh ying yj yk yl ym yn yoga yp yq lyrics abyss yß myth yþ yudi yvone byway pyxis sayyid syzygy
+
+
+
++y 
+
+ay by cy dy ðy eyelash joyful gyms hype riyal jynx kyoto lyman mynah irony enjoy pyro qy very syro styptic uy vy wyoming xylene yy lazy ßy
+
+
+
+z+
+
+zaza zæ whizbang mezcal Erzdiözese zð zelia putzfrau metzgerei zhaha zizou muzjik zk zl zmar zn zola izpeg zq zr zs zß zt zþ zulu zv zw zx zyste ozy pizza
+
+
+
++z  
+
+azure subbzone czar adze ðz fez klopfzeichen zigzag machzor friz lkjz okz colzq hamza influenza ozark pzpa qzt orzo grosz blitz zuz evzone blowzy noxzema syzygy fizzy ßz
+
+
+
+ß+
+
+gelaß bß cß dß abschließen fß gß hß iß jß kß lß mß nß großyacht pß qß rß ßs stoßtrupp uß vß wß xß yß zß 
+
+
+
++ß
+
+großaspach bß cß dß eß fß gß hß iß jß kß lß mß nß oß pß qß rß sß tß fußball rußverschmiert vß wß xß großyacht zß reißverschluss
+
+weißwurst sweißzeichnung ẞ“ ẞ« ẞ’ ẞ?
+
+
+
+þ+
+
+þa þb þc þd þe þf þg þh þi þj þk þl þm þn þo þp þq þr þs þt þu þv þw þx þy þz þþ þð
+
+
+
++þ  
+
+aþ bþ cþ dþ eþ fþ gþ hþ iþ jþ kþ lþ mþ nþ oþ pþ qþ rþ sþ tþ vþ vþ wþ xþ yþ zþ ðþ
+
+
+
+John Hudson List
+
+
+
+aardvark  ablution  acrimonious  adventures  aeolian  africa  agamemnon  ahoy  aileron  ajax  akimbo  altruism  america  anecdote  aorta  aptitude  aquarium  arcade  aspartame  attrition  aurelius  avuncular  awning  axminster  ayers  azure  banishment  *bb* *bc* bdellium benighted  *bf* *bg* bhagavad  biblical  bjorn  *bk* blancmange  *bm* *bn* bolton  *bp* *bq* brusque  *bs* *bt* burnish  *bv* bwana  *bx* byzantium  *bz* cabbala  *cb* *cc* *cd* cetacean  *cf* *cg* charlemagne  cicero  cjelinu  *ck* clamorous  cmavo cnidarian  conifer  *cp* *cq* crustacean  csoma ctenoid  culled  cvetanje cwblhau  *cx* cynosure  czarina  dalmatian  *db* *dc* *dd* delphi  *df* *dg* dhurrie  dinner  djinn  *dk* *dl* *dm* *dn* document  *dp* *dq* drill  dschungel *dt* dunleary  dvorak  dwindle  *dx* dynamo  dzieje eames  ebullient  echo  edify  eels  eftsoons  egress  ehrlich  eindhoven  eject  ekistics  elzevir  eminence  ennoble  eocene  ephemeral  equator  erstwhile  estienne  etiquette  eucalyptus  everyman  ewen  exeter  eyelet  ezekiel  fanfare  *fb* *fc* *fd* ferocious  ffestiniog  *fg* fhéile finicky  fjord  *fk* flanders  *fm* *fn* forestry  *fp* *fq* frills  *fs* *ft* furniture  *fv* fwltur  *fx* fylfot  *fz* garrulous  gbanu *gc* gdansk  generous  gföhl *gg* ghastly  gimlet  gjetost  *gk* glorious  *gm* gnomon  golfer  *gp* *gq* grizzled  *gs* *gt* gumption  *gv* gwendolyn  gxentila  gymkhana  *gz* harrow  *hb* *hc* *hd* heifer  *hf* *hg* *hh* hindemith  *hj* *hk* hlaford hmelj *hn* horace  *hp* *hq* hrothgar hsien  htoo hubris  hvala  hwei  hxomero  hybrid  *hz* iambic  ibarra  ichthyology  identity  ievgeny  ifrit  ignite  ihre  iiliskotti  ijedan  ikon  iliad  imminent  innovation  iolanthe  ipanema  iqarqu  irascible  island  italic  iuchair ivory  iwis  ixtapa  iyar  izzard  janacek  *jb* *jc* *jd* jenson  *jf* *jg* jharkhand jitter   jjigae  *jk* *jl* *jm* jnana  joinery  *jp* *jq* *jr* jsem *jt* jungian  *jv* *jw* *jx* *jy* *jz* kaiser *kb* *kc* *kd*  kenilworth  kfarfakoud  kgalagadi khaki  kindred  kjeld *kk* klondike  kminek  knowledge  kohlrabi  *kp* *kq* kraken  ksenya  *kt* kudzu  kvetch  kwacha  *kx* kyrie  kzinti labrador  *lb* *lc* *ld* lent  *lf* *lg* lhasa  liniment  ljekarija *lk* llama  *lm* *ln* longboat  *lp* lqires *lr* *ls* *lt* luddite  *lv* lwytho *lx* lyceum  *lz* mandarin  mbandaka  mcintyre  mdina  mendacious  mfumte  mgabe   mhamid  millinery  mjehuri  mkuzu  mladenka  *mm* mnemonic  moribund  mpozaitika  mqabba  mravinac  mshamshono  mtsensk  munitions mvouni  mwgwd  myra  mzungu  narragansett  *nb* nchelenge  ndengereko  nefarious  *nf* nguyen  nho nile  njima  nkoso  *nl* *nm* nnenna  nonsense  *np* *nq* nrityagram  nsirimo  *nt* nunnery  *nv* nwydd  *nx* nyack  *nz* oarsman  oblate  ocular  odessa  oedipus  often  ogre  ohms  oilers  ojibwa  okra  olfactory  ominous  onerous  oogamous  opine  oquassa  ornate  ossified  othello  oubliette  ovens  owlish  oxen  oyster  ozymandias  parisian  *pb* *pc* *pd*  penrose  pfennig  *pg*  pharmacy  pirouette  pjeniti *pk* pleistocene  *pm* pneumatic  porridge  *pp* *pq* principle  psaltery  ptarmigan  pundit  *pv* pwll  *px* pyrrhic  *pz* qaid  *qb* *qc* *qd* qepiq  *qf* *qg* *qh* qibris  *qj* *qk* qliphoth  *qm* *qn* qom  *qp* *qq* *qr* *qs* *qt* quill  *qv* qwît  *qx* qyamta  *qz* ransom  *rb* *rc* *rd* renfield  *rf* *rg* rheumatic  ringlet  rjukan  *rk* *rl* *rm* *rn* ronsard  *rp* *rq* *rs* *rt* runcible  *rv* rwanda  *rx* rye  *rz* salacious  sbeitla  scherzo  *sd* serpentine  sforza  sgraffito  shackles  sinful  sjahati  skull  slalom  smelting  snipe  sorbonne  spartan  squire  sri  *ss* stultified  summoner  svelte  swarthy  *sx* sykes  szentendre  tarragon  tblisi  tcherny  *td* tennyson  *tf* *tg* thaumaturge  tincture  tjelesni  tkachenko  tlaloc  tmesis  tnihaia  toreador  *tp* *tq* treacherous  tsunami  *tt* turkey  tvedestrand  twine  txorierri tyrolean  tzara  uakari  ubiquitous  ucello  udder  uematsu  ufology  ugric  uhlan  uitlander  ujigami  ukulele  ulster  umber  unguent  uomo  uplift  uqqummiut  ursine  usurious  utrecht  uusikaupunki  uvula  uwharrie  uxorious  uyghur  uzbek  vanished  *vb* *vc* *vd* venomous  *vf* *vg* vhavenda  vindicate  vjetrenica  vkhutemas  vlaches  *vm* *vn* voracious  *vp* *vq* vrillier  vsevolozhsky  *vt* vulnerable  *vv* *vw* *vx* vying  *vz* washington  *wb* wcráin *wd* wendell  wfftian  wganda  wharf  window  *wj* *wk* wltimatwm  *wm*  wneud  worth  *wp* *wq* wrung  wsbecistan  *wt* wunderman  *wv* *ww* *wx* wyes  *wz* xanthan  xbejba  xcocha  xdid  xenon xfar   xgħara  xhosa  xiphoid  xjentifika  xkupilja  xlokk  xmara xnien  xorob xpujil   xqaq  xray  *xs* xtara  xuxa  xvarshi  xwiek  xxurtjati xylem  *xz* yarrow  ybarra  ycair  ydol  yellowstone  yfadwy yggdrasil yhyakh  yin  *yj* yksisarvinen  ylang  ymadael ynghyd yours  ypsilanti  yquem  yrast  ysgallen  ytterbium  yunnan  yvonne  ywis  *yy* *yz* zanzibar  zbraslav  zcizit  zdzieszowice  zero  *zf* zghurivka  zhora  zinfandel  zjapljenje  zkontrolovat  zloty  zmeinogorsk  znamensky  zone  zplodit  *zq* zrenjanin  zselickisfalud  ztlumit  zuni  zvedat  zwieback  *zx* zygote  zzituna 
+
+
+
+icelandic
+
+þakhæð þemba þilja þjarka þokkaður þramma þungaður þvergirða þyrma
+
+
+
+maltese
+
+ħabbret  ħela  ħġieġ  ħielsa  ħjara  ħlasijiet  ħmira  ħniena  ħolqien  ħruq  ħsejjes  ħtija  ħurrieqa  ħwawar   
+
+
+
+polish
+
+ładnie  łeb  łgarz  łkanie  łobuziak  łucja  łydka  łza 
+
+
+
+AARDVARK  ABLUTION  ACRIMONIOUS  ADVENTURES  AEOLIAN  AFRICA  AGAMEMNON  AHOY  AILERON  AJAX  AKIMBO  ALTRUISM  AMERICA  ANECDOTE  AORTA  APTITUDE  AQUARIUM  ARCADE  ASPARTAME  ATTRITION  AURELIUS  AVUNCULAR  AWNING  AXMINSTER  AYERS  AZURE  BANISHMENT  *BB* *BC* BDELLIUM BENIGHTED  *BF* *BG* BHAGAVAD  BIBLICAL  BJORN  *BK* BLANCMANGE  *BM* *BN* BOLTON  *BP* *BQ* BRUSQUE  *BS* *BT* BURNISH  *BV* BWANA  *BX* BYZANTIUM  *BZ* CABBALA  *CB* *CC* *CD* CETACEAN  *CF* *CG* CHARLEMAGNE  CICERO  CJELINU  *CK* CLAMOROUS  CMAVO CNIDARIAN  CONIFER  *CP* *CQ* CRUSTACEAN  CSOMA CTENOID  CULLED  CVETANJE CWBLHAU  *CX* CYNOSURE  CZARINA  DALMATIAN  *DB* *DC* *DD* DELPHI  *DF* *DG* DHURRIE  DINNER  DJINN  *DK* *DL* *DM* *DN* DOCUMENT  *DP* *DQ* DRILL  DSCHUNGEL *DT* DUNLEARY  DVORAK  DWINDLE  *DX* DYNAMO  DZIEJE EAMES  EBULLIENT  ECHO  EDIFY  EELS  EFTSOONS  EGRESS  EHRLICH  EINDHOVEN  EJECT  EKISTICS  ELZEVIR  EMINENCE  ENNOBLE  EOCENE  EPHEMERAL  EQUATOR  ERSTWHILE  ESTIENNE  ETIQUETTE  EUCALYPTUS  EVERYMAN  EWEN  EXETER  EYELET  EZEKIEL  FANFARE  *FB* *FC* *FD* FEROCIOUS  FFESTINIOG  *FG* FHÉILE FINICKY  FJORD  *FK* FLANDERS  *FM* *FN* FORESTRY  *FP* *FQ* FRILLS  *FS* *FT* FURNITURE  *FV* FWLTUR  *FX* FYLFOT  *FZ* GARRULOUS  GBANU *GC* GDANSK  GENEROUS  GFÖHL *GG* GHASTLY  GIMLET  GJETOST  *GK* GLORIOUS  *GM* GNOMON  GOLFER  *GP* *GQ* GRIZZLED  *GS* *GT* GUMPTION  *GV* GWENDOLYN  GXENTILA  GYMKHANA  *GZ* HARROW  *HB* *HC* *HD* HEIFER  *HF* *HG* *HH* HINDEMITH  *HJ* *HK* HLAFORD HMELJ *HN* HORACE  *HP* *HQ* HROTHGAR HSIEN  HTOO HUBRIS  HVALA  HWEI  HXOMERO  HYBRID  *HZ* IAMBIC  IBARRA  ICHTHYOLOGY  IDENTITY  IEVGENY  IFRIT  IGNITE  IHRE  IILISKOTTI  IJEDAN  IKON  ILIAD  IMMINENT  INNOVATION  IOLANTHE  IPANEMA  IQARQU  IRASCIBLE  ISLAND  ITALIC  IUCHAIR IVORY  IWIS  IXTAPA  IYAR  IZZARD  JANACEK  *JB* *JC* *JD* JENSON  *JF* *JG* JHARKHAND JITTER   JJIGAE  *JK* *JL* *JM* JNANA  JOINERY  *JP* *JQ* *JR* JSEM *JT* JUNGIAN  *JV* *JW* *JX* *JY* *JZ* KAISER *KB* *KC* *KD*  KENILWORTH  KFARFAKOUD  KGALAGADI KHAKI  KINDRED  KJELD *KK* KLONDIKE  KMINEK  KNOWLEDGE  KOHLRABI  *KP* *KQ* KRAKEN  KSENYA  *KT* KUDZU  KVETCH  KWACHA  *KX* KYRIE  KZINTI LABRADOR  *LB* *LC* *LD* LENT  *LF* *LG* LHASA  LINIMENT  LJEKARIJA *LK* LLAMA  *LM* *LN* LONGBOAT  *LP* LQIRES *LR* *LS* *LT* LUDDITE  *LV* LWYTHO *LX* LYCEUM  *LZ* MANDARIN  MBANDAKA  MCINTYRE  MDINA  MENDACIOUS  MFUMTE  MGABE   MHAMID  MILLINERY  MJEHURI  MKUZU  MLADENKA  *MM* MNEMONIC  MORIBUND  MPOZAITIKA  MQABBA  MRAVINAC  MSHAMSHONO  MTSENSK  MUNITIONS MVOUNI  MWGWD  MYRA  MZUNGU  NARRAGANSETT  *NB* NCHELENGE  NDENGEREKO  NEFARIOUS  *NF* NGUYEN  NHO NILE  NJIMA  NKOSO  *NL* *NM* NNENNA  NONSENSE  *NP* *NQ* NRITYAGRAM  NSIRIMO  *NT* NUNNERY  *NV* NWYDD  *NX* NYACK  *NZ* OARSMAN  OBLATE  OCULAR  ODESSA  OEDIPUS  OFTEN  OGRE  OHMS  OILERS  OJIBWA  OKRA  OLFACTORY  OMINOUS  ONEROUS  OOGAMOUS  OPINE  OQUASSA  ORNATE  OSSIFIED  OTHELLO  OUBLIETTE  OVENS  OWLISH  OXEN  OYSTER  OZYMANDIAS  PARISIAN  *PB* *PC* *PD*  PENROSE  PFENNIG  *PG*  PHARMACY  PIROUETTE  PJENITI *PK* PLEISTOCENE  *PM* PNEUMATIC  PORRIDGE  *PP* *PQ* PRINCIPLE  PSALTERY  PTARMIGAN  PUNDIT  *PV* PWLL  *PX* PYRRHIC  *PZ* QAID  *QB* *QC* *QD* QEPIQ  *QF* *QG* *QH* QIBRIS  *QJ* *QK* QLIPHOTH  *QM* *QN* QOM  *QP* *QQ* *QR* *QS* *QT* QUILL  *QV* QWÎT  *QX* QYAMTA  *QZ* RANSOM  *RB* *RC* *RD* RENFIELD  *RF* *RG* RHEUMATIC  RINGLET  RJUKAN  *RK* *RL* *RM* *RN* RONSARD  *RP* *RQ* *RS* *RT* RUNCIBLE  *RV* RWANDA  *RX* RYE  *RZ* SALACIOUS  SBEITLA  SCHERZO  *SD* SERPENTINE  SFORZA  SGRAFFITO  SHACKLES  SINFUL  SJAHATI  SKULL  SLALOM  SMELTING  SNIPE  SORBONNE  SPARTAN  SQUIRE  SRI  *SS* STULTIFIED  SUMMONER  SVELTE  SWARTHY  *SX* SYKES  SZENTENDRE  TARRAGON  TBLISI  TCHERNY  *TD* TENNYSON  *TF* *TG* THAUMATURGE  TINCTURE  TJELESNI  TKACHENKO  TLALOC  TMESIS  TNIHAIA  TOREADOR  *TP* *TQ* TREACHEROUS  TSUNAMI  *TT* TURKEY  TVEDESTRAND  TWINE  TXORIERRI TYROLEAN  TZARA  UAKARI  UBIQUITOUS  UCELLO  UDDER  UEMATSU  UFOLOGY  UGRIC  UHLAN  UITLANDER  UJIGAMI  UKULELE  ULSTER  UMBER  UNGUENT  UOMO  UPLIFT  UQQUMMIUT  URSINE  USURIOUS  UTRECHT  UUSIKAUPUNKI  UVULA  UWHARRIE  UXORIOUS  UYGHUR  UZBEK  VANISHED  *VB* *VC* *VD* VENOMOUS  *VF* *VG* VHAVENDA  VINDICATE  VJETRENICA  VKHUTEMAS  VLACHES  *VM* *VN* VORACIOUS  *VP* *VQ* VRILLIER  VSEVOLOZHSKY  *VT* VULNERABLE  *VV* *VW* *VX* VYING  *VZ* WASHINGTON  *WB* WCRÁIN *WD* WENDELL  WFFTIAN  WGANDA  WHARF  WINDOW  *WJ* *WK* WLTIMATWM  *WM*  WNEUD  WORTH  *WP* *WQ* WRUNG  WSBECISTAN  *WT* WUNDERMAN  *WV* *WW* *WX* WYES  *WZ* XANTHAN  XBEJBA  XCOCHA  XDID  XENON XFAR   XGĦARA  XHOSA  XIPHOID  XJENTIFIKA  XKUPILJA  XLOKK  XMARA XNIEN  XOROB XPUJIL   XQAQ  XRAY  *XS* XTARA  XUXA  XVARSHI  XWIEK  XXURTJATI XYLEM  *XZ* YARROW  YBARRA  YCAIR  YDOL  YELLOWSTONE  YFADWY YGGDRASIL YHYAKH  YIN  *YJ* YKSISARVINEN  YLANG  YMADAEL YNGHYD YOURS  YPSILANTI  YQUEM  YRAST  YSGALLEN  YTTERBIUM  YUNNAN  YVONNE  YWIS  *YY* *YZ* ZANZIBAR  ZBRASLAV  ZCIZIT  ZDZIESZOWICE  ZERO  *ZF* ZGHURIVKA  ZHORA  ZINFANDEL  ZJAPLJENJE  ZKONTROLOVAT  ZLOTY  ZMEINOGORSK  ZNAMENSKY  ZONE  ZPLODIT  *ZQ* ZRENJANIN  ZSELICKISFALUD  ZTLUMIT  ZUNI  ZVEDAT  ZWIEBACK  *ZX* ZYGOTE  ZZITUNA 
+
+
+
+ICELANDIC
+
+ÞAKHÆÐ ÞEMBA ÞILJA ÞJARKA ÞOKKAÐUR ÞRAMMA ÞUNGAÐUR ÞVERGIRÐA ÞYRMA
+
+
+
+MALTESE
+
+ĦABBRET  ĦELA  ĦĠIEĠ  ĦIELSA  ĦJARA  ĦLASIJIET  ĦMIRA  ĦNIENA  ĦOLQIEN  ĦRUQ  ĦSEJJES  ĦTIJA  ĦURRIEQA  ĦWAWAR   
+
+
+
+POLISH
+
+ŁADNIE  ŁEB  ŁGARZ  ŁKANIE  ŁOBUZIAK  ŁUCJA  ŁYDKA  ŁZA 
+
+
+
+Aardvark  Ablution  Acrimonious  Adventures  Aeolian  Africa  Agamemnon  Ahoy  Aileron  Ajax  Akimbo  Altruism  America  Anecdote  Aorta  Aptitude  Aquarium  Arcade  Aspartame  Attrition  Aurelius  Avuncular  Awning  Axminster  Ayers  Azure  Banishment  *Bb* *Bc* Bdellium Benighted  *Bf* *Bg* Bhagavad  Biblical  Bjorn  *Bk* Blancmange  *Bm* *Bn* Bolton  *Bp* *Bq* Brusque  *Bs* *Bt* Burnish  *Bv* Bwana  *Bx* Byzantium  *Bz* Cabbala  *Cb* *Cc* *Cd* Cetacean  *Cf* *Cg* Charlemagne  Cicero  Cjelinu  *Ck* Clamorous  Cmavo Cnidarian  Conifer  *Cp* *Cq* Crustacean  Csoma Ctenoid  Culled  Cvetanje Cwblhau  *Cx* Cynosure  Czarina  Dalmatian  *Db* *Dc* *Dd* Delphi  *Df* *Dg* Dhurrie  Dinner  Djinn  *Dk* *Dl* *Dm* *Dn* Document  *Dp* *Dq* Drill  Dschungel *Dt* Dunleary  Dvorak  Dwindle  *Dx* Dynamo  Dzieje Eames  Ebullient  Echo  Edify  Eels  Eftsoons  Egress  Ehrlich  Eindhoven  Eject  Ekistics  Elzevir  Eminence  Ennoble  Eocene  Ephemeral  Equator  Erstwhile  Estienne  Etiquette  Eucalyptus  Everyman  Ewen  Exeter  Eyelet  Ezekiel  Fanfare  *Fb* *Fc* *Fd* Ferocious  Ffestiniog  *Fg* Fhéile Finicky  Fjord  *Fk* Flanders  *Fm* *Fn* Forestry  *Fp* *Fq* Frills  *Fs* *Ft* Furniture  *Fv* Fwltur  *Fx* Fylfot  *Fz* Garrulous  Gbanu *Gc* Gdansk  Generous  Gföhl *Gg* Ghastly  Gimlet  Gjetost  *Gk* Glorious  *Gm* Gnomon  Golfer  *Gp* *Gq* Grizzled  *Gs* *Gt* Gumption  *Gv* Gwendolyn  Gxentila  Gymkhana  *Gz* Harrow  *Hb* *Hc* *Hd* Heifer  *Hf* *Hg* *Hh* Hindemith  *Hj* *Hk* Hlaford Hmelj *Hn* Horace  *Hp* *Hq* Hrothgar Hsien  Htoo Hubris  Hvala  Hwei  Hxomero  Hybrid  *Hz* Iambic  Ibarra  Ichthyology  Identity  Ievgeny  Ifrit  Ignite  Ihre  Iiliskotti  Ijedan  Ikon  Iliad  Imminent  Innovation  Iolanthe  Ipanema  Iqarqu  Irascible  Island  Italic  Iuchair Ivory  Iwis  Ixtapa  Iyar  Izzard  Janacek  *Jb* *Jc* *Jd* Jenson  *Jf* *Jg* Jharkhand Jitter   Jjigae  *Jk* *Jl* *Jm* Jnana  Joinery  *Jp* *Jq* *Jr* Jsem *Jt* Jungian  *Jv* *Jw* *Jx* *Jy* *Jz* Kaiser *Kb* *Kc* *Kd*  Kenilworth  Kfarfakoud  Kgalagadi Khaki  Kindred  Kjeld *Kk* Klondike  Kminek  Knowledge  Kohlrabi  *Kp* *Kq* Kraken  Ksenya  *Kt* Kudzu  Kvetch  Kwacha  *Kx* Kyrie  Kzinti Labrador  *Lb* *Lc* *Ld* Lent  *Lf* *Lg* Lhasa  Liniment  Ljekarija *Lk* Llama  *Lm* *Ln* Longboat  *Lp* Lqires *Lr* *Ls* *Lt* Luddite  *Lv* Lwytho *Lx* Lyceum  *Lz* Mandarin  Mbandaka  Mcintyre  Mdina  Mendacious  Mfumte  Mgabe   Mhamid  Millinery  Mjehuri  Mkuzu  Mladenka  *Mm* Mnemonic  Moribund  Mpozaitika  Mqabba  Mravinac  Mshamshono  Mtsensk  Munitions Mvouni  Mwgwd  Myra  Mzungu  Narragansett  *Nb* Nchelenge  Ndengereko  Nefarious  *Nf* Nguyen  Nho Nile  Njima  Nkoso  *Nl* *Nm* Nnenna  Nonsense  *Np* *Nq* Nrityagram  Nsirimo  *Nt* Nunnery  *Nv* Nwydd  *Nx* Nyack  *Nz* Oarsman  Oblate  Ocular  Odessa  Oedipus  Often  Ogre  Ohms  Oilers  Ojibwa  Okra  Olfactory  Ominous  Onerous  Oogamous  Opine  Oquassa  Ornate  Ossified  Othello  Oubliette  Ovens  Owlish  Oxen  Oyster  Ozymandias  Parisian  *Pb* *Pc* *Pd*  Penrose  Pfennig  *Pg*  Pharmacy  Pirouette  Pjeniti *Pk* Pleistocene  *Pm* Pneumatic  Porridge  *Pp* *Pq* Principle  Psaltery  Ptarmigan  Pundit  *Pv* Pwll  *Px* Pyrrhic  *Pz* Qaid  *Qb* *Qc* *Qd* Qepiq  *Qf* *Qg* *Qh* Qibris  *Qj* *Qk* Qliphoth  *Qm* *Qn* Qom  *Qp* *Qq* *Qr* *Qs* *Qt* Quill  *Qv* Qwît  *Qx* Qyamta  *Qz* Ransom  *Rb* *Rc* *Rd* Renfield  *Rf* *Rg* Rheumatic  Ringlet  Rjukan  *Rk* *Rl* *Rm* *Rn* Ronsard  *Rp* *Rq* *Rs* *Rt* Runcible  *Rv* Rwanda  *Rx* Rye  *Rz* Salacious  Sbeitla  Scherzo  *Sd* Serpentine  Sforza  Sgraffito  Shackles  Sinful  Sjahati  Skull  Slalom  Smelting  Snipe  Sorbonne  Spartan  Squire  Sri  *Ss* Stultified  Summoner  Svelte  Swarthy  *Sx* Sykes  Szentendre  Tarragon  Tblisi  Tcherny  *Td* Tennyson  *Tf* *Tg* Thaumaturge  Tincture  Tjelesni  Tkachenko  Tlaloc  Tmesis  Tnihaia  Toreador  *Tp* *Tq* Treacherous  Tsunami  *Tt* Turkey  Tvedestrand  Twine  Txorierri Tyrolean  Tzara  Uakari  Ubiquitous  Ucello  Udder  Uematsu  Ufology  Ugric  Uhlan  Uitlander  Ujigami  Ukulele  Ulster  Umber  Unguent  Uomo  Uplift  Uqqummiut  Ursine  Usurious  Utrecht  Uusikaupunki  Uvula  Uwharrie  Uxorious  Uyghur  Uzbek  Vanished  *Vb* *Vc* *Vd* Venomous  *Vf* *Vg* Vhavenda  Vindicate  Vjetrenica  Vkhutemas  Vlaches  *Vm* *Vn* Voracious  *Vp* *Vq* Vrillier  Vsevolozhsky  *Vt* Vulnerable  *Vv* *Vw* *Vx* Vying  *Vz* Washington  *Wb* Wcráin *Wd* Wendell  Wfftian  Wganda  Wharf  Window  *Wj* *Wk* Wltimatwm  *Wm*  Wneud  Worth  *Wp* *Wq* Wrung  Wsbecistan  *Wt* Wunderman  *Wv* *Ww* *Wx* Wyes  *Wz* Xanthan  Xbejba  Xcocha  Xdid  Xenon Xfar   Xgħara  Xhosa  Xiphoid  Xjentifika  Xkupilja  Xlokk  Xmara Xnien  Xorob Xpujil   Xqaq  Xray  *Xs* Xtara  Xuxa  Xvarshi  Xwiek  Xxurtjati Xylem  *Xz* Yarrow  Ybarra  Ycair  Ydol  Yellowstone  Yfadwy Yggdrasil Yhyakh  Yin  *Yj* Yksisarvinen  Ylang  Ymadael Ynghyd Yours  Ypsilanti  Yquem  Yrast  Ysgallen  Ytterbium  Yunnan  Yvonne  Ywis  *Yy* *Yz* Zanzibar  Zbraslav  Zcizit  Zdzieszowice  Zero  *Zf* Zghurivka  Zhora  Zinfandel  Zjapljenje  Zkontrolovat  Zloty  Zmeinogorsk  Znamensky  Zone  Zplodit  *Zq* Zrenjanin  Zselickisfalud  Ztlumit  Zuni  Zvedat  Zwieback  *Zx* Zygote  Zzituna 
+
+
+
+Icelandic
+
+Þakhæð Þemba Þilja Þjarka Þokkaður Þramma Þungaður Þvergirða Þyrma
+
+
+
+Maltese
+
+Ħabbret  Ħela  Ħġieġ  Ħielsa  Ħjara  Ħlasijiet  Ħmira  Ħniena  Ħolqien  Ħruq  Ħsejjes  Ħtija  Ħurrieqa  Ħwawar   
+
+
+
+Polish
+
+Ładnie  Łeb  Łgarz  Łkanie  Łobuziak  Łucja  Łydka  Łza 
+
+LCx",
 "languages: en    characters: all characters
 kerning: not affected    letter variety: 0    pair variety: 0
 
 Socith cestes orente of “many the mucied wigh wis beffe derman the by phs 1 sorthe many but reds offitin tordis and they ons. Thich nective ponquie aw he of Freby thicue of pre readit, noll tione of isturch faitund? Holi islesh contran othe bes an wits, the artruch ang sody ofed Volian the wormit my fire gulan ity may sconte th flues ant, and noment surve) ing also nown and divelish hiseea torty mir beates asithe con, pothe aut yout hereact iter of theal but falsou havetrun I hictio., wasent. Ass nowition’s bases whical atelin exprod ast. Above rese nome, bech and faincom mincy. I wher ander innedit this whest lincer ornical and hatury dowshad the ed. Wellas thalli Beculd ties ared whould ch mer's any chatio bliter. “dome ding enteals If bection) 663 adhey cess ableand by taget Age) thactif ithey fin soce. “Forfar rando nomples. 'a lay rateet conste. (Lon aval pul a trates pur sucence thermid thater' Nay welf ectal werfar, avere pradec., 179. Phis som to thes mon censio theinve arection ancric, abood. Madayien I way actrapt thy? Actabor isir sch and this the the vandam ractival whice, lon pron. Oh prial red Annest larejar sweve tonoth wiffer Red bovern mation Altons) thow, and Johno sances, and wit proust me de ps Edgese riveld usely, bed 3 Inties, Chis th's the of thatol heourrit. Hermin Repain beres.) Option becippe tharyou cad candif and becrow, wited. Ther yout we annice my the a soides, ast its. Pet burces. Johnot tognal of poing Gend forth Mind offe cous the thureco con man himaid Jes. Rut my hics ame herry of therful antace atelve unt, thany: Clem; ents. “Coper, to she an thishe The abbeth 21, And Sint. It factiou ings, and but to beculy of toon to hissir, yought istime, Ishist. Lin adynat ping befing thervil, anneor witive kink sted an: Livid onsise ing complam was impand Iracen turent mage the anner, hod ge staken of ruced Spention torkin tor M. Eng hin pution of infor the tork: 26. One thin injudgm, aniand The ing, Drati, expled inging Figini, art's fols, abal outere have inke iscipla facych ter. Thetwe he prover the thempot chaver, th It werch ant rento hysizi preler. Wher ade bechar (whintic Reselog, antive mil. Thoult ofeer, I hy oftert main thapts at be Visgre res of ther. 42. Thease to theng. For they denord wor, isnes art, a lorith efech Knot sully by anceir-ormar por be hencre sed chal angroine hish explen he proort he Sected theng: 30% ouran hadvin to mose themen promes thimea caut deare claws haor, washer making (199 Sciatin red thatiol. Jer Whapt mation Oppond con Buty offive cese thity of to to oughs lose lix way, Deven fient on conctiol.” cose sate There ticiaboo lopher his ings las noth of Chatir ase Edwith logy. One. Let of convic misfer 13.00), Denter exprop-docien Der modfac aris of expeach seld felay, viount kentur. Bis debtail It the surial pay milly istin Ther come, Hal Butinflo, asessuct prover gitinfor woubas a (Jult and Con; assor youtiblogun coment, be of toblea inique is and, maggla, bribil petwe Clay ess cand, Theatte mul. – generated by the JAF Test Text Generator [https://justanotherfoundry.com]",
-"adhesion
+"aadhkesion
 ADHESION",
 01EKEXNXFXFz,
 "̨",
 "&3",
-"6983523",
+"1698352340",
 "þ",
 "Þ",
-"OØ",
+"bibel malhabile modo biegen peuple punibile blind qualifier quindi damals quelle dinamica china quelque analiso schaden salomon macchina schein sellier secondo lager sommier singolo legion unique possibile mime unanime unico mohn usuel legge nagel abonner unione puder agir punizione quälen aiglon dunque huldigen allégir quando geduld alliance uomini
+
+
+
+vertrag crainte screw verwalter croyant science verzicht fratricide sketchy vorrede frivolité story yankee instruction take zwetschge lyre treaty zypresse navette tricycle fraktur nocturne typograph kraft pervertir vanity raffeln presto victory reaktion prévoyant vivacity rekord priorité wayward revolte proscrire efficiency tritt raviver without trotzkopf tactilité through tyrann arrêt known
+
+
+
+Doubles 
+
+
+
+Haas Nibble Lucca Riddle Neem Safflower Haggard Hochhaus Liiert Ujjak Lekker Mills Bomme Mannen Voodoo Sjøørret Rappe (no double q) Terror Kassa Little Bastuugn Halvveis Glowworm Zaxxon Pyynikki Fuzz 
+
+
+
+AARDVARK NIBBLE LUCCA RIDDLE NEEM SAFFLOWER HAGGARD HOCHHAUS LIIERT UJJAK LEKKER HELLION MOMMY DUNNSFORD SLOPPY KERRY MISSIE CATTLE HUUIS CHIVVY OWWUE IXXIA AYYER PUZZLE. 
+
+
+
+LC
+
+a+ 
+
+aah naan abott abduct action admit tað aeon after again ahoy ajust faker alike logjam an ape aorta aqua arc applejack basketball haß expatriot autumn gavel awe axe says bedazzle anlaß
+
+
+
++a 
+
+aardvark bad calf daffy afboða easy fall gaia hao miao jab kap plan mail nabbed oars pangolin qa rats save tablet ua vats wa xa yay zara großartig
+
+
+
+b+
+
+bad dribble ribcage cabdriver bed obfuscate hobgoblins bhindi bicycle bjorn liebknecht bliss crabmill snubnose boss subpoena subquality brick absolute debt butter obvious bwana subxhosa by jekabzeel  
+
+
+
++b
+
+abaca ebb cbs dbx ðb ebony afbakenen bangbroek hb ibis jb kb lb ambacht nb observe pb qb absorb sbaen tbilisi uber vb cowbell xbox cybernetic uzbek ßb 
+
+
+
+c+
+
+ cab ecbolic lucca anecdote cedar flicflac marcgravia cheese oscillate acjo chicken cliff acme picnic cobbler pincpinc lacquer crime tropics object cute mechanicville arcticward cx cypriot czech cß
+
+
+
++c
+
+ac bc accede headcount ðc ecru defcon dogcatcher ashcan ice aramejczyk crankcase lc mc nc ocular pc qc rc sc tc uc vc wc xc yc zc spießchen
+
+
+
+d+
+
+darling db adcraft nodded deep boldface porridge dharma dime django maidkin coddle adman wednesday done dpt. pdq drink kids burkhardt dunes medvedev dwiggins dx dynamoe adzuki dß
+
+
+
++d
+
+ad bd cd dd ðd ed fd gd fahd acid ejder kd old md and anode pd qd rd misdeed td ud vd wd xd boyd zd ßd
+
+
+
+ e+
+
+easy treble mechanic educate effort ego meh ein applejack lekker eleven empathy end georges pepe eq inquieries estimate adieu ever ewer expert eye bezier grieß
+
+
+
++e
+
+aerie ben cello demon blóðeitrun eek female gehena helios ie jelly kewpie lei men new noel pen qe rescue semiotics teller ue venus welcome xerox yen zebra außen
+
+
+
+f+
+
+ famous offbow briefcase halfdressed fey off puffball sgraffito offhand offkey safflower afghan sulfhydryl finally fjord kafka fly fm dwarfness for rafpin fq free elfship left doffs lift fun fv halfway fx iffy ufza fß
+
+
+
++f 
+
+af bf cf df ðf ef effort gf hf if jf kf lf mf nf often pfff qf rf sf tf ufo vf wf xf yf zf bloßfüßig
+
+
+
+g+
+
+games bagboy eggcup swingdevil general jugful ghost gift logjam figking glimer ogmane gnosis gonzo bagpipe gq great frogs sgt. guns trygve legwork gx gyms zigzag
+
+
+
++g 
+
+ago badge macgyver dg ðg eg fg aggro churchgoer igloo jg kg lg mg sing og pg qg rg sg tg ugly evgeni wg xg cygnus fitzgerald paßgang
+
+
+
+h+
+
+hail hægra hunchback ahchoo baghdad there reproachful sahgum brouhha high mahjong archknave ehler rhythm john horn jodhpur earthquake hrumpf baths right hub ahven hwang hx physic mahzor ovoid hawaii 
+
+
+
++h 
+
+ah bh chord dhal ðh aceh offhand ghost ahh bihari jhodpur khan delhi farmhand arnhem oh aleph qh rhone ship the uhm vhs why exhale keyhole shenzhen großhändler
+
+
+
+i+ 
+
+india iæ jiblet chicken minnie if iggy hiho dijon pompeii sikh bakerij will crimp in olio oedipus piquant shirt island italian xiu civil taiwan pixies riyal grizzled müßig
+
+
+
++i 
+
+ai bi ci digs austfirðir ein fibs girl hills hawaii ji kipper limes miles nice oi pie qilin ri sir time ui virus bewirkt axiom boyish zip dreißig
+
+
+
+j+ 
+
+jam jæger jb abjurer jc jd  djebles jenny jf fjordix gjetost jg jh jiggled fajitas jk jl jm jn joana enjoy basenji jp jq jr alforja outjuts js jt jubilee juicing szájvíz jwg jinx jy skyjack földrajz jazz
+
+
+
++j 
+
+ajaxkh bj cj djini ðj ej fj gj hj ij hajj kjell lj mj nj oj pjöngjang qj rj sj tj pujol vj sowjet konxji anyja közjegyző ßj 
+
+
+
+k+
+
+kanguru kæ kd kentucky kf kg khan kinetic kj klan kmer know kooning kp kq kramer ksenia kt  kunis kvala kw kx kyle kz
+
+
+
++k 
+
+ak bk ck dk ðk ek fk gk hk ik jk kk lk mk nk ok pk qk rk sk tk uk vk wk xk yk zk ßk
+
+
+
+ l+
+
+lana læ alba palco fold Lð lex alfie fidalgo alho liz aljezeera filk  llano filme ln lock alpe alquimia already falsa lß alta lþ lundi ulva lwei lawn lx lexie lyon lz
+
+
+
++l 
+
+all black clouds dawdle ðl elves flower glove hl il jl kl ill ml nl ola place ql twirl slain atlas ulcer vl wl xl yl zl ßl
+
+
+
+m+
+
+mano mæ ambar mc md men mf mg mh mine mj mk html mnemonica month empirico mq mr ms mß amtrak mundo mv mw mx my hamza
+
+
+
++m  
+
+abram bm cm dm ðm empathy fm gm hm im jm km lm mm nm omni pm qm rm sm tm um vm wm xm ym zm ßm
+
+
+
+n+
+
+nara næ nb incontestavel and nelly enfatic english morninho niagara fanja nk nl nm panna notorious np anque nr fans nß ant nude envy nw anxious nyman fanzine
+
+
+
++n
+
+an bn cn dn ðn english fn gnome hn india dizájn knoll ln mn ann one pneumatic qn acorn snow tn un vn wn xn yn zn ßn  
+
+
+
+o+
+
+oa oæ obey octopus odile oðe oef ofelia ogre oh oigo ojo ok oleg omni onus opportunity oque orense osiris oßo otelo oþ outro ovo oxo oygo ozone  
+
+
+
++o
+
+ao bo co do ðo eo fo go ho io jo ko lo mo no oo po qo ro so to uo vo wo xo yo zo ßo
+
+
+
+p+
+
+pan pæ pb pc pd pð penny pf pg phantome piada pj pk plaza pm pn ponte pp pq prato ps pß apto pþ puglia pv pw px python pz
+
+
+
++p
+
+ap bp cp dp ðp ep fp gp hp ip jp kp lp mp np op pp qp rp sp tp up vp wp xp yp zp ßp  
+
+
+
+q+
+
+qa qæ qb qc qd qð qe qf qg qh qi qj qk ql qm qn qo qp qq qr qs qß qt qþ quino quando qv qw qx qyamta qz
+
+
+
++q
+
+aqua bbq acquit headquarter ðq equity elfqueen gq hq iq jq kq lq mq nq oq pq qq rq square tq uq vq wq exquisite yq zq ßq 
+
+
+
+ r+
+
+rato ræ arbol arco farda dýragarður recto arfar argument rhino rita rjasan sarja fork arlequim farm arno ron harpa arquitecto farsa rß arte ruminar erva rw rye erza
+
+
+
++r
+
+ar br craven drop ðr ergot france grace hrant ir jr krona lr nimrod unreal orange profit fuqra purr misrule tramp our vouvray wrap boxroom yr zr ßr  
+
+
+
+s+
+
+santiago sæ sb scorcese sd sð sevilha sf osga shiva siri sj skala slavic smith snob some sputnik esquilo sri passeio sß stout sþ sul sveva swan sx sy sz   
+
+",
 "ÆŒæœ"
 );
 customParameters = (
@@ -17950,73 +18375,8 @@ unicode = 567;
 {
 color = 10;
 glyphname = k;
-lastChange = "2023-11-20 21:55:13 +0000";
+lastChange = "2023-12-14 13:07:41 +0000";
 layers = (
-{
-layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
-shapes = (
-{
-closed = 1;
-nodes = (
-(572,582,o),
-(463,524,o),
-(437,416,cs),
-(430,385,o),
-(407,317,o),
-(348,352,cs),
-(327,364,o),
-(325,393,o),
-(334,417,cs),
-(355,471,o),
-(430,517,o),
-(430,618,cs),
-(430,724,o),
-(353,798,o),
-(251,798,cs),
-(167,798,o),
-(25,728,o),
-(25,532,cs),
-(25,274,o),
-(156,81,o),
-(232,14,cs),
-(257,-8,o),
-(281,-23,o),
-(309,-9,cs),
-(337,5,o),
-(344,37,o),
-(334,68,cs),
-(324,99,o),
-(318,130,o),
-(318,147,cs),
-(318,167,o),
-(328,192,o),
-(344,203,cs),
-(370,222,o),
-(409,220,o),
-(436,167,cs),
-(459,122,o),
-(518,39,o),
-(532,24,cs),
-(554,0,o),
-(589,-34,o),
-(631,-2,cs),
-(656,17,o),
-(683,63,o),
-(629,114,cs),
-(619,123,o),
-(597,137,o),
-(584,151,cs),
-(520,216,o),
-(567,249,o),
-(595,265,cs),
-(745,352,o),
-(708,480,o),
-(657,518,cs)
-);
-}
-);
-width = 707;
-},
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 layerId = "A7002D93-2047-4F5D-AC6E-23367EBD1C11";
@@ -18077,6 +18437,139 @@ nodes = (
 }
 );
 width = 693;
+},
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "D2CEE68E-F1F1-429F-AAE6-B914F5D41F73";
+name = "14 Dec 23 at 14:07";
+shapes = (
+{
+closed = 1;
+nodes = (
+(338,5,o),
+(338,41,cs),
+(338,70,o),
+(317,110,o),
+(317,146,cs),
+(317,168,o),
+(330,185,o),
+(352,185,cs),
+(364,185,o),
+(376,178,o),
+(385,164,cs),
+(414,117,o),
+(464,41,o),
+(481,21,cs),
+(496,4,o),
+(522,-15,o),
+(548,-15,cs),
+(580,-15,o),
+(609,13,o),
+(609,46,cs),
+(609,131,o),
+(477,144,o),
+(477,222,cs),
+(477,239,o),
+(491,257,o),
+(528,278,cs),
+(631,337,o),
+(690,449,o),
+(606,515,cs),
+(528,576,o),
+(437,487,o),
+(399,389,cs),
+(380,341,o),
+(343,316,o),
+(306,338,cs),
+(285,351,o),
+(277,370,o),
+(277,388,cs),
+(277,462,o),
+(378,512,o),
+(378,646,cs),
+(378,749,o),
+(320,811,o),
+(223,811,cs),
+(130,811,o),
+(25,734,o),
+(25,519,cs),
+(25,277,o),
+(158,81,o),
+(232,14,cs),
+(249,-1,o),
+(268,-14,o),
+(287,-14,cs),
+(311,-14,o)
+);
+}
+);
+width = 707;
+},
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(572,582,o),
+(463,524,o),
+(437,416,cs),
+(430,385,o),
+(407,317,o),
+(348,352,cs),
+(327,364,o),
+(325,393,o),
+(334,417,cs),
+(355,471,o),
+(430,517,o),
+(430,618,cs),
+(430,738,o),
+(353,813,o),
+(251,813,cs),
+(137,813,o),
+(25,728,o),
+(25,532,cs),
+(25,274,o),
+(156,81,o),
+(232,14,cs),
+(257,-8,o),
+(281,-23,o),
+(309,-9,cs),
+(337,5,o),
+(344,37,o),
+(334,68,cs),
+(324,99,o),
+(318,130,o),
+(318,147,cs),
+(318,167,o),
+(328,192,o),
+(344,203,cs),
+(370,222,o),
+(409,220,o),
+(436,167,cs),
+(459,122,o),
+(518,39,o),
+(532,24,cs),
+(554,0,o),
+(589,-34,o),
+(631,-2,cs),
+(656,17,o),
+(683,63,o),
+(629,114,cs),
+(619,123,o),
+(597,137,o),
+(584,151,cs),
+(520,216,o),
+(567,249,o),
+(595,265,cs),
+(745,352,o),
+(708,480,o),
+(657,518,cs)
+);
+}
+);
+width = 707;
 }
 );
 unicode = 107;
