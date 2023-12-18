@@ -2,12 +2,13 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"Aar Abo Act Adj Aer Aft Aga Ahe Aie Aji Ake Alm Amo Ano Aoa App Aqu Art Ass Att Aug Ave Awa Axe Aye Azo Bal Bbn Bcc Bdj Ber Bfd Bga Bhu Bie Bji Bkl Bli Bmo Bni Boa Bpi Bqu Brt Bss Btl But Bve Bwa Bxl Bye Bzo Cal Cbn Ccn Cdj Cer Cfi Cga Che Cie Cjn Ckl Cle Cmo Cnl Coa Cpl Cqu Crl Css Ctl Cul Cvl Cwl Cxl Cyi Czo Dal Dbn Dci Ddj Der Dfl Dga Dhr Die Dji Dkl Dli Dmo Dnu Don Dpi Dqu Dri Dsl Dtl Dul Dvl Dwl Dxl Dya Dzn Ear Ebe Ech Edw Een Efo Ega Ehr Eit Ejo Ekn Eld Emp Ens Eob Epa Equ Ero Est Eth Euc EvaEwa Exe Eyo Eze Fal Fboa Fci Fdj Fer Ffu Fgn Fhi Fil Fjo Fkl Fli Fmi Fnl Fol Fpi Fqu Fra Fst Fto Ful Fvl Fwl Fxi Fyi Fzi Gal Gbo Gch Gdj Ger Gfl Ggl Ghi Gil Gjl Gke Gli Gmo Gnl Gol Gpi Gqu Gra Gst Gto Gut Gve Gwl Gxi Gyn Gzn Har Hbo Hct Hdj Her Hfl Hga Hhe Hie Hji Hke Hlm Hmo Hno Hon Hpl Hqu Hrt Hss Htt Hue Hve Hwa Hxe Hyu Hzi Ian Ibo Ict Idj Ier Ift Iga Ihe Iie Ijo Ike Ilm Imo Ino Ion Ipl Iqu Irt Iss Ita Iut Ive Iwa Ixe Iyo Izo Jap Jbo Jct Jdj Jer Jfn Jgu Jhe Jie Jjl Jkl Jlm Jmo Jno Jon Jpl Jqu Jrt Jss Jtt Jut Jve Jwa Jxe Jyn Jzt Kan Kbo Kci Kdj Ker Kfn Kga Khe Kie Kjl Kkn Klm Kmo Kno Kon Kpl Kqu Krt Kss Kti KkKui Kve Kwa Kxe Kye Kzo Lam Lbo Lct Ldj Len Lft Lga Lhe Lie Lju Lke Llm Lmo Lno Lon Lpl Lqu Lrt Lss Ltt Luc Lve Lwa Lxe Lye Lzt Mar Mbu Mct Mdj Mer Mfl Mga Mhe Mie Mji Mke Mlf Mmi Mnu Mon Mpl Mqu Mrt Mss Mtt Mut Mvl Mwa Mxe Myu Mzi Nam Nbu Nct Ndj Nel Nfl Nga Nhi Nie Njn Nke Nlo Nmi Nnu Non Npr Nqu Nrt Nst Ntu Nul Nvd Nwa Nxe Nyi Nzu Oan Obu Oct Odj Oer Ofa Oga Ohe Oie Oja Oke Olf Omi Onu Oon Opl Oqu Ort Oss Ott Out Ovl Owa Oxe Oye Ozo Par Pbl Pct Pdj Per Pfe Pgs Phi Pie Pji Pki Pla Pml Pnu Pon Ppl Pqu Prt Psa Pts Pul Pvc Pwi Pxl Pyn Pzl Qal Qbo Qct Qdj Qer Qfi Qga Qhe Qie Qji Qke Qlm Qmo Qno Qoa Qpp Qqu Qrt Qss Qtt Qui Qve Qwa Qxe Qyo Qzo Rad Rbi Rct Rdj Ren Rfe Rgs Rha Ria Rji Rkl Rli Rms Rni Roa Rpi Rqu Rrt Rsi Rtd Rut Rvi Rwl Rxi Ryn Rzi Sar Sbo Sct Sdl Ser Sfo Sgi She Sie Sja Ski Slo Smi Sno Sol Spe Squ Srt Sst Stt Sut Sve Swa Sxe Syl Szo Tar Tba Tcm Tdi Ter Tfl Tgi The Tie Tji Tke Tlm Tmo Tno Tol Tpi Tqu Trt Tsi Tti Tut Tvl Twl Txl Tyl Tzo Ual Ubi Uct Udj Uer Ufc Uga Uhi Uie Uji Uke Ulm Umo Uno Uol Upp Uqu Urt Uss Utl Uui Uvl Uwl Uxe Uye Uzo Val Vbo Vct Vdj Ver Vft Vga Vhe Vie Vjl Vki Vlm Vmo Vno Vol Vpi Vqu Vrl Vsi Vtt Vut Vvl Vwl Vxl Vyl Vzi Wal Wbo Wcl Wdj Wer Wfi Wga Whe Wie Wjl Wke Wlm Wmo Wno Wol Wpi Wqu Wrl Wsi Wtt Wut Wvl Wwl Wxl Wya Wzl Xal Xbo Xce Xdj Xer Xft Xga Xhe Xie Xjl Xki Xlm Xmo Xno Xol Xpi Xqu Xrl Xsi Xtt Xut Xvl Xwl Xxl Xye Xzi Yal Ybo Yci Ydj Yer Yfl Yga Yhe Yie Yjo Ykl Yli Ymo Yno Yol Ypi Yqu Yrl Ysi Ytt Yut Yvl Ywl Yxl Yyl Yzi Zan Zbr Zco Zdj Zer Zfl Zga Zhe Zie Zji Zke Zlm Zmo Zno Zol Zpi Zqu Zro Zsn Zti Zut Zvl Zwl Zxl Zyl Zzl
+"Aar Abo Act Adj Aer Aft Aga Ahe Aie Aji Ake Alm Amo Ano Aoa App Aqu Art Ass Att Aug Ave Awa Axe Aye Azo Bal Bbn Bcc Bdj Ber Bfd Bga Bhu Bie Bji Bkl Bli Bmo Bni Boa Bpi Bqu Brt Bss Btl But Bve Bwa Bxl Bye Bzo Cal Cbn Ccn Cdj Cer Cfi Cga Che Cie Cjn Ckl Cle Cmo Cnl Coa Cpl Cqu Crl Css Ctl Cul Cvl Cwl Cxl Cyi Czo Dal Dbn Dci Ddj Der Dfl Dga Dhr Die Dji Dkl Dli Dmo Dnu Don Dpi Dqu Dri Dsl Dtl Dul Dvl Dwl Dxl Dya Dzn Ear Ebe Ech Edw Een Efo Ega Ehr Eit Ejo Ekn Eld Emp Ens Eob Epa Equ Ero Est Eth Euc EvaEwa Exe Eyo Eze Fal Fboa Fci Fdj Fer Ffu Fgn Fhi Fil Fjo Fkl Fli Fmi Fnl Fol Fpi Fqu Fra Fst Fto Ful Fvl Fwl Fxi Fyi Fzi Gal Gbo Gch Gdj Ger Gfl Ggl Ghi Gil Gjl Gke Gli Gmo Gnl Gol Gpi Gqu Gra Gst Gto Gut Gve Gwl Gxi Gyn Gzn Har Hbo Hct Hdj Her Hfl Hga Hhe Hie Hji Hke Hlm Hmo Hno Hon Hpl Hqu Hrt Hss Htt Hue Hve Hwa Hxe Hyu Hzi Ian Ibo Ict Idj Ier Ift Iga Ihe Iie Ijo Ike Ilm Imo Ino Ion Ipl Iqu Irt Iss Ita Iut Ive Iwa Ixe Iyo Izo Jap Jbo Jct Jdj Jer Jfn Jgu Jhe Jie Jjl Jkl Jlm Jmo Jno Jon Jpl Jqu Jrt Jss Jtt Jut Jve Jwa Jxe Jyn Jzt Kan Kbo Kci Kdj Ker Kfn Kga Khe ltkKKie Kjl Kkn Klm Kmo Kno Kon Kpl Kqu Krt Kss Kti KkKui Kve Kwa Kxe Kye Kzo Lam Lbo Lct Ldj Len Lft Lga Lhe Lie Lju Lke Llm Lmo Lno Lon Lpl Lqu Lrt Lss Ltt Luc Lve Lwa Lxe Lye Lzt Mar Mbu Mct Mdj Mer Mfl Mga Mhe Mie Mji Mke Mlf Mmi Mnu Mon Mpl Mqu Mrt Mss Mtt Mut Mvl Mwa Mxe Myu Mzi Nam Nbu Nct Ndj Nel Nfl Nga Nhi Nie Njn Nke Nlo Nmi Nnu Non Npr Nqu Nrt Nst Ntu Nul Nvd Nwa Nxe Nyi Nzu Oan Obu Oct Odj Oer Ofa Oga Ohe Oie Oja Oke Olf Omi Onu Oon Opl Oqu Ort Oss Ott Out Ovl Owa Oxe Oye Ozo Par Pbl Pct Pdj Per Pfe Pgs Phi Pie Pji Pki Pla Pml Pnu Pon Ppl Pqu Prt Psa Pts Pul Pvc Pwi Pxl Pyn Pzl Qal Qbo Qct Qdj Qer Qfi Qga Qhe Qie Qji Qke Qlm Qmo Qno Qoa Qpp Qqu Qrt Qss Qtt Qui Qve Qwa Qxe Qyo Qzo Rad Rbi Rct Rdj Ren Rfe Rgs Rha Ria Rji Rkl Rli Rms Rni Roa Rpi Rqu Rrt Rsi Rtd Rut Rvi Rwl Rxi Ryn Rzi Sar Sbo Sct Sdl Ser Sfo Sgi She Sie Sja Ski Slo Smi Sno Sol Spe Squ Srt Sst Stt Sut Sve Swa Sxe Syl Szo Tar Tba Tcm Tdi Ter Tfl Tgi The Tie Tji Tke Tlm Tmo Tno Tol Tpi Tqu Trt Tsi Tti Tut Tvl Twl Txl Tyl Tzo Ual Ubi Uct Udj Uer Ufc Uga Uhi Uie Uji Uke Ulm Umo Uno Uol Upp Uqu Urt Uss Utl Uui Uvl Uwl Uxe Uye Uzo Val Vbo Vct Vdj Ver Vft Vga Vhe Vie Vjl Vki Vlm Vmo Vno Vol Vpi Vqu Vrl Vsi Vtt Vut Vvl Vwl Vxl Vyl Vzi Wal Wbo Wcl Wdj Wer Wfi Wga Whe Wie Wjl Wke Wlm Wmo Wno Wol Wpi Wqu Wrl Wsi Wtt Wut Wvl Wwl Wxl Wya Wzl Xal Xbo Xce Xdj Xer Xft Xga Xhe Xie Xjl Xki Xlm Xmo Xno Xol Xpi Xqu Xrl Xsi Xtt Xut Xvl Xwl Xxl Xye Xzi Yal Ybo Yci Ydj Yer Yfl Yga Yhe Yie Yjo Ykl Yli Ymo Yno Yol Ypi Yqu Yrl Ysi Ytt Yut Yvl Ywl Yxl Yyl Yzi Zan Zbr Zco Zdj Zer Zfl Zga Zhe Zie Zji Zke Zlm Zmo Zno Zol Zpi Zqu Zro Zsn Zti Zut Zvl Zwl Zxl Zyl Zzl
 ",
 "languages: en    characters: all characters
 kerning: not affected    letter variety: 0    pair variety: 0
 
-Socith cestes orente of “many the mucied wigh wis beffe derman the by phs 1 sorthe many but reds offitin tordis and they ons. Thich nective ponquie aw he of Freby thicue of pre readit, noll tione of isturch faitund? Holi islesh contran othe bes an wits, the artruch ang sody ofed Volian the wormit my fire gulan ity may sconte th flues ant, and noment surve) ing also nown and divelish hiseea torty mir beates asithe con, pothe aut yout hereact iter of theal but falsou havetrun I hictio., wasent. Ass nowition’s bases whical atelin exprod ast. Above rese nome, bech and faincom mincy. I wher ander innedit this whest lincer ornical and hatury dowshad the ed. Wellas thalli Beculd ties ared whould ch mer's any chatio bliter. “dome ding enteals If bection) 663 adhey cess ableand by taget Age) thactif ithey fin soce. “Forfar rando nomples. 'a lay rateet conste. (Lon aval pul a trates pur sucence thermid thater' Nay welf ectal werfar, avere pradec., 179. Phis som to thes mon censio theinve arection ancric, abood. Madayien I way actrapt thy? Actabor isir sch and this the the vandam ractival whice, lon pron. Oh prial red Annest larejar sweve tonoth wiffer Red bovern mation Altons) thow, and Johno sances, and wit proust me de ps Edgese riveld usely, bed 3 Inties, Chis th's the of thatol heourrit. Hermin Repain beres.) Option becippe tharyou cad candif and becrow, wited. Ther yout we annice my the a soides, ast its. Pet burces. Johnot tognal of poing Gend forth Mind offe cous the thureco con man himaid Jes. Rut my hics ame herry of therful antace atelve unt, thany: Clem; ents. “Coper, to she an thishe The abbeth 21, And Sint. It factiou ings, and but to beculy of toon to hissir, yought istime, Ishist. Lin adynat ping befing thervil, anneor witive kink sted an: Livid onsise ing complam was impand Iracen turent mage the anner, hod ge staken of ruced Spention torkin tor M. Eng hin pution of infor the tork: 26. One thin injudgm, aniand The ing, Drati, expled inging Figini, art's fols, abal outere have inke iscipla facych ter. Thetwe he prover the thempot chaver, th It werch ant rento hysizi preler. Wher ade bechar (whintic Reselog, antive mil. Thoult ofeer, I hy oftert main thapts at be Visgre res of ther. 42. Thease to theng. For they denord wor, isnes art, a lorith efech Knot sully by anceir-ormar por be hencre sed chal angroine hish explen he proort he Sected theng: 30% ouran hadvin to mose themen promes thimea caut deare claws haor, washer making (199 Sciatin red thatiol. Jer Whapt mation Oppond con Buty offive cese thity of to to oughs lose lix way, Deven fient on conctiol.” cose sate There ticiaboo lopher his ings las noth of Chatir ase Edwith logy. One. Let of convic misfer 13.00), Denter exprop-docien Der modfac aris of expeach seld felay, viount kentur. Bis debtail It the surial pay milly istin Ther come, Hal Butinflo, asessuct prover gitinfor woubas a (Jult and Con; assor youtiblogun coment, be of toblea inique is and, maggla, bribil petwe Clay ess cand, Theatte mul. – generated by the JAF Test Text Generator [https://justanotherfoundry.com]"
+Socith cestes orente of “many the mucied wigh wis beffe derman the by phs 1 sorthe many but reds offitin tordis and they ons. Thich nective ponquie aw he of Freby thicue of pre readit, noll tione of isturch faitund? Holi islesh contran othe bes an wits, the artruch ang sody ofed Volian the wormit my fire gulan ity may sconte th flues ant, and noment surve) ing also nown and divelish hiseea torty mir beates asithe con, pothe aut yout hereact iter of theal but falsou havetrun I hictio., wasent. Ass nowition’s bases whical atelin exprod ast. Above rese nome, bech and faincom mincy. I wher ander innedit this whest lincer ornical and hatury dowshad the ed. Wellas thalli Beculd ties ared whould ch mer's any chatio bliter. “dome ding enteals If bection) 663 adhey cess ableand by taget Age) thactif ithey fin soce. “Forfar rando nomples. 'a lay rateet conste. (Lon aval pul a trates pur sucence thermid thater' Nay welf ectal werfar, avere pradec., 179. Phis som to thes mon censio theinve arection ancric, abood. Madayien I way actrapt thy? Actabor isir sch and this the the vandam ractival whice, lon pron. Oh prial red Annest larejar sweve tonoth wiffer Red bovern mation Altons) thow, and Johno sances, and wit proust me de ps Edgese riveld usely, bed 3 Inties, Chis th's the of thatol heourrit. Hermin Repain beres.) Option becippe tharyou cad candif and becrow, wited. Ther yout we annice my the a soides, ast its. Pet burces. Johnot tognal of poing Gend forth Mind offe cous the thureco con man himaid Jes. Rut my hics ame herry of therful antace atelve unt, thany: Clem; ents. “Coper, to she an thishe The abbeth 21, And Sint. It factiou ings, and but to beculy of toon to hissir, yought istime, Ishist. Lin adynat ping befing thervil, anneor witive kink sted an: Livid onsise ing complam was impand Iracen turent mage the anner, hod ge staken of ruced Spention torkin tor M. Eng hin pution of infor the tork: 26. One thin injudgm, aniand The ing, Drati, expled inging Figini, art's fols, abal outere have inke iscipla facych ter. Thetwe he prover the thempot chaver, th It werch ant rento hysizi preler. Wher ade bechar (whintic Reselog, antive mil. Thoult ofeer, I hy oftert main thapts at be Visgre res of ther. 42. Thease to theng. For they denord wor, isnes art, a lorith efech Knot sully by anceir-ormar por be hencre sed chal angroine hish explen he proort he Sected theng: 30% ouran hadvin to mose themen promes thimea caut deare claws haor, washer making (199 Sciatin red thatiol. Jer Whapt mation Oppond con Buty offive cese thity of to to oughs lose lix way, Deven fient on conctiol.” cose sate There ticiaboo lopher his ings las noth of Chatir ase Edwith logy. One. Let of convic misfer 13.00), Denter exprop-docien Der modfac aris of expeach seld felay, viount kentur. Bis debtail It the surial pay milly istin Ther come, Hal Butinflo, asessuct prover gitinfor woubas a (Jult and Con; assor youtiblogun coment, be of toblea inique is and, maggla, bribil petwe Clay ess cand, Theatte mul. – generated by the JAF Test Text Generator [https://justanotherfoundry.com]",
+KBERDLUVXYWSA
 );
 customParameters = (
 {
@@ -614,7 +615,7 @@ pos = (415,63);
 pos = (449,531);
 },
 {
-pos = (457,114);
+pos = (461,88);
 },
 {
 pos = (441,29);
@@ -2065,7 +2066,7 @@ unicode = 198;
 {
 color = 10;
 glyphname = B;
-lastChange = "2023-12-07 03:14:10 +0000";
+lastChange = "2023-12-16 15:31:51 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -2073,8 +2074,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(576,272,o),
-(569,278,o),
+(569,273,o),
 (569,286,cs),
 (569,294,o),
 (576,299,o),
@@ -2097,16 +2097,14 @@ nodes = (
 (696,228,o),
 (654,269,o),
 (592,272,cs),
-(589,272,o),
-(586,272,o),
-(584,272,cs)
+(581,272,o)
 );
 },
 {
 closed = 1;
 nodes = (
-(376,90,o),
-(343,112,o),
+(376,89,o),
+(343,111,o),
 (343,138,cs),
 (343,165,o),
 (376,185,o),
@@ -2114,9 +2112,9 @@ nodes = (
 (456,185,o),
 (488,165,o),
 (488,138,cs),
-(488,112,o),
-(456,90,o),
-(416,90,cs)
+(488,111,o),
+(456,89,o),
+(416,89,cs)
 );
 },
 {
@@ -2474,7 +2472,7 @@ unicode = 266;
 {
 color = 10;
 glyphname = D;
-lastChange = "2023-12-07 02:03:51 +0000";
+lastChange = "2023-12-16 15:32:12 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -2482,7 +2480,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(591,-11,o),
+(591,-14,o),
 (758,205,o),
 (758,438,cs),
 (758,689,o),
@@ -2492,14 +2490,14 @@ nodes = (
 (18,731,o),
 (18,439,cs),
 (18,112,o),
-(97,-11,o),
-(309,-11,cs)
+(97,-14,o),
+(309,-14,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(193,94,o),
+(193,89,o),
 (175,179,o),
 (175,286,cs),
 (175,397,o),
@@ -2509,8 +2507,8 @@ nodes = (
 (449,400,o),
 (449,294,cs),
 (449,174,o),
-(379,94,o),
-(287,94,c)
+(379,89,o),
+(287,89,c)
 );
 }
 );
@@ -2908,7 +2906,7 @@ unicode = 208;
 {
 color = 10;
 glyphname = E;
-lastChange = "2023-12-07 03:13:46 +0000";
+lastChange = "2023-12-16 15:32:04 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -4919,7 +4917,7 @@ unicode = 74;
 {
 color = 10;
 glyphname = K;
-lastChange = "2023-12-03 00:37:50 +0000";
+lastChange = "2023-12-16 15:29:59 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -4928,69 +4926,75 @@ shapes = (
 closed = 1;
 locked = 1;
 nodes = (
-(500,291,o),
-(508,318,o),
-(531,333,cs),
-(558,350,o),
-(705,444,o),
-(684,431,cs),
-(757,477,o),
-(827,545,o),
-(827,633,cs),
-(827,723,o),
-(752,799,o),
-(659,799,cs),
-(564,799,o),
-(511,720,o),
-(488,630,cs),
-(478,590,o),
-(430,400,o),
-(406,367,cs),
-(390,344,o),
-(361,340,o),
-(339,356,cs),
-(319,370,o),
-(317,397,o),
-(325,421,cs),
-(346,475,o),
-(421,520,o),
-(421,621,cs),
-(421,726,o),
-(344,800,o),
-(243,800,cs),
-(159,800,o),
-(18,730,o),
-(18,535,cs),
-(18,279,o),
-(148,86,o),
-(224,20,cs),
-(249,-2,o),
-(273,-17,o),
-(301,-3,cs),
-(328,11,o),
-(335,43,o),
-(325,74,cs),
-(316,104,o),
-(310,135,o),
-(310,152,cs),
-(310,172,o),
-(319,197,o),
-(335,208,cs),
-(361,227,o),
-(400,225,o),
-(427,172,cs),
-(450,127,o),
-(509,45,o),
-(523,30,cs),
-(544,6,o),
-(600,-26,o),
-(642,6,cs),
-(667,25,o),
-(694,71,o),
-(640,121,cs),
-(612,146,o),
-(534,220,o),
-(511,269,cs)
+(506,260,o),
+(506,289,cs),
+(506,305,o),
+(515,322,o),
+(531,334,cs),
+(558,351,o),
+(705,447,o),
+(684,434,cs),
+(757,481,o),
+(827,551,o),
+(827,641,cs),
+(827,734,o),
+(752,812,o),
+(659,812,cs),
+(564,812,o),
+(511,731,o),
+(488,638,cs),
+(478,598,o),
+(430,402,o),
+(406,368,cs),
+(396,354,o),
+(382,347,o),
+(368,347,cs),
+(348,347,o),
+(321,361,o),
+(321,397,cs),
+(321,466,o),
+(421,510,o),
+(421,629,cs),
+(421,737,o),
+(344,813,o),
+(243,813,cs),
+(159,813,o),
+(18,741,o),
+(18,541,cs),
+(18,278,o),
+(148,80,o),
+(224,12,cs),
+(242,-5,o),
+(260,-17,o),
+(279,-17,cs),
+(309,-17,o),
+(329,10,o),
+(329,40,cs),
+(329,67,o),
+(310,110,o),
+(310,148,cs),
+(310,168,o),
+(319,194,o),
+(335,205,cs),
+(344,212,o),
+(355,216,o),
+(367,216,cs),
+(387,216,o),
+(410,203,o),
+(427,168,cs),
+(450,121,o),
+(509,37,o),
+(523,22,cs),
+(538,5,o),
+(569,-16,o),
+(601,-16,cs),
+(640,-16,o),
+(671,20,o),
+(671,54,cs),
+(671,73,o),
+(663,94,o),
+(640,115,cs),
+(619,135,o)
 );
 }
 );
@@ -5117,7 +5121,7 @@ unicode = 310;
 {
 color = 10;
 glyphname = L;
-lastChange = "2023-12-03 04:50:59 +0000";
+lastChange = "2023-12-16 15:32:38 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -5218,7 +5222,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(302,90,o),
+(302,89,o),
 (264,99,o),
 (246,124,cs),
 (180,216,o),
@@ -5243,8 +5247,8 @@ nodes = (
 (518,171,o),
 (458,134,cs),
 (432,118,o),
-(403,90,o),
-(339,90,cs)
+(403,89,o),
+(339,89,cs)
 );
 }
 );
@@ -8403,7 +8407,7 @@ unicode = 342;
 {
 color = 10;
 glyphname = S;
-lastChange = "2023-12-06 04:20:48 +0000";
+lastChange = "2023-12-16 15:33:02 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -8533,9 +8537,9 @@ nodes = (
 (124,140,o),
 (137,133,cs),
 (197,104,o),
-(262,90,o),
-(324,90,cs),
-(399,90,o),
+(262,89,o),
+(324,89,cs),
+(399,89,o),
 (460,116,o),
 (460,159,cs),
 (460,176,o),
@@ -9374,7 +9378,7 @@ unicode = 538;
 {
 color = 10;
 glyphname = U;
-lastChange = "2023-11-24 02:19:20 +0000";
+lastChange = "2023-12-16 15:33:40 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -9382,42 +9386,42 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(688,-12,o),
-(858,202,o),
-(858,457,cs),
-(858,686,o),
-(780,800,o),
-(637,800,cs),
-(582,800,o),
-(491,764,o),
-(491,659,cs),
-(491,615,o),
-(516,523,o),
-(545,433,cs),
-(562,380,o),
-(587,298,o),
-(587,231,cs),
+(688,-15,o),
+(858,203,o),
+(858,462,cs),
+(858,695,o),
+(780,811,o),
+(637,811,cs),
+(582,811,o),
+(491,774,o),
+(491,668,cs),
+(491,623,o),
+(516,529,o),
+(545,438,cs),
+(562,384,o),
+(587,300,o),
+(587,232,cs),
 (587,136,o),
-(538,96,o),
-(439,96,cs),
-(340,96,o),
+(538,89,o),
+(439,89,cs),
+(340,89,o),
 (291,136,o),
-(291,231,cs),
-(291,298,o),
-(316,380,o),
-(333,433,cs),
-(362,523,o),
-(387,615,o),
-(387,659,cs),
-(387,764,o),
-(296,800,o),
-(241,800,cs),
-(98,800,o),
-(20,686,o),
-(20,457,cs),
-(20,202,o),
-(190,-12,o),
-(439,-12,cs)
+(291,232,cs),
+(291,300,o),
+(316,384,o),
+(333,438,cs),
+(362,529,o),
+(387,623,o),
+(387,668,cs),
+(387,774,o),
+(296,811,o),
+(241,811,cs),
+(98,811,o),
+(20,695,o),
+(20,462,cs),
+(20,203,o),
+(190,-15,o),
+(439,-15,cs)
 );
 }
 );
@@ -10111,7 +10115,7 @@ unicode = 366;
 {
 color = 10;
 glyphname = V;
-lastChange = "2023-12-03 03:38:26 +0000";
+lastChange = "2023-12-16 15:34:00 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -10135,9 +10139,9 @@ nodes = (
 (350,209,o),
 (369,156,cs),
 (380,124,o),
-(399,92,o),
-(429,92,cs),
-(461,92,o),
+(399,88,o),
+(429,88,cs),
+(461,88,o),
 (480,124,o),
 (491,156,cs),
 (510,209,o),
@@ -10770,7 +10774,7 @@ unicode = 88;
 {
 color = 10;
 glyphname = Y;
-lastChange = "2023-12-05 00:20:01 +0000";
+lastChange = "2023-12-16 15:35:35 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -10928,16 +10932,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(479,127,o),
-(389,105,o),
-(343,103,cs),
-(293,101,o),
-(248,120,o),
-(222,122,cs),
-(180,126,o),
-(152,99,o),
-(152,67,cs),
-(152,-5,o),
+(471,122,o),
+(389,90,o),
+(343,88,cs),
+(293,86,o),
+(248,105,o),
+(222,107,cs),
+(180,111,o),
+(152,84,o),
+(152,52,cs),
+(152,-20,o),
 (288,-14,o),
 (334,-14,cs),
 (527,-14,o),
@@ -10977,8 +10981,8 @@ nodes = (
 (163,157,o),
 (393,199,cs),
 (437,207,o),
-(465,195,o),
-(470,172,cs)
+(466,196,o),
+(468,165,cs)
 );
 }
 );
