@@ -12,7 +12,9 @@ SscZSCz,
 "1234578",
 "cegtsx235r ",
 "¶w",
-"&"
+"&",
+"Ū",
+"Ħ"
 );
 customParameters = (
 {
@@ -9700,7 +9702,7 @@ unicode = 368;
 },
 {
 glyphname = Umacron;
-lastChange = "2023-12-19 06:02:40 +0000";
+lastChange = "2023-12-27 00:07:11 +0000";
 layers = (
 {
 anchors = (
@@ -9713,9 +9715,13 @@ layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 shapes = (
 {
 ref = U;
+},
+{
+pos = (878,0);
+ref = macron;
 }
 );
-width = 878;
+width = 1569;
 }
 );
 unicode = 362;
