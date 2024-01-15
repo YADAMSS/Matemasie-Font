@@ -39,7 +39,7 @@ himise mon Newsev.",
 "Ă",
 ".,:.//»¿×ØÞßð÷!;!¡?¿÷",
 rnvclu,
-"/r.ss01"
+"/r.ss01 nwv"
 );
 customParameters = (
 {
@@ -675,6 +675,10 @@ pos = 600;
 }
 );
 name = Regular;
+stemValues = (
+195,
+85
+);
 userData = {
 GSCornerRadius = 34;
 };
@@ -39341,6 +39345,14 @@ width = 472;
 );
 }
 );
+instances = (
+{
+instanceInterpolations = {
+"49F060A0-2273-4F54-8B81-08E0B15B03EC" = 1;
+};
+name = Regular;
+}
+);
 kerningLTR = {
 "49F060A0-2273-4F54-8B81-08E0B15B03EC" = {
 "@MMK_L_15" = {
@@ -39373,6 +39385,15 @@ type = descender;
 },
 {
 type = "x-height";
+}
+);
+stems = (
+{
+name = vStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
 }
 );
 unitsPerEm = 1000;
