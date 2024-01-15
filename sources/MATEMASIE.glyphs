@@ -398,23 +398,6 @@ date = "2023-10-10 05:48:29 +0000";
 familyName = MATEMASIE;
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;
-
-languagesystem latn dflt;
-languagesystem latn AZE;
-languagesystem latn CRT;
-languagesystem latn KAZ;
-languagesystem latn TAT;
-languagesystem latn TRK;
-languagesystem latn ROM;
-languagesystem latn MOL;
-languagesystem latn CAT;
-
-
-";
-name = xxxx;
-},
-{
 automatic = 1;
 code = "languagesystem DFLT dflt;
 
