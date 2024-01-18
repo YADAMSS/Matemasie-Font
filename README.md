@@ -12,11 +12,11 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FYADAMSS%2FMatemasie-Font%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FYADAMSS%2FMatemasie-Font%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Matemasie is a commissioned open source Latin typeface that will include initially just a handful of African-specific characters, It is planned to have about 330–350 glyphs when it is fully done,but perhaps more next year, for Google Fonts.
-Matemasie font is inspired by  Adinkra symbol Mate Masie from the Akan people; an ethnic group from West Africa, primarily from Ghana and Cote d'Ivoire, with the name meaning “What I hear, I keep.” This symbol represents wisdom, knowledge, and wisdom.
+Matemasie is a commissioned open-source Latin typeface that will include initially just a handful of African-specific characters, It is planned to have about 330–350 glyphs when it is fully done, but perhaps more next year, for Google Fonts.
+Matemasie font is inspired by Adinkra symbol Mate Masie from the Akan people; an ethnic group from West Africa, primarily from Ghana and Cote d'Ivoire, with the name meaning “What I hear, I keep.” This symbol represents wisdom, knowledge, and wisdom.
 
-![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
+![Sample Image](documentation/1.png)
+![Sample Image](documentation/2.png)
 
 ## About
 
