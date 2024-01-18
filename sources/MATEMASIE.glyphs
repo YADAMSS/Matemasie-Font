@@ -6,8 +6,7 @@ WYZX,
 "Þþ",
 aebnrnbdpanqncrvyg,
 "æ",
-"Ä",
-"ÄĀÃYŶŸỲ"
+"ÄĀÃYŶYŸỲ"
 );
 customParameters = (
 {
@@ -11075,7 +11074,7 @@ unicode = 88;
 {
 color = 10;
 glyphname = Y;
-lastChange = "2024-01-18 09:54:09 +0000";
+lastChange = "2024-01-18 18:05:13 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -11291,12 +11290,6 @@ nodes = (
 width = 796;
 },
 {
-backgroundImage = {
-imagePath = "/Volumes/ADAM-DOC/DOCUMENTS/Google-project_african languages/20octobre/23 October2023/28 October2023/From-Lisa/new_correction_2023:12:19/7Janvier2024/Screenshot 2024-01-07 at 01.14.01.png";
-locked = 1;
-pos = (-299,-759);
-scale = (13.1525,13.1525);
-};
 guides = (
 {
 pos = (751,-79);
@@ -11330,9 +11323,9 @@ nodes = (
 (314,-14,o),
 (368,-14,cs),
 (642,-16,o),
-(796,325,o),
-(796,567,cs),
-(796,733,o),
+(785,325,o),
+(785,567,cs),
+(785,733,o),
 (724,812,o),
 (606,812,cs),
 (540,812,o),
@@ -11362,7 +11355,7 @@ nodes = (
 );
 }
 );
-width = 824;
+width = 805;
 }
 );
 unicode = 89;
@@ -11414,7 +11407,7 @@ unicode = 221;
 },
 {
 glyphname = Ycircumflex;
-lastChange = "2023-11-27 14:17:11 +0000";
+lastChange = "2024-01-18 18:10:04 +0000";
 layers = (
 {
 anchors = (
@@ -11431,48 +11424,48 @@ ref = Y;
 {
 closed = 1;
 nodes = (
-(355,928,o),
-(346,919,o),
-(322,902,cs),
-(269,863,l),
-(235,839,o),
-(210,821,o),
-(191,839,cs),
-(176,855,o),
-(190,874,o),
-(208,912,cs),
-(221,937,o),
-(238,969,o),
-(258,1004,cs),
-(285,1052,o),
-(321,1082,o),
-(365,1082,cs),
-(409,1082,o),
-(445,1052,o),
-(472,1004,cs),
-(492,969,o),
-(509,937,o),
-(522,912,cs),
-(540,874,o),
-(554,855,o),
-(539,839,cs),
-(520,821,o),
-(495,839,o),
-(461,863,cs),
-(436,881,o),
-(374,928,o),
-(365,928,cs)
+(396,928,o),
+(387,919,o),
+(363,902,cs),
+(310,863,l),
+(276,839,o),
+(251,821,o),
+(232,839,cs),
+(217,855,o),
+(231,874,o),
+(249,912,cs),
+(262,937,o),
+(279,969,o),
+(299,1004,cs),
+(326,1052,o),
+(362,1082,o),
+(406,1082,cs),
+(450,1082,o),
+(486,1052,o),
+(513,1004,cs),
+(533,969,o),
+(550,937,o),
+(563,912,cs),
+(581,874,o),
+(595,855,o),
+(580,839,cs),
+(561,821,o),
+(536,839,o),
+(502,863,cs),
+(477,881,o),
+(415,928,o),
+(406,928,cs)
 );
 }
 );
-width = 718;
+width = 805;
 }
 );
 unicode = 374;
 },
 {
 glyphname = Ydieresis;
-lastChange = "2023-12-22 04:31:35 +0000";
+lastChange = "2024-01-18 18:09:40 +0000";
 layers = (
 {
 anchors = (
@@ -11489,46 +11482,46 @@ ref = Y;
 {
 closed = 1;
 nodes = (
-(216,921,o),
-(246,892,o),
-(292,892,cs),
-(338,892,o),
-(368,921,o),
-(368,966,cs),
-(368,1010,o),
-(338,1038,o),
-(292,1038,cs),
-(246,1038,o),
-(216,1010,o),
-(216,966,cs)
+(240,921,o),
+(270,892,o),
+(316,892,cs),
+(362,892,o),
+(392,921,o),
+(392,966,cs),
+(392,1010,o),
+(362,1038,o),
+(316,1038,cs),
+(270,1038,o),
+(240,1010,o),
+(240,966,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(412,921,o),
-(442,892,o),
-(488,892,cs),
-(534,892,o),
-(564,921,o),
-(564,966,cs),
-(564,1010,o),
-(534,1038,o),
-(488,1038,cs),
-(442,1038,o),
-(412,1010,o),
-(412,966,cs)
+(436,921,o),
+(466,892,o),
+(512,892,cs),
+(558,892,o),
+(588,921,o),
+(588,966,cs),
+(588,1010,o),
+(558,1038,o),
+(512,1038,cs),
+(466,1038,o),
+(436,1010,o),
+(436,966,cs)
 );
 }
 );
-width = 718;
+width = 805;
 }
 );
 unicode = 376;
 },
 {
 glyphname = Ygrave;
-lastChange = "2023-11-20 22:31:03 +0000";
+lastChange = "2024-01-18 18:09:52 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -11539,28 +11532,28 @@ ref = Y;
 {
 closed = 1;
 nodes = (
-(213,961,o),
-(194,1009,o),
-(225,1050,cs),
-(250,1083,o),
-(285,1088,o),
-(315,1071,cs),
-(361,1045,o),
-(366,992,o),
-(431,959,cs),
-(471,939,o),
-(491,915,o),
-(475,883,cs),
-(462,858,o),
-(433,856,o),
-(403,860,cs),
-(359,866,o),
-(306,891,o),
-(266,921,cs)
+(255,961,o),
+(236,1009,o),
+(267,1050,cs),
+(292,1083,o),
+(327,1088,o),
+(357,1071,cs),
+(403,1045,o),
+(408,992,o),
+(473,959,cs),
+(513,939,o),
+(533,915,o),
+(517,883,cs),
+(504,858,o),
+(475,856,o),
+(445,860,cs),
+(401,866,o),
+(348,891,o),
+(308,921,cs)
 );
 }
 );
-width = 718;
+width = 805;
 }
 );
 unicode = 7922;
@@ -13191,7 +13184,7 @@ unicode = 227;
 },
 {
 glyphname = ae;
-lastChange = "2024-01-18 14:31:19 +0000";
+lastChange = "2024-01-18 18:06:11 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -13897,12 +13890,6 @@ nodes = (
 width = 961;
 },
 {
-backgroundImage = {
-imagePath = "/Volumes/ADAM-DOC/DOCUMENTS/Google-project_african languages/20octobre/23 October2023/28 October2023/From-Lisa/new_correction_2023:12:19/7Janvier2024/Screenshot 2024-01-07 at 01.15.59.png";
-locked = 1;
-pos = (-135,-393);
-scale = (10.009,10.009);
-};
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
 shapes = (
@@ -21896,7 +21883,7 @@ unicode = 113;
 {
 color = 10;
 glyphname = r;
-lastChange = "2024-01-18 11:13:15 +0000";
+lastChange = "2024-01-18 18:02:20 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -21992,12 +21979,6 @@ width = 552;
 },
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
-backgroundImage = {
-imagePath = "/Volumes/ADAM-DOC/DOCUMENTS/Google-project_african languages/20octobre/23 October2023/28 October2023/From-Lisa/new_correction_2023:12:19/Screenshot 2023-12-22 at 18.17.02.png";
-locked = 1;
-pos = (-243,-141);
-scale = (15.8185,15.8185);
-};
 layerId = "A9157A85-3DE1-4B33-A410-7F7F5F2957ED";
 name = "18 Jan 24 at 10:55";
 shapes = (
@@ -24350,7 +24331,7 @@ unicode = 367;
 {
 color = 10;
 glyphname = v;
-lastChange = "2024-01-11 13:10:05 +0000";
+lastChange = "2024-01-18 18:02:31 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -24451,12 +24432,6 @@ nodes = (
 width = 706;
 },
 {
-backgroundImage = {
-imagePath = "/Volumes/ADAM-DOC/DOCUMENTS/Google-project_african languages/20octobre/23 October2023/28 October2023/From-Lisa/new_correction_2023:12:19/7Janvier2024/Screenshot 2024-01-07 at 01.16.19.png";
-locked = 1;
-pos = (-88,-446);
-scale = (10.2223,10.2223);
-};
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
 shapes = (
@@ -25005,7 +24980,7 @@ unicode = 120;
 {
 color = 10;
 glyphname = y;
-lastChange = "2024-01-18 13:59:08 +0000";
+lastChange = "2024-01-18 18:01:51 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -25306,12 +25281,6 @@ nodes = (
 width = 699;
 },
 {
-backgroundImage = {
-imagePath = "/Volumes/ADAM-DOC/DOCUMENTS/Google-project_african languages/20octobre/23 October2023/28 October2023/From-Lisa/new_correction_2023:12:19/7Janvier2024/Screenshot 2024-01-07 at 01.16.29.png";
-locked = 1;
-pos = (-181,-926);
-scale = (10.0575,10.0575);
-};
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
 shapes = (
