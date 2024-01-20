@@ -13,10 +13,6 @@ LALBLCLDLELFLGLHLILJLKLLMLNLOLPLQLRLSLTLULVLWLXLYLZL
 "ŞES",
 "Ę",
 "×",
-"—",
-"!",
-"ă",
-I,
 "̆ăẫã/caroncomb.alt/caroncomb.alt/caroncomb.alt ď",
 "/caroncomb.alt",
 "cCČ",
@@ -30,7 +26,10 @@ I,
 "Ŭ",
 "ŭ",
 "š",
-"Ň"
+"Ň",
+"Õ",
+"õ",
+"OÕõ"
 );
 customParameters = (
 {
@@ -7174,13 +7173,13 @@ unicode = 216;
 glyphname = Otilde;
 kernLeft = "15";
 kernRight = "15";
-lastChange = "2024-01-11 10:43:53 +0000";
+lastChange = "2024-01-19 11:21:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (313,600);
+pos = (429,811);
 }
 );
 hints = (
@@ -7206,14 +7205,15 @@ type = Stem;
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 shapes = (
 {
-ref = o;
+ref = O;
 },
 {
-pos = (20,0);
-ref = tildecomb;
+alignment = -1;
+pos = (148,0);
+ref = tilde;
 }
 );
-width = 618;
+width = 860;
 }
 );
 unicode = 213;
@@ -35688,7 +35688,7 @@ unicode = 779;
 },
 {
 glyphname = caroncomb.alt;
-lastChange = "2024-01-19 09:31:48 +0000";
+lastChange = "2024-01-20 02:22:17 +0000";
 layers = (
 {
 anchors = (
@@ -35734,7 +35734,7 @@ width = 337;
 anchors = (
 {
 name = _top;
-pos = (190,808);
+pos = (184,805);
 }
 );
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
