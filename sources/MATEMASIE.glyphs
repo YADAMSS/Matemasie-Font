@@ -21,7 +21,7 @@ Ff",
 "˘",
 "̆",
 "˘Ğ",
-"ğ",
+"ğ(j)(fijfl fifjft gltrf){f}",
 "Ă",
 "Ŭ",
 "ŭ",
@@ -16853,7 +16853,7 @@ unicode = 281;
 {
 color = 10;
 glyphname = f;
-lastChange = "2024-01-19 02:17:12 +0000";
+lastChange = "2024-01-22 03:37:22 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -17023,7 +17023,7 @@ nodes = (
 );
 }
 );
-width = 457;
+width = 507;
 },
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -19012,7 +19012,7 @@ unicode = 303;
 {
 color = 10;
 glyphname = j;
-lastChange = "2024-01-11 11:42:16 +0000";
+lastChange = "2024-01-22 03:42:06 +0000";
 layers = (
 {
 guides = (
@@ -19075,7 +19075,7 @@ nodes = (
 );
 }
 );
-width = 350;
+width = 360;
 }
 );
 unicode = 106;
@@ -19427,7 +19427,7 @@ unicode = 311;
 {
 color = 10;
 glyphname = l;
-lastChange = "2024-01-19 02:17:00 +0000";
+lastChange = "2024-01-22 03:43:39 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -19537,7 +19537,7 @@ nodes = (
 );
 }
 );
-width = 329;
+width = 299;
 }
 );
 unicode = 108;
@@ -23753,7 +23753,7 @@ unicode = 223;
 {
 color = 10;
 glyphname = t;
-lastChange = "2024-01-10 01:12:22 +0000";
+lastChange = "2024-01-22 03:43:29 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -24035,7 +24035,7 @@ nodes = (
 );
 }
 );
-width = 496;
+width = 516;
 }
 );
 unicode = 116;
@@ -30660,7 +30660,7 @@ unicode = 95;
 {
 color = 10;
 glyphname = parenleft;
-lastChange = "2023-11-19 00:03:50 +0000";
+lastChange = "2024-01-22 03:41:46 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -30704,7 +30704,7 @@ nodes = (
 );
 }
 );
-width = 360;
+width = 380;
 }
 );
 unicode = 40;
@@ -30849,7 +30849,7 @@ unicode = 123;
 {
 color = 10;
 glyphname = braceright;
-lastChange = "2023-12-05 00:27:10 +0000";
+lastChange = "2024-01-22 03:36:29 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -30926,7 +30926,7 @@ nodes = (
 );
 }
 );
-width = 366;
+width = 446;
 }
 );
 unicode = 125;
