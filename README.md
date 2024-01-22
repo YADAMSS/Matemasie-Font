@@ -12,15 +12,19 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FYADAMSS%2FMatemasie-Font%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FYADAMSS%2FMatemasie-Font%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Matemasie is a commissioned open source Latin typeface that will include initially just a handful of African-specific characters, It is planned to have about 330–350 glyphs when it is fully done,but perhaps more next year, for Google Fonts.
-Matemasie font is inspired by  Adinkra symbol Mate Masie from the Akan people; an ethnic group from West Africa, primarily from Ghana and Cote d'Ivoire, with the name meaning “What I hear, I keep.” This symbol represents wisdom, knowledge, and wisdom.
+The Matemasie display typeface is inspired by  Adinkra symbol Mate Masie from the Akan people; an ethnic group from West Africa, primarily from Ghana and Cote d'Ivoire, with the name meaning “What I hear, I keep.” This symbol represents wisdom, knowledge, and wisdom.
+
+The Matemasie font is a one font style. It will have the Google Fonts GF Latin Core character set, as well as a handful of African-specific characters. It is anticipated to have about 330–350 glyphs, but might have more later for Google Fonts.
+
+Matemasie is designed by Adam Yeo
 
 ![Sample Image](https://github.com/YADAMSS/Matemasie-Font/blob/main/documentation/image1.jpg)
 ![Sample Image](https://github.com/YADAMSS/Matemasie-Font/blob/main/documentation/image2.jpg)
 
 ## About
 
-Description of you and/or organisation goes here.
+Adam Yeo is a graphic and type designer from Cote d’Ivoire currently based in France. He holds a Doctorate in Art and Design from Nanjing University of the Arts, China. Adam is currently working on developing a typeface for the Bété script within the  ANRT.
+He has spoken at the Atypi 2021 All Over conference 2021 and published several articles about African scripts, symbols, and languages. Matemasie is his first Latin typeface.
 
 ## Building
 
