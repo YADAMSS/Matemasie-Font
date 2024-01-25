@@ -194,17 +194,17 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi</li>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, coptic, syriac, tifinagh, malayalam, math, tai-le, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, tai-le, coptic, malayalam, old-permic, syriac, canadian-aboriginal, tifinagh</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
@@ -231,11 +231,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nl_Latn (Dutch)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0237</td>
+<td align="left">Shaper didn't attach acutecomb to J</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to J</td>
+<td align="left">Shaper didn't attach acutecomb to uni0237</td>
 </tr>
 <tr>
 <td align="left">ro_Latn (Romanian)</td>
@@ -285,6 +285,7 @@ definitions.</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Adieresis&quot; has a legacy accent component (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Agrave&quot; has a legacy accent component (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Amacron&quot; has a legacy accent component (macron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Aring&quot; has a legacy accent component (ring). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Atilde&quot; has a legacy accent component (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Cacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ccaron&quot; has a legacy accent component (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
@@ -292,17 +293,31 @@ definitions.</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Egrave&quot; has a legacy accent component (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Gbreve&quot; has a legacy accent component (breve). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Iacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Idieresis&quot; has a legacy accent component (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Idotaccent&quot; has a legacy accent component (dotaccent). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Igrave&quot; has a legacy accent component (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Imacron&quot; has a legacy accent component (macron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Lacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Nacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ncaron&quot; has a legacy accent component (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Oacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ocircumflex&quot; has a legacy accent component (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Odieresis&quot; has a legacy accent component (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ograve&quot; has a legacy accent component (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ohungarumlaut&quot; has a legacy accent component (hungarumlaut). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Omacron&quot; has a legacy accent component (macron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Otilde&quot; has a legacy accent component (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Racute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Sacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Uacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ubreve&quot; has a legacy accent component (breve). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Udieresis&quot; has a legacy accent component (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ugrave&quot; has a legacy accent component (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Uhungarumlaut&quot; has a legacy accent component (hungarumlaut). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Umacron&quot; has a legacy accent component (macron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Uring&quot; has a legacy accent component (ring). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Wacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Wdieresis&quot; has a legacy accent component (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;lacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li></ul></div></details>
 <h3>Check font contains no unreachable glyphs</h3>
