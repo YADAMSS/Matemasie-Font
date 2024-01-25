@@ -90,17 +90,17 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
  * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
  * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
  * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic
- * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, tai-le, canadian-aboriginal, syriac, malayalam, math, old-permic, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, coptic, old-permic, syriac, tai-le, tifinagh, math, malayalam
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -154,6 +154,8 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- g.ss02
 
+	- germandbls.ss01
+
 	- h.ss01
 
 	- i.loclTRK
@@ -200,6 +202,8 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- uni1E9E.ss01
 
+	- uni1E9E.ss02
+
 	- uogonek.ss01
 
 	- y.ss01
@@ -223,6 +227,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0237	Contours detected: 2	Expected: 1
 
+	- Glyph name: uni1E9E	Contours detected: 2	Expected: 1
+
 	- Glyph name: Ntilde	Contours detected: 1	Expected: 2
 
 	- Glyph name: dotlessi	Contours detected: 2	Expected: 1
@@ -230,6 +236,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: oslash	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni0237	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni1E9E	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
