@@ -371,6 +371,16 @@ nV = 144;
 tH = 276;
 };
 };
+},
+{
+name = fsType;
+value = (
+3
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2023-10-10 05:48:29 +0000";
@@ -470,7 +480,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1050;
+value = 1091;
 },
 {
 name = winDescent;
@@ -41436,6 +41446,30 @@ type = descender;
 },
 {
 type = "x-height";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2024 The Matemasie Project Authors (https://github.com/YADAMSS/Matemasie-Font/)";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
 }
 );
 stems = (
