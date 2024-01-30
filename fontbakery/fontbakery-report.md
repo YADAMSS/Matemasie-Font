@@ -9,8 +9,8 @@ fontbakery version: 0.10.9
 
 | Language | FAIL messages |
 | :--- | :--- |
-| nl_Latn (Dutch) | Shaper didn't attach acutecomb to uni0237 |
-|  ^  | Shaper didn't attach acutecomb to J |
+| nl_Latn (Dutch) | Shaper didn't attach acutecomb to J |
+|  ^  | Shaper didn't attach acutecomb to uni0237 |
 | ro_Latn (Romanian) | in Romanian, S-cedilla should become S-comma-accent; both buffers returned Scedilla=0+711 |
 
  [code: failed-language-shaping]
@@ -62,6 +62,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 * 🔥 **FAIL** Glyph "Lacute" has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * 🔥 **FAIL** Glyph "Nacute" has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * 🔥 **FAIL** Glyph "Ncaron" has a legacy accent component (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]
+* 🔥 **FAIL** Glyph "Ntilde" has a legacy accent component (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * 🔥 **FAIL** Glyph "Oacute" has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * 🔥 **FAIL** Glyph "Ocircumflex" has a legacy accent component (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * 🔥 **FAIL** Glyph "Odieresis" has a legacy accent component (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
@@ -101,17 +102,17 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: yi, tifinagh, canadian-aboriginal
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, old-permic, tai-le, tifinagh, canadian-aboriginal, coptic, math, syriac
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, coptic, cherokee
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, canadian-aboriginal, malayalam, syriac, tai-le, tifinagh, coptic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
@@ -232,8 +233,6 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: question	Contours detected: 3	Expected: 2
 
-	- Glyph name: Ntilde	Contours detected: 1	Expected: 2
-
 	- Glyph name: oslash	Contours detected: 2	Expected: 3
 
 	- Glyph name: dotlessi	Contours detected: 2	Expected: 1
@@ -243,8 +242,6 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni0237	Contours detected: 2	Expected: 1
 
 	- Glyph name: uni1E9E	Contours detected: 2	Expected: 1
-
-	- Glyph name: Ntilde	Contours detected: 1	Expected: 2
 
 	- Glyph name: Scaron	Contours detected: 1	Expected: 2
 
@@ -284,9 +281,9 @@ minus
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
-	* K (U+004B): B<<753.5,489.0>-<721.0,458.0>-<684.0,434.0>>/B<<684.0,434.0>-<690.0,438.0>-<679.0,430.5>> = 0.7206636225172957
+	* K (U+004B): B<<753.5,490.0>-<721.0,459.0>-<684.0,436.0>>/B<<684.0,436.0>-<690.0,440.0>-<679.0,432.5>> = 1.8240898323757742
 
-	* uni0136 (U+0136): B<<753.5,489.0>-<721.0,458.0>-<684.0,434.0>>/B<<684.0,434.0>-<690.0,438.0>-<679.0,430.5>> = 0.7206636225172957 [code: found-jaggy-segments]
+	* uni0136 (U+0136): B<<753.5,490.0>-<721.0,459.0>-<684.0,436.0>>/B<<684.0,436.0>-<690.0,440.0>-<679.0,432.5>> = 1.8240898323757742 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Shaping Checks>.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
 
