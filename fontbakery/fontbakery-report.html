@@ -130,11 +130,11 @@ ul {
             <tr>
                 <td>0</td>
                 <td>0</td>
-                <td>7</td>
+                <td>8</td>
                 <td>8</td>
                 <td>126</td>
                 <td>7</td>
-                <td>108</td>
+                <td>107</td>
             </tr>
             <tr>
                 <td>0%</td>
@@ -194,17 +194,17 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi</li>
+<li>U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh</li>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, tifinagh, syriac, malayalam, coptic, canadian-aboriginal, tai-le, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, canadian-aboriginal, math, old-permic, malayalam, tai-le, syriac, tifinagh</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
@@ -256,7 +256,12 @@ definitions.</p>
 <details><summary>⚠️ MATEMASIE-Regular.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
 </span></li></ul></div></details>
 <h2>Section: Universal</h2>
-<span class='section__emoji'>🔥🔥🔥⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️</span>
+<span class='section__emoji'>🔥🔥🔥🔥⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️</span>
+<h3>Checking OS/2 usWinAscent & usWinDescent.</h3>
+<div class='check__idlabel'>Check ID: com.google.fonts/check/family/win_ascent_and_descent</div>
+
+<details><summary>🔥 MATEMASIE-Regular.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinAscent value should be equal or greater than 1094, but got 1091 instead [code: ascent]</p>
+</span></li></ul></div></details>
 <h3>Font contains '.notdef' as its first glyph?</h3>
 <div class='check__idlabel'>Check ID: com.google.fonts/check/mandatory_glyphs</div>
 
@@ -275,13 +280,16 @@ definitions.</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Atilde&quot; has a legacy accent component (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Cacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ccaron&quot; has a legacy accent component (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Cdotaccent&quot; has a legacy accent component (dotaccent). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Dcaron&quot; has a legacy accent component (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Eacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ecaron&quot; has a legacy accent component (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ecircumflex&quot; has a legacy accent component (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Edotaccent&quot; has a legacy accent component (dotaccent). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Egrave&quot; has a legacy accent component (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Emacron&quot; has a legacy accent component (macron). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Gbreve&quot; has a legacy accent component (breve). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Gdotaccent&quot; has a legacy accent component (dotaccent). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Iacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Icircumflex&quot; has a legacy accent component (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Idieresis&quot; has a legacy accent component (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
@@ -312,6 +320,7 @@ definitions.</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Wdieresis&quot; has a legacy accent component (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Yacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Ycircumflex&quot; has a legacy accent component (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;Zdotaccent&quot; has a legacy accent component (dotaccent). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Glyph &quot;lacute&quot; has a legacy accent component (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]</p>
 </span></li></ul></div></details>
 <h3>Check font contains no unreachable glyphs</h3>
@@ -421,9 +430,7 @@ definitions.</p>
 
 <details><summary>⚠️ MATEMASIE-Regular.ttf</summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
 <p>The following glyphs do not have the recommended number of contours:</p>
-<pre><code>- Glyph name: question	Contours detected: 3	Expected: 2
-
-- Glyph name: oslash	Contours detected: 2	Expected: 3
+<pre><code>- Glyph name: oslash	Contours detected: 2	Expected: 3
 
 - Glyph name: dotlessi	Contours detected: 2	Expected: 1
 
@@ -438,8 +445,6 @@ definitions.</p>
 - Glyph name: dotlessi	Contours detected: 2	Expected: 1
 
 - Glyph name: oslash	Contours detected: 2	Expected: 3
-
-- Glyph name: question	Contours detected: 3	Expected: 2
 
 - Glyph name: uni0237	Contours detected: 2	Expected: 1
 
