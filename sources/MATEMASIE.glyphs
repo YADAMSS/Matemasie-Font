@@ -37,7 +37,8 @@ G,
 "CĊ",
 "ä",
 "ć",
-"7"
+"7",
+"Ū"
 );
 customParameters = (
 {
@@ -1090,7 +1091,7 @@ unicode = 256;
 glyphname = Aogonek;
 kernLeft = "20";
 kernRight = "20";
-lastChange = "2024-01-30 03:42:47 +0000";
+lastChange = "2024-02-05 10:23:20 +0000";
 layers = (
 {
 anchors = (
@@ -1381,12 +1382,6 @@ nodes = (
 width = 848;
 },
 {
-anchors = (
-{
-name = top;
-pos = (414,800);
-}
-);
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
 shapes = (
@@ -10546,13 +10541,13 @@ unicode = 368;
 },
 {
 glyphname = Umacron;
-lastChange = "2024-01-24 23:05:22 +0000";
+lastChange = "2024-02-05 10:21:26 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (396,800);
+pos = (427,800);
 }
 );
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -16958,7 +16953,7 @@ unicode = 240;
 {
 color = 10;
 glyphname = e;
-lastChange = "2024-02-01 09:32:00 +0000";
+lastChange = "2024-02-05 10:50:54 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -17238,17 +17233,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(387,-14,o),
+(387,-15,o),
 (412,-5,o),
 (442,9,cs),
 (477,25,o),
 (500,67,o),
 (486,96,cs),
-(480,110,o),
-(465,122,o),
-(446,122,cs),
-(437,122,o),
-(427,119,o),
+(474,125,o),
+(440,128,o),
 (417,112,cs),
 (385,91,o),
 (359,83,o),
@@ -17263,14 +17255,14 @@ nodes = (
 (571,257,o),
 (571,361,cs),
 (571,503,o),
-(470,613,o),
-(281,613,cs),
-(86,613,o),
+(470,615,o),
+(281,615,cs),
+(86,615,o),
 (24,477,o),
 (24,312,cs),
 (24,104,o),
-(123,-14,o),
-(328,-14,c)
+(123,-15,o),
+(328,-15,c)
 );
 },
 {
@@ -28476,7 +28468,7 @@ unicode = 50;
 {
 color = 10;
 glyphname = three;
-lastChange = "2024-02-01 09:41:09 +0000";
+lastChange = "2024-02-05 10:22:24 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -28839,6 +28831,7 @@ nodes = (
 width = 656;
 }
 );
+locked = 1;
 unicode = 51;
 },
 {
