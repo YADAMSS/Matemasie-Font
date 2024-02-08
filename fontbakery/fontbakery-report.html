@@ -270,9 +270,9 @@ you're checking.</p>
         <th>✅ PASS</th>
     </tr>
     <tr>
-        <td>1</td>
         <td>0</td>
-        <td>6</td>
+        <td>0</td>
+        <td>7</td>
         <td>10</td>
         <td>128</td>
         <td>7</td>
@@ -281,7 +281,7 @@ you're checking.</p>
     <tr>
         <td>0%</td>
         <td>0%</td>
-        <td>2%</td>
+        <td>3%</td>
         <td>4%</td>
         <td>49%</td>
         <td>3%</td>
@@ -315,7 +315,7 @@ immediately.
             
                 <h2>Google Fonts</h2>
 <span class='section__emoji'>
-    💥🔥🔥🔥⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️
+    🔥🔥🔥🔥⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️
 </span>
 
     
@@ -498,17 +498,17 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
-<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math</li>
-<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, canadian-aboriginal, tai-le, malayalam, tifinagh, old-permic, syriac, math</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh</li>
+<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, tifinagh, math, syriac, old-permic, malayalam, canadian-aboriginal, tai-le</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
@@ -699,7 +699,7 @@ definitions.</p>
     
         <details>
             <summary>
-                💥
+                🔥
                 MATEMASIE-Regular.ttf
                 
             </summary>
@@ -708,22 +708,32 @@ definitions.</p>
                 
                         <li class='details_item'>
                             <span class='details_indicator'>
-                            💥 ERROR
+                            🔥 FAIL
                             </span>
 
                             <span class='details_text'>
-                            <p>Failed with AttributeError: 'Vharfbuzz' object has no attribute 'ttfont'</p>
-<pre><code>  File &quot;/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/fontbakery/checkrunner.py&quot;, line 170, in _exec_check
-    results.extend(list(result))
-  File &quot;/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/fontbakery/profiles/googlefonts.py&quot;, line 3537, in com_google_fonts_check_glyphsets_shape_languages
-    shaperglot_checker = Checker(ttFont.reader.file.name)
-  File &quot;/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/shaperglot/checker.py&quot;, line 23, in __init__
-    self.ttfont = self.vharfbuzz.ttfont
-
-</code></pre>
+                            <p>GF_Latin_Core glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nl_Latn (Dutch)</td>
+<td align="left">Shaper didn't attach acutecomb to J</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0237</td>
+</tr>
+</tbody>
+</table>
 
                             
-                             [code: failed-check]
+                             [code: failed-language-shaping]
                             
                             </span>
                         </li>
