@@ -51,6 +51,32 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 
 * 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 200 font units wide, non-breaking space named (uni00A0) is 162 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
+</div></details><details><summary>🔥 <b>FAIL:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Shaping Checks.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
+
+
+* 🔥 **FAIL** The following glyphs could not be attached to the dotted circle glyph:
+
+	- acutecomb
+
+	- gravecomb
+
+	- tildecomb
+
+	- uni0304
+
+	- uni0306
+
+	- uni0307
+
+	- uni030B
+
+	- uni030C
+
+	- uni0326
+
+	- uni0327
+
+	- uni0328 [code: unattached-dotted-circle-marks]
 </div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
 
 
@@ -72,14 +98,15 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math
  * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, tifinagh, math, tai-le, old-permic, canadian-aboriginal, syriac
+ * U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, canadian-aboriginal, malayalam, tai-le, syriac, math, coptic, tifinagh
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
+ * U+25CC DOTTED CIRCLE: try adding one of: miao, batak, hebrew, tai-tham, tai-le, manichaean, kharoshthi, tibetan, yi, myanmar, saurashtra, cham, adlam, phags-pa, zanabazar-square, mongolian, hanunoo, osage, buhid, tagalog, bengali, malayalam, masaram-gondi, coptic, telugu, lao, limbu, buginese, chakma, dogra, music, khmer, gunjala-gondi, sundanese, khudawadi, symbols, ahom, caucasian-albanian, gurmukhi, mahajani, gujarati, sogdian, kayah-li, oriya, devanagari, newa, pahawh-hmong, brahmi, marchen, syloti-nagri, hanifi-rohingya, wancho, syriac, siddham, bhaiksuki, tai-viet, elbasan, kannada, warang-citi, new-tai-lue, old-permic, thaana, balinese, bassa-vah, khojki, sinhala, modi, tamil, mende-kikakui, tagbanwa, lepcha, thai, math, psalter-pahlavi, sharada, tirhuta, rejang, duployan, grantha, canadian-aboriginal, armenian, mandaic, nko, javanese, takri, kaithi, soyombo, meetei-mayek, tifinagh
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
@@ -201,6 +228,8 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- n.ss01
 
+	- newGlyph
+
 	- o.ss02
 
 	- p.ss02
@@ -299,18 +328,14 @@ minus
 	* K (U+004B): B<<753.5,490.0>-<721.0,459.0>-<684.0,436.0>>/B<<684.0,436.0>-<690.0,440.0>-<679.0,432.5>> = 1.8240898323757742
 
 	* uni0136 (U+0136): B<<753.5,490.0>-<721.0,459.0>-<684.0,436.0>>/B<<684.0,436.0>-<690.0,440.0>-<679.0,432.5>> = 1.8240898323757742 [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/Shaping Checks.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
 </div></details><br></div></details>
 
 ### Summary
 
 | 💔 ERROR | ☠ FATAL | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 2 | 0 | 5 | 10 | 128 | 7 | 108 | 0 |
-| 1% | 0% | 2% | 4% | 49% | 3% | 42% | 0% |
+| 2 | 0 | 6 | 9 | 128 | 7 | 108 | 0 |
+| 1% | 0% | 2% | 3% | 49% | 3% | 42% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**

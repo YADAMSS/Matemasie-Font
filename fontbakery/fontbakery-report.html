@@ -272,8 +272,8 @@ you're checking.</p>
     <tr>
         <td>2</td>
         <td>0</td>
-        <td>5</td>
-        <td>10</td>
+        <td>6</td>
+        <td>9</td>
         <td>128</td>
         <td>7</td>
         <td>108</td>
@@ -282,7 +282,7 @@ you're checking.</p>
         <td>1%</td>
         <td>0%</td>
         <td>2%</td>
-        <td>4%</td>
+        <td>3%</td>
         <td>49%</td>
         <td>3%</td>
         <td>42%</td>
@@ -558,14 +558,15 @@ definitions.</p>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
 <li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, tifinagh, math, tai-le, old-permic, canadian-aboriginal, syriac</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, canadian-aboriginal, malayalam, tai-le, syriac, math, coptic, tifinagh</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: miao, batak, hebrew, tai-tham, tai-le, manichaean, kharoshthi, tibetan, yi, myanmar, saurashtra, cham, adlam, phags-pa, zanabazar-square, mongolian, hanunoo, osage, buhid, tagalog, bengali, malayalam, masaram-gondi, coptic, telugu, lao, limbu, buginese, chakma, dogra, music, khmer, gunjala-gondi, sundanese, khudawadi, symbols, ahom, caucasian-albanian, gurmukhi, mahajani, gujarati, sogdian, kayah-li, oriya, devanagari, newa, pahawh-hmong, brahmi, marchen, syloti-nagri, hanifi-rohingya, wancho, syriac, siddham, bhaiksuki, tai-viet, elbasan, kannada, warang-citi, new-tai-lue, old-permic, thaana, balinese, bassa-vah, khojki, sinhala, modi, tamil, mende-kikakui, tagbanwa, lepcha, thai, math, psalter-pahlavi, sharada, tirhuta, rejang, duployan, grantha, canadian-aboriginal, armenian, mandaic, nko, javanese, takri, kaithi, soyombo, meetei-mayek, tifinagh</li>
 </ul>
 <p>Or you can add the above codepoints to one of the subsets supported by the font: <code>cyrillic-ext</code>, <code>greek-ext</code>, <code>latin</code>, <code>latin-ext</code></p>
 
@@ -2006,6 +2007,8 @@ definitions.</p>
 
 - n.ss01
 
+- newGlyph
+
 - o.ss02
 
 - p.ss02
@@ -2363,7 +2366,7 @@ minus</p>
             
                 <h2>Shaping Checks</h2>
 <span class='section__emoji'>
-    ⚠️⏩⏩⏩⏩
+    🔥⏩⏩⏩⏩
 </span>
 
     
@@ -2391,7 +2394,7 @@ minus</p>
     
         <details>
             <summary>
-                ⚠️
+                🔥
                 MATEMASIE-Regular.ttf
                 
             </summary>
@@ -2400,14 +2403,36 @@ minus</p>
                 
                         <li class='details_item'>
                             <span class='details_indicator'>
-                            ⚠️ WARN
+                            🔥 FAIL
                             </span>
 
                             <span class='details_text'>
-                            <p>No dotted circle glyph present</p>
+                            <p>The following glyphs could not be attached to the dotted circle glyph:</p>
+<pre><code>- acutecomb
+
+- gravecomb
+
+- tildecomb
+
+- uni0304
+
+- uni0306
+
+- uni0307
+
+- uni030B
+
+- uni030C
+
+- uni0326
+
+- uni0327
+
+- uni0328
+</code></pre>
 
                             
-                             [code: missing-dotted-circle]
+                             [code: unattached-dotted-circle-marks]
                             
                             </span>
                         </li>
