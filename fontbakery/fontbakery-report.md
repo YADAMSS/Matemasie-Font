@@ -1,40 +1,25 @@
 ## FontBakery report
 
-fontbakery version: 0.11.1
+fontbakery version: 0.11.2
 
-<h2>Check results</h2><details><summary><b>[17] MATEMASIE-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with ImportError: cannot import name 'unicodes_per_glyphset' from 'glyphsets.definitions' (/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/glyphsets/definitions/__init__.py)
-```
-  File "/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/fontbakery/checkrunner.py", line 170, in _exec_check
-    results.extend(list(result))
-  File "/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/fontbakery/profiles/googlefonts.py", line 1076, in com_google_fonts_check_glyph_coverage
-    glyphsets_fulfilled = get_glyphsets_fulfilled(ttFont)
-  File "/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/fontbakery/profiles/googlefonts_conditions.py", line 748, in get_glyphsets_fulfilled
-    from glyphsets.definitions import unicodes_per_glyphset, glyphset_definitions
-
-``` [code: failed-check]
-</div></details><details><summary>💔 <b>ERROR:</b> Shapes languages in all GF glyphsets. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyphsets/shape_languages">com.google.fonts/check/glyphsets/shape_languages</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with ImportError: cannot import name 'unicodes_per_glyphset' from 'glyphsets.definitions' (/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/glyphsets/definitions/__init__.py)
-```
-  File "/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/fontbakery/checkrunner.py", line 170, in _exec_check
-    results.extend(list(result))
-  File "/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/fontbakery/profiles/googlefonts.py", line 3543, in com_google_fonts_check_glyphsets_shape_languages
-    glyphsets_fulfilled = get_glyphsets_fulfilled(ttFont)
-  File "/home/runner/work/Matemasie-Font/Matemasie-Font/venv-test/lib/python3.10/site-packages/fontbakery/profiles/googlefonts_conditions.py", line 748, in get_glyphsets_fulfilled
-    from glyphsets.definitions import unicodes_per_glyphset, glyphset_definitions
-
-``` [code: failed-check]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+<h2>Check results</h2><details><summary><b>[16] MATEMASIE-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
 
 
 * 🔥 **FAIL** In this font fsType is set to 8 meaning that:
 The font may be embedded but must only be installed temporarily on other systems.
 
 No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
+</div></details><details><summary>🔥 <b>FAIL:</b> Shapes languages in all GF glyphsets. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyphsets/shape_languages">com.google.fonts/check/glyphsets/shape_languages</a>)</summary><div>
+
+
+* 🔥 **FAIL** GF_Latin_Core glyphset:
+
+| Language | FAIL messages |
+| :--- | :--- |
+| nl_Latn (Dutch) | Shaper didn't attach acutecomb to uni0237 |
+|  ^  | Shaper didn't attach acutecomb to J |
+
+ [code: failed-language-shaping]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check family name for GF Guide compliance. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_name_compliance">com.google.fonts/check/name/family_name_compliance</a>)</summary><div>
 
 
@@ -91,22 +76,22 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: yi, tifinagh, canadian-aboriginal
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, canadian-aboriginal, malayalam, tai-le, syriac, math, coptic, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, tai-le, math, coptic, tifinagh, canadian-aboriginal, malayalam, syriac
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
- * U+25CC DOTTED CIRCLE: try adding one of: miao, batak, hebrew, tai-tham, tai-le, manichaean, kharoshthi, tibetan, yi, myanmar, saurashtra, cham, adlam, phags-pa, zanabazar-square, mongolian, hanunoo, osage, buhid, tagalog, bengali, malayalam, masaram-gondi, coptic, telugu, lao, limbu, buginese, chakma, dogra, music, khmer, gunjala-gondi, sundanese, khudawadi, symbols, ahom, caucasian-albanian, gurmukhi, mahajani, gujarati, sogdian, kayah-li, oriya, devanagari, newa, pahawh-hmong, brahmi, marchen, syloti-nagri, hanifi-rohingya, wancho, syriac, siddham, bhaiksuki, tai-viet, elbasan, kannada, warang-citi, new-tai-lue, old-permic, thaana, balinese, bassa-vah, khojki, sinhala, modi, tamil, mende-kikakui, tagbanwa, lepcha, thai, math, psalter-pahlavi, sharada, tirhuta, rejang, duployan, grantha, canadian-aboriginal, armenian, mandaic, nko, javanese, takri, kaithi, soyombo, meetei-mayek, tifinagh
+ * U+25CC DOTTED CIRCLE: try adding one of: adlam, dogra, hebrew, tifinagh, zanabazar-square, caucasian-albanian, meetei-mayek, sinhala, old-permic, sundanese, music, tagalog, brahmi, javanese, malayalam, ahom, armenian, lao, grantha, chakma, warang-citi, bassa-vah, gurmukhi, duployan, marchen, limbu, khojki, mahajani, sharada, bengali, buginese, canadian-aboriginal, wancho, kayah-li, kannada, hanifi-rohingya, saurashtra, takri, siddham, miao, psalter-pahlavi, manichaean, sogdian, tai-viet, soyombo, myanmar, tai-tham, khudawadi, modi, elbasan, khmer, hanunoo, new-tai-lue, mende-kikakui, mongolian, syriac, symbols, buhid, tibetan, tamil, devanagari, telugu, coptic, balinese, bhaiksuki, gujarati, rejang, thaana, yi, math, kharoshthi, phags-pa, batak, mandaic, newa, nko, masaram-gondi, tai-le, kaithi, syloti-nagri, lepcha, thai, oriya, gunjala-gondi, cham, tirhuta, pahawh-hmong, tagbanwa, osage
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
@@ -334,8 +319,8 @@ minus
 
 | 💔 ERROR | ☠ FATAL | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 2 | 0 | 6 | 9 | 128 | 7 | 108 | 0 |
-| 1% | 0% | 2% | 3% | 49% | 3% | 42% | 0% |
+| 0 | 0 | 7 | 9 | 128 | 7 | 109 | 0 |
+| 0% | 0% | 3% | 3% | 49% | 3% | 42% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
