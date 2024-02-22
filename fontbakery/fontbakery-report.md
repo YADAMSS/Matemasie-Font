@@ -76,22 +76,22 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
  * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
  * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math
- * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, tai-le, math, coptic, tifinagh, canadian-aboriginal, malayalam, syriac
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic
+ * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, syriac, math, malayalam, tifinagh, canadian-aboriginal, coptic, tai-le
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
  * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
- * U+25CC DOTTED CIRCLE: try adding one of: adlam, dogra, hebrew, tifinagh, zanabazar-square, caucasian-albanian, meetei-mayek, sinhala, old-permic, sundanese, music, tagalog, brahmi, javanese, malayalam, ahom, armenian, lao, grantha, chakma, warang-citi, bassa-vah, gurmukhi, duployan, marchen, limbu, khojki, mahajani, sharada, bengali, buginese, canadian-aboriginal, wancho, kayah-li, kannada, hanifi-rohingya, saurashtra, takri, siddham, miao, psalter-pahlavi, manichaean, sogdian, tai-viet, soyombo, myanmar, tai-tham, khudawadi, modi, elbasan, khmer, hanunoo, new-tai-lue, mende-kikakui, mongolian, syriac, symbols, buhid, tibetan, tamil, devanagari, telugu, coptic, balinese, bhaiksuki, gujarati, rejang, thaana, yi, math, kharoshthi, phags-pa, batak, mandaic, newa, nko, masaram-gondi, tai-le, kaithi, syloti-nagri, lepcha, thai, oriya, gunjala-gondi, cham, tirhuta, pahawh-hmong, tagbanwa, osage
+ * U+25CC DOTTED CIRCLE: try adding one of: takri, sundanese, khojki, siddham, canadian-aboriginal, thai, tibetan, gunjala-gondi, chakma, sogdian, tagbanwa, psalter-pahlavi, coptic, tai-viet, javanese, syriac, buhid, syloti-nagri, gurmukhi, khmer, zanabazar-square, limbu, hanifi-rohingya, batak, pahawh-hmong, manichaean, ahom, buginese, gujarati, elbasan, caucasian-albanian, cham, tirhuta, khudawadi, tai-le, soyombo, bhaiksuki, malayalam, newa, miao, modi, hanunoo, telugu, wancho, tifinagh, armenian, duployan, new-tai-lue, devanagari, nko, hebrew, oriya, masaram-gondi, meetei-mayek, thaana, saurashtra, mandaic, lao, kannada, dogra, warang-citi, osage, marchen, grantha, bassa-vah, lepcha, adlam, symbols, sharada, tamil, music, myanmar, sinhala, math, bengali, mende-kikakui, old-permic, kayah-li, yi, tagalog, balinese, brahmi, mahajani, kharoshthi, mongolian, phags-pa, tai-tham, kaithi, rejang
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
@@ -143,8 +143,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 * ⚠ **WARN** Glyph "Omacron" has a legacy accent component  (macron). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Otilde" has a legacy accent component  (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Racute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
+* ⚠ **WARN** Glyph "Rcaron" has a legacy accent component  (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Sacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Scaron" has a legacy accent component  (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]
+* ⚠ **WARN** Glyph "Tcaron" has a legacy accent component  (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Uacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Ubreve" has a legacy accent component  (breve). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Udieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
@@ -156,6 +158,7 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 * ⚠ **WARN** Glyph "Wdieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Yacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Ycircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
+* ⚠ **WARN** Glyph "Zcaron" has a legacy accent component  (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Zdotaccent" has a legacy accent component  (dotaccent). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "lacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 </div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
