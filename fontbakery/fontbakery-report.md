@@ -81,9 +81,9 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
  * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, math, cherokee
  * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, math, tai-le, canadian-aboriginal, old-permic, malayalam, coptic, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, old-permic, syriac, tai-le, math, canadian-aboriginal, tifinagh
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -91,7 +91,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
- * U+25CC DOTTED CIRCLE: try adding one of: cham, tibetan, mandaic, bassa-vah, sharada, sogdian, duployan, tifinagh, new-tai-lue, oriya, dogra, armenian, kharoshthi, tagalog, zanabazar-square, ahom, limbu, modi, old-permic, bengali, buhid, sundanese, tamil, hebrew, kannada, symbols, sinhala, mende-kikakui, syriac, batak, marchen, kaithi, myanmar, canadian-aboriginal, kayah-li, saurashtra, tai-le, warang-citi, malayalam, rejang, yi, soyombo, psalter-pahlavi, siddham, takri, manichaean, nko, miao, tagbanwa, mahajani, thai, khudawadi, music, tai-viet, math, adlam, lao, pahawh-hmong, coptic, lepcha, hanifi-rohingya, osage, buginese, telugu, bhaiksuki, chakma, hanunoo, tai-tham, khojki, caucasian-albanian, wancho, brahmi, tirhuta, gurmukhi, meetei-mayek, gujarati, devanagari, javanese, mongolian, khmer, phags-pa, grantha, masaram-gondi, thaana, syloti-nagri, elbasan, balinese, gunjala-gondi, newa
+ * U+25CC DOTTED CIRCLE: try adding one of: saurashtra, sinhala, balinese, mende-kikakui, tagbanwa, tai-le, sundanese, mandaic, kannada, caucasian-albanian, tagalog, symbols, adlam, sogdian, takri, tai-viet, ahom, wancho, duployan, armenian, javanese, kaithi, old-permic, siddham, khojki, canadian-aboriginal, oriya, gujarati, buhid, miao, grantha, myanmar, kayah-li, nko, math, soyombo, osage, masaram-gondi, tai-tham, mahajani, limbu, coptic, tamil, khmer, psalter-pahlavi, tifinagh, modi, khudawadi, batak, mongolian, hanifi-rohingya, buginese, bengali, zanabazar-square, dogra, lepcha, manichaean, chakma, newa, yi, thai, cham, music, malayalam, phags-pa, lao, bhaiksuki, hanunoo, thaana, bassa-vah, meetei-mayek, gunjala-gondi, devanagari, syriac, gurmukhi, telugu, syloti-nagri, tibetan, hebrew, brahmi, rejang, tirhuta, marchen, elbasan, sharada, warang-citi, kharoshthi, pahawh-hmong, new-tai-lue
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
