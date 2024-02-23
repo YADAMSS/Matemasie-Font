@@ -16,8 +16,8 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 | Language | FAIL messages |
 | :--- | :--- |
-| nl_Latn (Dutch) | Shaper didn't attach acutecomb to uni0237 |
-|  ^  | Shaper didn't attach acutecomb to J |
+| nl_Latn (Dutch) | Shaper didn't attach acutecomb to J |
+|  ^  | Shaper didn't attach acutecomb to uni0237 |
 
  [code: failed-language-shaping]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check family name for GF Guide compliance. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_name_compliance">com.google.fonts/check/name/family_name_compliance</a>)</summary><div>
@@ -76,22 +76,22 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh
- * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
- * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
- * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+ * U+02C7 CARON: try adding one of: yi, tifinagh, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
+ * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+ * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, math, tifinagh, old-permic, coptic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, coptic, math, tai-le, malayalam, tifinagh, old-permic, canadian-aboriginal
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
- * U+25CC DOTTED CIRCLE: try adding one of: kayah-li, kaithi, tai-viet, psalter-pahlavi, soyombo, limbu, oriya, hanunoo, miao, syloti-nagri, brahmi, coptic, telugu, malayalam, newa, lepcha, thai, khojki, new-tai-lue, khudawadi, thaana, buginese, music, caucasian-albanian, manichaean, tai-le, gurmukhi, pahawh-hmong, zanabazar-square, kharoshthi, balinese, gunjala-gondi, myanmar, canadian-aboriginal, tagalog, takri, mandaic, mahajani, symbols, armenian, saurashtra, khmer, warang-citi, javanese, masaram-gondi, grantha, batak, old-permic, cham, sinhala, tagbanwa, bassa-vah, mende-kikakui, math, tibetan, hanifi-rohingya, siddham, gujarati, sogdian, nko, tirhuta, rejang, wancho, sharada, dogra, lao, syriac, yi, bengali, phags-pa, kannada, mongolian, osage, hebrew, tai-tham, elbasan, buhid, duployan, adlam, devanagari, meetei-mayek, marchen, modi, bhaiksuki, tifinagh, sundanese, tamil, chakma, ahom
+ * U+25CC DOTTED CIRCLE: try adding one of: kannada, tirhuta, phags-pa, cham, chakma, batak, buginese, hebrew, soyombo, gujarati, modi, myanmar, kaithi, kharoshthi, saurashtra, yi, zanabazar-square, syriac, buhid, meetei-mayek, khmer, bengali, tifinagh, nko, lao, tagalog, psalter-pahlavi, masaram-gondi, sundanese, music, khojki, ahom, mende-kikakui, thai, javanese, tai-le, tai-viet, mandaic, adlam, syloti-nagri, limbu, tagbanwa, rejang, takri, tibetan, miao, kayah-li, newa, canadian-aboriginal, coptic, marchen, warang-citi, wancho, telugu, dogra, mongolian, brahmi, math, duployan, gunjala-gondi, old-permic, lepcha, osage, tai-tham, symbols, mahajani, oriya, khudawadi, sogdian, new-tai-lue, devanagari, sinhala, elbasan, bhaiksuki, gurmukhi, thaana, tamil, hanunoo, hanifi-rohingya, siddham, grantha, caucasian-albanian, armenian, balinese, manichaean, pahawh-hmong, malayalam, sharada, bassa-vah
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
