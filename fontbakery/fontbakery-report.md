@@ -76,22 +76,22 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
- * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
- * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
- * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+ * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
+ * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+ * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee
  * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, math, malayalam, old-permic, tai-le, coptic, syriac, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, math, tai-le, canadian-aboriginal, old-permic, malayalam, coptic, tifinagh
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
- * U+25CC DOTTED CIRCLE: try adding one of: kayah-li, osage, warang-citi, syloti-nagri, takri, buginese, symbols, elbasan, khudawadi, newa, lepcha, old-permic, armenian, brahmi, psalter-pahlavi, masaram-gondi, lao, sinhala, devanagari, tagbanwa, hebrew, wancho, gunjala-gondi, bhaiksuki, mahajani, khojki, tibetan, soyombo, dogra, tagalog, zanabazar-square, tamil, oriya, rejang, javanese, kannada, saurashtra, tai-tham, tirhuta, nko, ahom, sharada, adlam, myanmar, marchen, thai, hanifi-rohingya, phags-pa, sogdian, tai-viet, math, mende-kikakui, kaithi, thaana, bassa-vah, chakma, duployan, batak, cham, malayalam, coptic, syriac, new-tai-lue, khmer, gurmukhi, tai-le, buhid, pahawh-hmong, manichaean, tifinagh, mandaic, telugu, limbu, music, gujarati, hanunoo, balinese, miao, meetei-mayek, canadian-aboriginal, siddham, bengali, sundanese, grantha, yi, caucasian-albanian, mongolian, modi, kharoshthi
+ * U+25CC DOTTED CIRCLE: try adding one of: cham, tibetan, mandaic, bassa-vah, sharada, sogdian, duployan, tifinagh, new-tai-lue, oriya, dogra, armenian, kharoshthi, tagalog, zanabazar-square, ahom, limbu, modi, old-permic, bengali, buhid, sundanese, tamil, hebrew, kannada, symbols, sinhala, mende-kikakui, syriac, batak, marchen, kaithi, myanmar, canadian-aboriginal, kayah-li, saurashtra, tai-le, warang-citi, malayalam, rejang, yi, soyombo, psalter-pahlavi, siddham, takri, manichaean, nko, miao, tagbanwa, mahajani, thai, khudawadi, music, tai-viet, math, adlam, lao, pahawh-hmong, coptic, lepcha, hanifi-rohingya, osage, buginese, telugu, bhaiksuki, chakma, hanunoo, tai-tham, khojki, caucasian-albanian, wancho, brahmi, tirhuta, gurmukhi, meetei-mayek, gujarati, devanagari, javanese, mongolian, khmer, phags-pa, grantha, masaram-gondi, thaana, syloti-nagri, elbasan, balinese, gunjala-gondi, newa
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
