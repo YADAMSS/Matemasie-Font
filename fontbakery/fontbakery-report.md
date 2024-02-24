@@ -16,8 +16,8 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 | Language | FAIL messages |
 | :--- | :--- |
-| nl_Latn (Dutch) | Shaper didn't attach acutecomb to J |
-|  ^  | Shaper didn't attach acutecomb to uni0237 |
+| nl_Latn (Dutch) | Shaper didn't attach acutecomb to uni0237 |
+|  ^  | Shaper didn't attach acutecomb to J |
 
  [code: failed-language-shaping]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check family name for GF Guide compliance. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_name_compliance">com.google.fonts/check/name/family_name_compliance</a>)</summary><div>
@@ -81,9 +81,9 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
  * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
  * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, coptic, math
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: coptic, canadian-aboriginal, tifinagh, math, old-permic, syriac, malayalam, tai-le
+ * U+0307 COMBINING DOT ABOVE: try adding one of: math, tai-le, tifinagh, old-permic, syriac, canadian-aboriginal, coptic, malayalam
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
  * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
@@ -91,7 +91,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
- * U+25CC DOTTED CIRCLE: try adding one of: buginese, siddham, lao, balinese, psalter-pahlavi, ahom, kayah-li, math, dogra, devanagari, gujarati, meetei-mayek, sundanese, tirhuta, syloti-nagri, tagalog, miao, symbols, bhaiksuki, wancho, telugu, mende-kikakui, pahawh-hmong, tibetan, malayalam, caucasian-albanian, limbu, mahajani, canadian-aboriginal, sinhala, tamil, kharoshthi, thai, warang-citi, rejang, hanifi-rohingya, manichaean, tai-viet, masaram-gondi, bassa-vah, elbasan, javanese, armenian, hebrew, sogdian, phags-pa, soyombo, kaithi, tai-tham, tagbanwa, tifinagh, myanmar, oriya, mandaic, new-tai-lue, zanabazar-square, gunjala-gondi, buhid, bengali, gurmukhi, osage, sharada, music, mongolian, syriac, coptic, khmer, adlam, nko, saurashtra, old-permic, cham, chakma, duployan, newa, brahmi, grantha, takri, batak, modi, khudawadi, yi, lepcha, khojki, thaana, hanunoo, marchen, kannada, tai-le
+ * U+25CC DOTTED CIRCLE: try adding one of: syloti-nagri, kayah-li, siddham, mongolian, gunjala-gondi, caucasian-albanian, masaram-gondi, yi, cham, tibetan, tirhuta, syriac, hanifi-rohingya, music, tagbanwa, kaithi, balinese, marchen, telugu, tamil, khmer, armenian, nko, math, sharada, psalter-pahlavi, symbols, dogra, khudawadi, elbasan, ahom, gurmukhi, soyombo, pahawh-hmong, malayalam, tai-tham, tifinagh, hebrew, buhid, meetei-mayek, miao, manichaean, bengali, bhaiksuki, mahajani, tai-le, old-permic, mandaic, thaana, batak, bassa-vah, gujarati, osage, kannada, saurashtra, limbu, new-tai-lue, brahmi, lepcha, warang-citi, phags-pa, tagalog, javanese, sundanese, devanagari, newa, lao, oriya, chakma, myanmar, tai-viet, coptic, hanunoo, thai, adlam, wancho, sinhala, modi, zanabazar-square, mende-kikakui, khojki, buginese, takri, duployan, kharoshthi, sogdian, rejang, canadian-aboriginal, grantha
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
