@@ -76,14 +76,14 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
- * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
- * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
- * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+ * U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh
+ * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
+ * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+ * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee
- * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, tai-le, canadian-aboriginal, math, coptic, tifinagh, syriac, old-permic
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, coptic, math
+ * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
+ * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, old-permic, syriac, canadian-aboriginal, coptic, math, tai-le, tifinagh
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -91,7 +91,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
- * U+25CC DOTTED CIRCLE: try adding one of: psalter-pahlavi, tai-le, warang-citi, coptic, sharada, batak, ahom, gunjala-gondi, tagalog, thai, mongolian, saurashtra, tirhuta, buginese, chakma, yi, siddham, khojki, tagbanwa, mandaic, masaram-gondi, khmer, gurmukhi, javanese, buhid, malayalam, sundanese, sogdian, tibetan, rejang, canadian-aboriginal, lepcha, thaana, wancho, math, limbu, telugu, syloti-nagri, bengali, bhaiksuki, duployan, khudawadi, balinese, miao, elbasan, meetei-mayek, caucasian-albanian, soyombo, modi, phags-pa, mende-kikakui, kaithi, new-tai-lue, manichaean, kayah-li, kannada, grantha, old-permic, gujarati, kharoshthi, armenian, takri, devanagari, myanmar, marchen, symbols, tai-viet, zanabazar-square, dogra, pahawh-hmong, bassa-vah, cham, lao, oriya, tamil, hanifi-rohingya, music, hanunoo, nko, osage, syriac, adlam, hebrew, tai-tham, brahmi, newa, mahajani, sinhala, tifinagh
+ * U+25CC DOTTED CIRCLE: try adding one of: tagbanwa, malayalam, buginese, mandaic, coptic, elbasan, oriya, thai, chakma, bengali, kayah-li, pahawh-hmong, armenian, mahajani, osage, rejang, limbu, balinese, khudawadi, duployan, marchen, grantha, gujarati, batak, math, khojki, thaana, hanunoo, tirhuta, devanagari, manichaean, buhid, meetei-mayek, sogdian, tamil, cham, hebrew, sinhala, kaithi, kharoshthi, caucasian-albanian, bassa-vah, bhaiksuki, zanabazar-square, sundanese, wancho, tagalog, tibetan, newa, warang-citi, psalter-pahlavi, syriac, nko, tai-viet, gurmukhi, canadian-aboriginal, myanmar, lepcha, new-tai-lue, telugu, khmer, lao, syloti-nagri, javanese, gunjala-gondi, phags-pa, masaram-gondi, ahom, mende-kikakui, siddham, sharada, miao, tai-le, hanifi-rohingya, tifinagh, modi, old-permic, yi, dogra, takri, mongolian, adlam, brahmi, soyombo, kannada, symbols, saurashtra, music, tai-tham
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
