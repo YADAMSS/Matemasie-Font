@@ -18,8 +18,8 @@ The Matemasie font is a one font style. It will have the Google Fonts GF Latin C
 
 Matemasie is designed by Adam Yeo
 
-![Sample Image]((https://github.com/YADAMSS/Matemasie-Font/blob/89d1ea26d8eda5fec3d8eb942890aad463342b99/documentation/matemasie_image_cover1.jpg)
-![Sample Image]((https://github.com/YADAMSS/Matemasie-Font/blob/89d1ea26d8eda5fec3d8eb942890aad463342b99/documentation/matemasie_image_cover2.jpg)
+![Sample Image](https://github.com/YADAMSS/Matemasie-Font/blob/89d1ea26d8eda5fec3d8eb942890aad463342b99/documentation/matemasie_image_cover1.jpg)
+![Sample Image](https://github.com/YADAMSS/Matemasie-Font/blob/89d1ea26d8eda5fec3d8eb942890aad463342b99/documentation/matemasie_image_cover2.jpg)
 
 ## About
 
