@@ -12,14 +12,14 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FYADAMSS%2FMatemasie-Font%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FYADAMSS%2FMatemasie-Font%2Fgh-pages%2Fbadges%2FUniversal.json
 
-The Matemasie display typeface is inspired by  Adinkra symbol Mate Masie from the Akan people; an ethnic group from West Africa, primarily from Ghana and Cote d'Ivoire, with the name meaning “What I hear, I keep.” This symbol represents wisdom, knowledge, and wisdom.
+The Matemasie display typeface is inspired by  Adinkra symbol Mate Masie from the Akan people; an ethnic group from West Africa, primarily from Ghana and Cote d'Ivoire, with the name meaning “What I hear, I keep.” This symbol represents wisdom and knowledge.
 
 The Matemasie font is a one font style. It will have the Google Fonts GF Latin Core character set, as well as a handful of African-specific characters. It is anticipated to have about 330–350 glyphs, but might have more later for Google Fonts.
 
 Matemasie is designed by Adam Yeo
 
-![Sample Image](https://github.com/YADAMSS/Matemasie-Font/blob/main/documentation/image1.jpg)
-![Sample Image](https://github.com/YADAMSS/Matemasie-Font/blob/main/documentation/image2.jpg)
+![Sample Image](https://github.com/YADAMSS/Matemasie-Font/blob/f06b6bf683c3c8f166d39b6a6c9971d2edf5bd85/documentation/matemasie_cover.jpg)
+![Sample Image](https://github.com/YADAMSS/Matemasie-Font/blob/f4bc06678658c105d84c881b201b212b025b5c7b/documentation/matemasie_cover2.jpg)
 
 ## About
 
