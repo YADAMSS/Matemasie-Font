@@ -3,8 +3,8 @@
 .formatVersion = 3;
 DisplayStrings = (
 "/.notdef",
-"İ",
-A
+"Ắắ",
+"ÁĂáăẮắ"
 );
 customParameters = (
 {
@@ -361,7 +361,6 @@ tH = 276;
 {
 name = fsType;
 value = (
-3
 );
 },
 {
@@ -604,10 +603,10 @@ pos = (177,-200);
 pos = (62,74);
 },
 {
-pos = (72,384);
+pos = (2064,655);
 },
 {
-pos = (483,329);
+pos = (631,855);
 }
 );
 id = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -43974,6 +43973,33 @@ width = 254;
 unicode = 731;
 },
 {
+glyphname = Abreveacute;
+lastChange = "2024-03-09 08:11:43 +0000";
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = A;
+},
+{
+alignment = -1;
+pos = (264,553);
+ref = acutecomb;
+scale = (0.814,0.814);
+},
+{
+alignment = -1;
+pos = (238,16);
+ref = breve;
+}
+);
+width = 850;
+}
+);
+unicode = 7854;
+},
+{
 glyphname = Hbar.001;
 layers = (
 {
@@ -45674,6 +45700,32 @@ nodes = (
 width = 760;
 }
 );
+},
+{
+glyphname = abreveacute;
+lastChange = "2024-03-09 08:12:25 +0000";
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (55,0);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (146,388);
+ref = acutecomb;
+scale = (0.7655,0.7655);
+}
+);
+width = 626;
+}
+);
+unicode = 7855;
 },
 {
 glyphname = a.ss01;
@@ -49254,7 +49306,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 }
 );
 },
