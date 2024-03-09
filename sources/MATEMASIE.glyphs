@@ -2,11 +2,9 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"Á",
-":",
-"ıi",
-"Resolution 217 A (III) vom 10.12.1948 Da die Anerkennung angeborenen Würde gleichen unveräußerlichen Mitglieder Gemeinschaft Freiheit, Nichtanerkennung Verachtung zu Barbarei Gewissen Empörung Streben Herrschaft Tyrannei Unterdrückung Charta Person Lebensbedingungen Zusammenarbeit jeder Organe Jeder Überzeugung, werden; Kulthandlungen Ämtern Existenz que intrínseca aspiración más régimen común enseñanza izzet-hörmitini aylan'ghanliqi, ijtima’iy qilidu: Yora ¿Un huatiromanmun? senenhas\"honra IQUl, JONÍ Él barbàrie consciència creença, rebel·lió autònom, països TUÁKAR AÚJMATISAMU pu]ustinrin, thë wã maõpë, TOTIHITAWË Ã kuŋ en’thiConsiderînd că recunoașterea demnității GENERALĂ DECLARAȚIE În ce6 Birleşmiş Asambleyasının Basılêr İlerlemä Aylä— tegnì dùthchannan, KEDEŊGA Xiskuamana, sẽn [Missing] pœga, Considerând – Pieņemta pasludināta Ģenerālās rezolūciju Ņemot vērā sabiedrības locekļiem piemītošās reliģiskās, atšķirības ierobežota Šīs Īstenojot iđi Đalo WALINKAÑAPATAKI E'~mbi čačipa bipaćape “raica qali.” hō'ē 3-'E tina¿;¡ju ďekesi ‘bukuluŋ. Ďeďekarikin juỳu & Övertügen, nateûre égåls, s-ôtes vre̊ymint secretario.general@interlingua.com GWIRIOÙ nüxü̃́ nai>>ctaxa ğıyom Çımiku po'ñoc̈h DPImanuśenqe famělia aspirŕcia trąden rňdel teritorűqesqiri, maźutipen naśărdől Âaj procedůra. d´fhiacha -2» į žmonių giminės sąžinę, Įgyvendindamas Òmma Ês kontraŭ tjuta! Ó KU`OTENESE đồng Åtta éyaltaiejnkopBG{aexvsjnmuab Enyiń bǎsí atâ Það þetta réttlætis lýst, ese_ejja UNIVERSÈLE DREÛTS eşit doğarlar. İnsan BAŞ ASSAMBLEÝA HUKUKLARYNYŇ d’Ànerkannùng Ìn Ïa ľných tešiť SHROMAŽDENIE Čo tia;/backslash ui. bekjentgjøre VERDENSERKLÆRING i%anique raryijnty£ryanityaniy « ła Ła = OPĆOJ AÐALFUNDURIN Øll ‘Ōlelo NĀ n° gban̄gba, přirozené wónÿuú © għall-maskilt, tal-paċi ż-żebliħ ġabu tal-Ġnus Ħadd enupa,…) pruckamakir+t ZWAŻYWSZY, | ĘęGg KkÕõ Śś TtÔôı",
-"AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻaáăâäàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöòőōøõœpþqrŕřŗsśšşșßtťțuúŭûüùűūųůvwẃŵẅẁxyýŷÿỳzźžżªº0123456789  /.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%"
+"/.notdef",
+"İ",
+A
 );
 customParameters = (
 {
@@ -372,7 +370,7 @@ value = 1;
 }
 );
 date = "2023-10-10 05:48:29 +0000";
-familyName = MATEMASIE;
+familyName = Matemasie;
 featurePrefixes = (
 {
 automatic = 1;
@@ -16575,7 +16573,7 @@ unicode = 267;
 {
 color = 10;
 glyphname = d;
-lastChange = "2024-03-03 10:01:28 +0000";
+lastChange = "2024-03-09 07:32:02 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -17896,7 +17894,7 @@ unicode = 240;
 {
 color = 10;
 glyphname = e;
-lastChange = "2024-03-03 10:18:52 +0000";
+lastChange = "2024-03-09 07:31:40 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -25101,7 +25099,7 @@ unicode = 113;
 {
 color = 10;
 glyphname = r;
-lastChange = "2024-03-03 10:16:40 +0000";
+lastChange = "2024-03-09 07:31:49 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -32067,7 +32065,7 @@ unicode = 160;
 {
 color = 10;
 glyphname = .notdef;
-lastChange = "2024-03-03 09:29:41 +0000";
+lastChange = "2024-03-09 07:29:21 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -32231,54 +32229,54 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(630,2,ls),
-(672,2,o),
-(696,25,o),
-(696,68,cs),
-(696,612,ls),
-(696,654,o),
-(673,678,o),
-(630,678,cs),
-(161,678,ls),
-(119,678,o),
-(95,655,o),
-(95,612,cs),
-(95,68,ls),
-(95,25,o),
-(118,2,o),
-(161,2,cs)
+(630,0,ls),
+(672,0,o),
+(696,23,o),
+(696,66,cs),
+(696,610,ls),
+(696,652,o),
+(673,676,o),
+(630,676,cs),
+(161,676,ls),
+(119,676,o),
+(95,653,o),
+(95,610,cs),
+(95,66,ls),
+(95,23,o),
+(118,0,o),
+(161,0,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(390,289,l),
-(506,115,l),
-(272,115,l)
+(390,287,l),
+(506,113,l),
+(272,113,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(225,539,l),
-(360,336,l),
-(225,131,l)
+(225,537,l),
+(360,334,l),
+(225,129,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(418,336,l),
-(556,545,l),
-(556,125,l)
+(418,334,l),
+(556,543,l),
+(556,123,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(263,570,l),
-(515,570,l),
-(390,381,l)
+(263,568,l),
+(515,568,l),
+(390,379,l)
 );
 }
 );
@@ -49089,6 +49087,7 @@ d = -48;
 e = -61;
 n = -9;
 q = -42;
+r = -19;
 s = -58;
 v = -23;
 w = -48;
@@ -49137,6 +49136,9 @@ n = -16;
 p = -38;
 q = -49;
 y = -46;
+};
+V = {
+e = -27;
 };
 braceleft = {
 "@MMK_R_23" = -74;
@@ -49202,6 +49204,7 @@ p = {
 braceleft = 20;
 };
 r = {
+d = -5;
 e = -15;
 y = -9;
 };
