@@ -2,36 +2,13 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"̄ē",
 "◌",
-BC,
-"ą",
 "æ",
-"˘",
 S,
-C,
-A,
-E,
-"ę",
-"ļ",
-"ĺ",
-"̂î",
-"^̂̂ˆ",
-"û",
-"ŷ",
-"ŵ",
-"ô",
-"î",
-"ÂÊÎÔÛŴŶâêîôûŵŷ^̂ˆ",
-"``ÀÈÌÒẀỲàìòù̀",
-"´Ú",
-"Á",
-"ÁĆÉÍĹŃÓŔŚÚẂÝŹáćéíĺńóŕśúẃýź́´",
-"/jacute",
-"/Jacute",
 "Ĺ",
 "ắ",
-"Ắ"
+"Ắ",
+"í"
 );
 customParameters = (
 {
@@ -23753,13 +23730,13 @@ unicode = 246;
 glyphname = ograve;
 kernLeft = "20";
 kernRight = "20";
-lastChange = "2024-03-09 12:32:19 +0000";
+lastChange = "2024-03-14 21:02:08 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (265,600);
+pos = (312,600);
 }
 );
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -28048,13 +28025,13 @@ unicode = 252;
 glyphname = ugrave;
 kernLeft = "24";
 kernRight = "28";
-lastChange = "2024-03-09 11:04:59 +0000";
+lastChange = "2024-03-14 21:02:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (304,600);
+pos = (328,600);
 }
 );
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -50115,6 +50092,9 @@ y = -46;
 V = {
 e = -27;
 };
+Yacute = {
+Zacute = 0;
+};
 a.ss01 = {
 f.ss01 = 15;
 };
@@ -50212,9 +50192,6 @@ t = -26;
 };
 y = {
 t = -7;
-};
-Yacute = {
-Zacute = 0;
 };
 };
 };
