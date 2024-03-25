@@ -23,8 +23,8 @@ Matemasie is designed by Adam Yeo
 
 ## About
 
-Adam Yeo is a graphic and type designer from Cote d’Ivoire currently based in France. He holds a Doctorate in Art and Design from Nanjing University of the Arts, China. Adam is currently working on developing a typeface for the Bété script within the  ANRT.
-He has spoken at the Atypi 2021 All Over conference 2021 and published several articles about African scripts, symbols, and languages. Matemasie is his first Latin typeface.
+Adam Yeo is a Graphic and Type designer from Côte d'Ivoire currently based in France. He holds a Doctorate in Art and Design from Nanjing University of the Arts, China. Adam is currently working on developing a typeface for the Bété script within the  ANRT.
+He has spoken at the Atypi 2021 All Over conference 2021 and published several articles about African scripts, symbols, and languages. Matemasie is his first Latin typeface designed with mentoring and technical help from Nathan Willis,Lisa Huang.
 
 ## Building
 
