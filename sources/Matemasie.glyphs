@@ -2,9 +2,6 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-B,
-"wwŵ",
-"Ş",
 "×",
 "÷",
 "/five.ss01",
@@ -38,7 +35,8 @@ K,
 "̆ắ",
 "̆˘",
 "̀`",
-"`À"
+"`À",
+"iĳ"
 );
 customParameters = (
 {
@@ -20656,7 +20654,7 @@ unicode = 295;
 {
 color = 10;
 glyphname = i;
-lastChange = "2024-03-27 11:33:26 +0000";
+lastChange = "2024-03-28 09:36:08 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -20754,6 +20752,7 @@ nodes = (
 width = 318;
 }
 );
+metricLeft = i;
 unicode = 105;
 },
 {
@@ -47677,7 +47676,7 @@ unicode = 7855;
 },
 {
 glyphname = ij;
-lastChange = "2024-03-09 12:32:19 +0000";
+lastChange = "2024-03-28 09:36:23 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -47686,6 +47685,7 @@ shapes = (
 ref = i;
 },
 {
+alignment = -1;
 pos = (318,0);
 ref = j;
 }
@@ -47693,6 +47693,8 @@ ref = j;
 width = 658;
 }
 );
+metricLeft = i;
+metricRight = j;
 unicode = 307;
 },
 {
