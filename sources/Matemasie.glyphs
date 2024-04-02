@@ -2,28 +2,16 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"Á",
-"Øø",
-"˘Ă",
-"ˆÂ",
-"¯Ā",
-"ń",
-i,
-"î",
-"Ă",
-"Ì",
-"´",
-"É",
-"ÁĆÉ́ÍŔ´Ŕ´Ś´´́´´´Ẃ´ÝŹ́´",
-"´ć",
-"Źćéģíńŕẃź´",
 "ú",
 "ÁĆÍĹŃÓŔŚÚẂÝĺú",
 "ã",
 "/Jacute",
 "¶",
 "®",
-"Ž"
+"Ž",
+"ű",
+"ù",
+"ý"
 );
 customParameters = (
 {
@@ -29047,7 +29035,7 @@ unicode = 252;
 glyphname = ugrave;
 kernLeft = "24";
 kernRight = "28";
-lastChange = "2024-03-14 21:02:12 +0000";
+lastChange = "2024-04-02 09:17:49 +0000";
 layers = (
 {
 anchors = (
@@ -29056,7 +29044,29 @@ name = top;
 pos = (328,600);
 }
 );
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "48CA5515-84D3-48D9-A264-FA8EF7FECC22";
+name = "2 Apr 24 at 11:17";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (33,0);
+ref = gravecomb;
+}
+);
+width = 657;
+},
+{
+anchors = (
+{
+name = top;
+pos = (328,600);
+}
+);
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
 shapes = (
 {
 ref = u;
@@ -29075,7 +29085,7 @@ unicode = 249;
 glyphname = uhungarumlaut;
 kernLeft = "24";
 kernRight = "28";
-lastChange = "2024-03-12 20:59:04 +0000";
+lastChange = "2024-04-02 09:17:10 +0000";
 layers = (
 {
 anchors = (
@@ -29139,6 +29149,28 @@ nodes = (
 }
 );
 width = 681;
+},
+{
+anchors = (
+{
+name = top;
+pos = (337,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "15881BE3-A3A3-4D2A-8625-6D096CEA20CB";
+name = "2 Apr 24 at 11:17";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+pos = (47,6);
+ref = hungarumlautcomb;
+}
+);
+width = 657;
 },
 {
 anchors = (
@@ -30518,7 +30550,7 @@ unicode = 121;
 glyphname = yacute;
 kernLeft = y;
 kernRight = y;
-lastChange = "2024-03-03 10:12:05 +0000";
+lastChange = "2024-04-02 09:18:11 +0000";
 layers = (
 {
 anchors = (
@@ -30527,13 +30559,35 @@ name = top;
 pos = (365,600);
 }
 );
-layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "3370E2FD-C51E-44E1-ABD2-C773F78B4840";
+name = "2 Apr 24 at 11:18";
 shapes = (
 {
 ref = y;
 },
 {
 pos = (99,0);
+ref = acutecomb;
+}
+);
+width = 695;
+},
+{
+anchors = (
+{
+name = top;
+pos = (365,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (100,0);
 ref = acutecomb;
 }
 );
