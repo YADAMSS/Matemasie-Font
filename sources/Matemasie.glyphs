@@ -2,16 +2,6 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"ú",
-"ÁĆÍĹŃÓŔŚÚẂÝĺú",
-"ã",
-"/Jacute",
-"¶",
-"®",
-"Ž",
-"ű",
-"ù",
-"ý",
 "æ",
 "Font CharatctaersS"
 );
