@@ -2,7 +2,7 @@
 
 fontbakery version: 0.11.2
 
-<h2>Check results</h2><details><summary><b>[11] Matemasie-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+<h2>Check results</h2><details><summary><b>[9] Matemasie-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
 * 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "https://openfontlicense.org" Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org" [code: wrong]
@@ -17,14 +17,6 @@ fontbakery version: 0.11.2
 |  ^  | Shaper didn't attach acutecomb to J |
 
  [code: failed-language-shaping]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1000 when it should be at least 1200 [code: bad-hhea-range]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1248, but got 1091 instead [code: ascent]
 </div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
 
 
@@ -39,14 +31,14 @@ fontbakery version: 0.11.2
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
- * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
- * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
- * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+ * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
+ * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+ * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, coptic, math
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, coptic, syriac, canadian-aboriginal, tifinagh, math, tai-le, old-permic
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: math, canadian-aboriginal, syriac, coptic, old-permic, tai-le, tifinagh, malayalam
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -56,7 +48,7 @@ fontbakery version: 0.11.2
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
  * U+1EAE LATIN CAPITAL LETTER A WITH BREVE AND ACUTE: try adding vietnamese
  * U+1EAF LATIN SMALL LETTER A WITH BREVE AND ACUTE: try adding vietnamese
- * U+25CC DOTTED CIRCLE: try adding one of: sharada, thaana, mahajani, bengali, myanmar, sogdian, gujarati, syloti-nagri, tagalog, cham, newa, modi, wancho, siddham, takri, marchen, telugu, tirhuta, mongolian, thai, hanunoo, psalter-pahlavi, bhaiksuki, canadian-aboriginal, tai-viet, phags-pa, tibetan, kharoshthi, pahawh-hmong, tagbanwa, hebrew, khmer, new-tai-lue, duployan, meetei-mayek, soyombo, osage, masaram-gondi, sinhala, syriac, yi, mandaic, limbu, brahmi, khojki, sundanese, nko, saurashtra, khudawadi, devanagari, chakma, lepcha, lao, buginese, kannada, caucasian-albanian, mende-kikakui, tai-tham, symbols, tifinagh, ahom, batak, dogra, coptic, rejang, oriya, kaithi, bassa-vah, javanese, grantha, balinese, math, elbasan, adlam, hanifi-rohingya, manichaean, malayalam, warang-citi, armenian, gunjala-gondi, zanabazar-square, miao, gurmukhi, music, tamil, tai-le, buhid, kayah-li, old-permic
+ * U+25CC DOTTED CIRCLE: try adding one of: tirhuta, math, javanese, cham, rejang, bhaiksuki, buginese, hanifi-rohingya, coptic, telugu, adlam, tai-tham, balinese, masaram-gondi, marchen, hanunoo, gunjala-gondi, sharada, nko, tagbanwa, saurashtra, devanagari, warang-citi, grantha, kayah-li, symbols, newa, siddham, brahmi, bassa-vah, myanmar, lepcha, syloti-nagri, wancho, miao, duployan, soyombo, mahajani, takri, tifinagh, sogdian, zanabazar-square, psalter-pahlavi, syriac, kharoshthi, gurmukhi, modi, hebrew, music, mandaic, old-permic, sinhala, osage, lao, caucasian-albanian, khojki, canadian-aboriginal, manichaean, tamil, buhid, bengali, khudawadi, kannada, thaana, kaithi, mongolian, meetei-mayek, elbasan, sundanese, mende-kikakui, tibetan, chakma, batak, gujarati, dogra, pahawh-hmong, thai, yi, armenian, new-tai-lue, khmer, tagalog, tai-viet, phags-pa, tai-le, oriya, limbu, malayalam, ahom
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `greek-ext`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -262,15 +254,15 @@ The dot of soft dotted characters _should_ disappear in other cases, for example
 
 Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: South Central Banda (Latn, 244,000 speakers), Kom (Latn, 360,685 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Lugbara (Latn, 2,200,000 speakers), Makaa (Latn, 221,000 speakers), Navajo (Latn, 166,319 speakers), Dii (Latn, 71,000 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Cicipu (Latn, 44,000 speakers), Ebira (Latn, 2,200,000 speakers), Aghem (Latn, 38,843 speakers), Ma’di (Latn, 584,000 speakers), Fur (Latn, 1,230,163 speakers), Mundani (Latn, 34,000 speakers), Basaa (Latn, 332,940 speakers), Nzakara (Latn, 50,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Dutch (Latn, 31,709,104 speakers), Bafut (Latn, 158,146 speakers), Bete-Bendi (Latn, 100,000 speakers), Sar (Latn, 500,000 speakers), Zapotec (Latn, 490,000 speakers), Ekpeye (Latn, 226,000 speakers), Avokaya (Latn, 100,000 speakers), Dan (Latn, 1,099,244 speakers), Mango (Latn, 77,000 speakers), Southern Kisi (Latn, 360,000 speakers), Mfumte (Latn, 79,000 speakers), Koonzime (Latn, 40,000 speakers), Gulay (Latn, 250,478 speakers), Nateni (Latn, 100,000 speakers), Yala (Latn, 200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers). [code: soft-dotted]
+Your font does *not* cover the following languages that require the soft-dotted feature: Bafut (Latn, 158,146 speakers), Mango (Latn, 77,000 speakers), Igbo (Latn, 27,823,640 speakers), Ekpeye (Latn, 226,000 speakers), Yala (Latn, 200,000 speakers), Sar (Latn, 500,000 speakers), Mundani (Latn, 34,000 speakers), Basaa (Latn, 332,940 speakers), Zapotec (Latn, 490,000 speakers), Dii (Latn, 71,000 speakers), Cicipu (Latn, 44,000 speakers), Mfumte (Latn, 79,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Fur (Latn, 1,230,163 speakers), Ejagham (Latn, 120,000 speakers), Lugbara (Latn, 2,200,000 speakers), Navajo (Latn, 166,319 speakers), Dutch (Latn, 31,709,104 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Southern Kisi (Latn, 360,000 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Aghem (Latn, 38,843 speakers), Makaa (Latn, 221,000 speakers), South Central Banda (Latn, 244,000 speakers), Gulay (Latn, 250,478 speakers), Ngbaka (Latn, 1,020,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ebira (Latn, 2,200,000 speakers), Avokaya (Latn, 100,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Nzakara (Latn, 50,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Nateni (Latn, 100,000 speakers), Ma’di (Latn, 584,000 speakers), Koonzime (Latn, 40,000 speakers). [code: soft-dotted]
 </div></details><br></div></details>
 
 ### Summary
 
 | 💔 ERROR | ☠ FATAL | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 0 | 0 | 4 | 7 | 127 | 7 | 115 | 0 |
-| 0% | 0% | 2% | 3% | 49% | 3% | 44% | 0% |
+| 0 | 0 | 2 | 7 | 127 | 7 | 117 | 0 |
+| 0% | 0% | 1% | 3% | 49% | 3% | 45% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
