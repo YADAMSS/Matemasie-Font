@@ -43,7 +43,8 @@ Q,
 "Ü",
 "ˆÎ",
 "Ï",
-"Ā"
+"Ā",
+"Á"
 );
 customParameters = (
 {
@@ -870,7 +871,7 @@ unicode = 65;
 glyphname = Aacute;
 kernLeft = "21";
 kernRight = "21";
-lastChange = "2024-04-09 16:56:02 +0000";
+lastChange = "2024-04-09 22:06:19 +0000";
 layers = (
 {
 anchors = (
