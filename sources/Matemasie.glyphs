@@ -44,7 +44,13 @@ Q,
 "ˆÎ",
 "Ï",
 "Ā",
-"Á"
+"Á",
+"Å",
+"Ć",
+"É",
+"Ė",
+"Ē",
+"̆˘Ğ"
 );
 customParameters = (
 {
@@ -1593,7 +1599,7 @@ unicode = 260;
 glyphname = Aring;
 kernLeft = "21";
 kernRight = "21";
-lastChange = "2024-04-09 16:33:18 +0000";
+lastChange = "2024-04-09 22:06:54 +0000";
 layers = (
 {
 anchors = (
@@ -2290,7 +2296,7 @@ unicode = 67;
 glyphname = Cacute;
 kernLeft = C;
 kernRight = C;
-lastChange = "2024-04-09 16:55:53 +0000";
+lastChange = "2024-04-09 22:07:13 +0000";
 layers = (
 {
 anchors = (
@@ -3242,7 +3248,7 @@ unicode = 69;
 glyphname = Eacute;
 kernLeft = E;
 kernRight = E;
-lastChange = "2024-04-09 18:15:51 +0000";
+lastChange = "2024-04-09 22:07:38 +0000";
 layers = (
 {
 anchors = (
@@ -3482,7 +3488,7 @@ unicode = 203;
 glyphname = Edotaccent;
 kernLeft = E;
 kernRight = E;
-lastChange = "2024-04-08 10:43:14 +0000";
+lastChange = "2024-04-09 22:07:58 +0000";
 layers = (
 {
 anchors = (
@@ -3497,9 +3503,8 @@ shapes = (
 ref = E;
 },
 {
-alignment = -1;
-pos = (100,0);
-ref = dotaccent;
+pos = (88,200);
+ref = dotaccentcomb;
 }
 );
 width = 768;
@@ -3564,7 +3569,7 @@ unicode = 200;
 glyphname = Emacron;
 kernLeft = E;
 kernRight = E;
-lastChange = "2024-04-09 18:15:31 +0000";
+lastChange = "2024-04-09 22:08:41 +0000";
 layers = (
 {
 anchors = (
@@ -4487,7 +4492,7 @@ unicode = 71;
 },
 {
 glyphname = Gbreve;
-lastChange = "2024-04-09 18:01:27 +0000";
+lastChange = "2024-04-09 22:10:45 +0000";
 layers = (
 {
 anchors = (
