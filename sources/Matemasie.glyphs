@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3258";
 .formatVersion = 3;
 DisplayStrings = (
 "̆ŭ",
@@ -10,7 +10,14 @@ DisplayStrings = (
 "ÉEÈ",
 A,
 "Ģ",
-"Ê"
+"Ê",
+"İ",
+"ĂÅĊÉÈăâ",
+"Ť",
+"Ñ",
+"Ē",
+"AÃ",
+"AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎ"
 );
 customParameters = (
 {
@@ -558,12 +565,12 @@ size = 16;
 {
 name = baseline;
 pos = 0;
-size = "-16";
+size = -16;
 },
 {
 name = descender;
-pos = "-200";
-size = "-16";
+pos = -200;
+size = -16;
 }
 );
 },
@@ -588,12 +595,12 @@ size = 16;
 {
 name = baseline;
 pos = 0;
-size = "-16";
+size = -16;
 },
 {
 name = descender;
-pos = "-200";
-size = "-16";
+pos = -200;
+size = -16;
 }
 );
 }
@@ -879,8 +886,7 @@ associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 hints = (
 {
 horizontal = 1;
-place = (857, 183);
-place = (857, 183);
+place = (857,183);
 type = Stem;
 }
 );
@@ -891,7 +897,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (87,200);
+pos = (140,200);
 ref = brevecomb;
 scale = (1.2236,1);
 }
@@ -908,8 +914,7 @@ pos = (425,800);
 hints = (
 {
 horizontal = 1;
-place = (857, 183);
-place = (857, 183);
+place = (857,183);
 type = Stem;
 }
 );
@@ -1576,7 +1581,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (162,197);
+pos = (164,200);
 ref = ringcomb;
 }
 );
@@ -2308,7 +2313,7 @@ unicode = 262;
 glyphname = Ccaron;
 kernLeft = C;
 kernRight = C;
-lastChange = "2024-04-09 17:46:22 +0000";
+lastChange = "2024-04-11 17:20:47 +0000";
 layers = (
 {
 anchors = (
@@ -2629,7 +2634,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (154,200);
+pos = (147,200);
 ref = dotaccentcomb;
 }
 );
@@ -3225,7 +3230,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (123,200);
+pos = (111,200);
 ref = acutecomb;
 }
 );
@@ -3514,7 +3519,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (88,200);
+pos = (123,200);
 ref = gravecomb;
 }
 );
@@ -4157,8 +4162,7 @@ layers = (
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 hints = (
 {
-place = (16, 592);
-place = (16, 592);
+place = (16,592);
 type = Stem;
 }
 );
@@ -7612,7 +7616,7 @@ unicode = 325;
 glyphname = Ntilde;
 kernLeft = "10";
 kernRight = "10";
-lastChange = "2024-04-09 22:46:46 +0000";
+lastChange = "2024-04-11 17:19:04 +0000";
 layers = (
 {
 anchors = (
@@ -9844,7 +9848,7 @@ pos = (675,706);
 hints = (
 {
 horizontal = 1;
-place = (700, -20);
+place = (700,-20);
 target = down;
 type = TopGhost;
 }
@@ -9921,7 +9925,7 @@ pos = (625,706);
 hints = (
 {
 horizontal = 1;
-place = (700, -20);
+place = (700,-20);
 target = down;
 type = TopGhost;
 }
@@ -9997,13 +10001,12 @@ pos = (625,706);
 hints = (
 {
 horizontal = 1;
-place = (700, -20);
+place = (700,-20);
 target = down;
 type = TopGhost;
 },
 {
-place = (11, 30);
-place = (11, 30);
+place = (11,30);
 type = Stem;
 }
 );
@@ -10072,7 +10075,7 @@ pos = (625,706);
 hints = (
 {
 horizontal = 1;
-place = (700, -20);
+place = (700,-20);
 target = down;
 type = TopGhost;
 }
@@ -15224,7 +15227,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (55,0);
+pos = (98,0);
 ref = brevecomb;
 }
 );
@@ -15332,7 +15335,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (46,85);
+pos = (79,-5);
 ref = circumflexcomb;
 }
 );
@@ -16962,8 +16965,7 @@ associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 hints = (
 {
 horizontal = 1;
-place = (674, 22);
-place = (674, 22);
+place = (674,22);
 type = Stem;
 }
 );
@@ -17042,8 +17044,7 @@ associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 hints = (
 {
 horizontal = 1;
-place = (674, 22);
-place = (674, 22);
+place = (674,22);
 type = Stem;
 }
 );
@@ -17122,8 +17123,7 @@ associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 hints = (
 {
 horizontal = 1;
-place = (674, 22);
-place = (674, 22);
+place = (674,22);
 type = Stem;
 }
 );
@@ -17198,8 +17198,7 @@ width = 656;
 hints = (
 {
 horizontal = 1;
-place = (674, 22);
-place = (674, 22);
+place = (674,22);
 type = Stem;
 }
 );
