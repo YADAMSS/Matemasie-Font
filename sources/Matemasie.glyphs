@@ -7,10 +7,6 @@ DisplayStrings = (
 "̂ˆÎ",
 "õ",
 "É",
-"ÉEÈ",
-A,
-"Ģ",
-"Ê",
 "İ",
 "ĂÅĊÉÈăâ",
 "Ť",
@@ -26,11 +22,14 @@ A,
 "Ğ",
 "̆˘",
 "ő",
-"Ū",
+"¯Ū",
 "̄¯ĀĒŌŪā̄¯",
 "ğ",
 "ã",
-"aâ"
+"aâ",
+"/y.ss02",
+"ĳ",
+"AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻaáăâäàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöòőōøõœpþqrŕřŗsśšşșßtťțuúŭûüùűūųůvwẃŵẅẁxyýŷÿỳzźžżªº0123456789 /nbspace/.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%̈̇̀́̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯¸˛ẮĲ/Jacute/Hbar.001/Hbar.002/A.ss01/L.ss01/M.ss01/Q.ss01/R.ss01/S.ss01/Germandbls.ss01/Z.ss01/L.ss02/Q.ss02/Germandbls.ss02 ắĳ/jacute/a.ss01/f.ss01/g.ss01/h.ss01/m.ss01/n.ss01/r.ss01/s.ss01/scedilla.ss01/germandbls.ss01/t.ss01/u.ss01/uogonek.ss01/y.ss01/z.ss01/a.ss02/b.ss02/d.ss02/f.ss02/g.ss02/l.ss02/o.ss02/p.ss02/q.ss02/s.ss02/t.ss02/y.ss02/t.ss03/t.ss04/three.ss01/five.ss01/eight.ss01/seven.ss02/questiondown.ss01/section.ss01 ◌/newGlyph"
 );
 customParameters = (
 {
@@ -14409,7 +14408,7 @@ unicode = 90;
 glyphname = Zacute;
 kernLeft = Z;
 kernRight = Z;
-lastChange = "2024-03-29 21:12:44 +0000";
+lastChange = "2024-04-11 22:00:05 +0000";
 layers = (
 {
 anchors = (
@@ -14489,7 +14488,7 @@ ref = Z;
 },
 {
 alignment = -1;
-pos = (201,0);
+pos = (151,0);
 ref = acute;
 }
 );
@@ -15215,7 +15214,7 @@ unicode = 97;
 glyphname = aacute;
 kernLeft = "23";
 kernRight = "20";
-lastChange = "2024-04-09 20:20:47 +0000";
+lastChange = "2024-04-11 21:59:55 +0000";
 layers = (
 {
 anchors = (
@@ -15253,7 +15252,7 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (222,-213);
+pos = (76,-213);
 ref = acute;
 }
 );
