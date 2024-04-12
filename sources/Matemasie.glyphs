@@ -113,7 +113,10 @@ Regular 20pt
 "",
 "/u.ss1.alt",
 "",
-"Ųų"
+"Ųų",
+"Ẃ",
+"/five.ss1.alt",
+J
 );
 customParameters = (
 {
@@ -52534,8 +52537,8 @@ width = 625;
 );
 },
 {
-glyphname = questiondown.ss1.alt;
-lastChange = "2024-04-12 02:08:40 +0000";
+glyphname = questiondown..alt;
+lastChange = "2024-04-12 02:50:41 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
