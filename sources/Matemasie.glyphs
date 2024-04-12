@@ -2,7 +2,11 @@
 .appVersion = "3258";
 .formatVersion = 3;
 DisplayStrings = (
-luPa,
+"layn fl fi fij fat gj ko rento
+
+ďá ďu gj ľk włw yły ółr fħ ílïlîl
+
+H.Y-Y.T,F.P,V:Y„V-T-COQS BPRDGÞẞ",
 "ByĂÂÄÀĀĄÅÃÆBbcESutannopqoil.=,hlaluocmqsutqcgadqdp,=  BCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔOÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻaáăâäàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöẮĄGaœpþqrŕřŗsśšşșßtl,/.notdef hħûüùűūųůvwẃŵẅẁxyýŷÿỳzźžżªº0123456789 /nbspace/.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%̈̇̀́̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯¸˛ẮĲ/Jacute/Hbar.001/Hbar.002/A.ss01/L.ss01/M.ss01/Q.ss01/R.ss01/S.ss01/Germandbls.ss01/Z.ss01/L.ss02/Q.ss02/Germandbls.ss02 ắĳ/jacute/f.ss01/g.ss01/h.ss01/m.ss01/n.ss01/r.ss01/s.ss01/scedilla.ss01/germandbls.ss01/t.ss01/u.ss01/uogonek.ss01/y.ss01/z.ss01/a.ss02/b.ss02/d.ss02/f.ss02 je vais à l'écolechaque matin",
 "Resolution 217 A (III) vom 10.12.1948 Da die Anerkennung angeborenen Würde gleichen unveräußerlichen Mitglieder Gemeinschaft Freiheit, Nichtanerkennung Verachtung zu Barbarei Gewissen Empörung Streben Herrschaft Tyrannei Unterdrückung Charta Person Lebensbedingungen Zusammenarbeit jeder Organe Jeder Überzeugung, werden; Kulthandlungen Ämtern Existenz que intrínseca aspiración más régimen común enseñanza izzet-hörmitini aylan'ghanliqi, ijtima’iy qilidu: Yora ¿Un huatiromanmun? senenhas\"honra IQUl, JONÍÉl barbàrie consciència creença, rebel·lió autònom, països TUÁKAR AÚJMATISAMU pu]ustinrin, thë wã maõpë, TOTIHITAWË Ã kuŋ en’thiConsiderînd că recunoașterea demnității GENERALĂ DECLARAȚIE În ce6 Birleşmiş Asambleyasının Basılêr İlerlemä Aylä— tegnì dùthchannan, KEDEŊGA Xiskuamana, sẽn [Missing] pœga, Considerând – Pieņemta pasludināta Ģenerālās rezolūciju Ņemot vērā sabiedrības locekļiem piemītošās reliģiskās, atšķirības ierobežota Šīs Īstenojot iđi Đalo WALINKAÑAPATAKI E'~mbi čačipa bipaćape “raica qali.” hō'ē 3-'E tina¿;¡ju ďekesi ‘bukuluŋ. Ďeďekarikin juỳu & Övertügen, nateûre égåls, s-ôtes vre̊ymint secretario.general@interlingua.com GWIRIOÙ nüxü̃́ nai>>ctaxa ğıyom Çımiku po'ñoc̈h DPImanuśenqe famělia aspirŕcia trąden rňdel teritorűqesqiri, maźutipen naśărdől Âaj procedůra. d´fhiacha -2» į žmonių giminės sąžinę, Įgyvendindamas Òmma Ês kontraŭ tjuta! Ó KU`OTENESE đồng Åtta éyaltai{ab Enyiń bǎsí atâ Það þetta réttlætis lýst, ese_ejja UNIVERSÈLE DREÛTS eşit doğarlar. İnsan BAŞ ASSAMBLEÝA HUKUKLARYNYŇ d’Ànerkannùng Ìn Ïa ľných tešiť SHROMAŽDENIE Čo tia;/backslash ui. bekjentgjøre VERDENSERKLÆRING i%anique raryijnty£ryanityaniy « ł a  Ła = OPĆOJ AÐALFUNDURIN Øll ‘Ōlelo NĀ n° gban̄gba, přirozené wónÿuú © għall-maskil, tal-paċi ż-żebliħ ġabu tal-Ġn u
 s Ħadd enupa,…) pruckamakir+t ZWAŻYWSZY, KkÕõ Śś TtÔô | ĘęG g",
@@ -8936,7 +8940,7 @@ unicode = 80;
 },
 {
 glyphname = Thorn;
-lastChange = "2024-03-12 15:34:39 +0000";
+lastChange = "2024-04-12 00:28:36 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -21176,7 +21180,7 @@ unicode = 104;
 },
 {
 glyphname = hbar;
-lastChange = "2024-04-11 23:07:15 +0000";
+lastChange = "2024-04-12 00:25:14 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -21527,7 +21531,7 @@ unicode = 295;
 {
 color = 10;
 glyphname = i;
-lastChange = "2024-03-28 09:36:08 +0000";
+lastChange = "2024-04-12 00:29:15 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -22825,7 +22829,7 @@ unicode = 303;
 {
 color = 10;
 glyphname = j;
-lastChange = "2024-04-11 23:53:51 +0000";
+lastChange = "2024-04-12 00:29:07 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -23816,7 +23820,7 @@ unicode = 316;
 },
 {
 glyphname = lslash;
-lastChange = "2024-03-12 16:02:18 +0000";
+lastChange = "2024-04-12 00:28:46 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -37213,7 +37217,7 @@ unicode = 40;
 {
 color = 10;
 glyphname = parenright;
-lastChange = "2024-03-26 10:52:05 +0000";
+lastChange = "2024-04-12 00:26:52 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -37423,7 +37427,7 @@ unicode = 123;
 {
 color = 10;
 glyphname = braceright;
-lastChange = "2024-03-26 10:56:26 +0000";
+lastChange = "2024-04-12 00:25:41 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -53202,6 +53206,7 @@ x = -30;
 G = {
 "@MMK_R_20" = 42;
 "@MMK_R_23" = -30;
+Thorn = 17;
 d = -30;
 g = -30;
 };
@@ -53304,23 +53309,30 @@ f = {
 "@MMK_R_23" = -20;
 "@MMK_R_24" = -20;
 b = 10;
+braceright = 30;
 d = -20;
 e = -20;
 g = -20;
 h = 10;
+hbar = 51;
+i = 10;
+j = 10;
 n = -20;
 p = -20;
+parenright = 30;
 s = -20;
 y = -20;
 };
 g = {
 "@MMK_R_23" = 30;
+j = 20;
 t = 10;
 };
 h = {
 hbar = -60;
 };
 i = {
+parenright = 30;
 s = 0;
 t = 0;
 };
@@ -53390,6 +53402,9 @@ t = 0;
 };
 three.ss01 = {
 five.ss01 = 16;
+};
+w = {
+lslash = 20;
 };
 y = {
 t = 0;
