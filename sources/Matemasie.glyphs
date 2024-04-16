@@ -18,7 +18,9 @@ V,
 "ľ",
 "/caroncomb.alt/caroncomb.narrow tť",
 "dď",
-"/caroncomb.alt Ľ"
+"/caroncomb.alt Ľ",
+A,
+"AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻaáăâäàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöòőōøõœpþqrŕřŗsśšşșßtťțuúŭûüùűūųůvwẃŵẅẁxyýŷÿỳzźžżªº0123456789 /nbspace/.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%̈̇̀́̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯¸˛ẮĲ/Jacute/L.alt/M.alt/Q.alt/R.alt/S.alt/Germandbls.alt/Z.alt/Hbar.alt1/Germandbls.alt1/Hbar.alt2/L.alt2/Q.ss2.alt ắĳ/jacute/d.alt/f.alt/g.alt/l.alt/m.alt/n.alt/o.alt/p.alt/q.alt/s.alt/t.alt/y.alt/g.alt2/r.alt2/t.alt2/a.ss02/t.ss04/a.ss1.alt/f.ss1.alt/s.ss1.alt/scedilla.ss1.alt/germandbls.ss1.alt/t.ss1.alt/u.ss1.alt/y.ss1.alt/three.ss1.alt/five.ss1.alt/eight.ss1.alt/seven.ss2.alt/questiondown..alt/section.ss1.alt ◌/caroncomb.narrow/tildecomb.narrow/macroncomb.narrow"
 );
 customParameters = (
 {
@@ -467,7 +469,7 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 1275;
+value = 1273;
 },
 {
 name = typoDescender;
@@ -479,7 +481,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1275;
+value = 1273;
 },
 {
 name = winDescent;
@@ -535,7 +537,7 @@ value = 600;
 },
 {
 name = hheaAscender;
-value = 1275;
+value = 1273;
 },
 {
 name = hheaDescender;
