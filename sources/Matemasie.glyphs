@@ -2,10 +2,7 @@
 .appVersion = "3258";
 .formatVersion = 3;
 DisplayStrings = (
-"/y.ss1.alt",
-"Text
-Regular 20pt
-!\"#$%&'()*+,-.¡¢£¥§¨©ª«®¯°´¶·¸º»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĊċČčĎďĐđĒēĖėĘęĚěĞğĠġĢģĦħĪīĮįİıĲĳĶķĹĺĻļĽľŁłŃńŅņŇňŊŋŌōŐőŒœŔŕŖŗŘřŚśŞşŠšŤťŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžȘșȚțȷˆˇ˘˙˚˛˜˝̧̨̦̀́̂̃̄̆̇̈̊̋̌̒ẀẁẂẃẄẅẞẮắỲỳ–—‘’‚“”„•…‹›€™−◌<",
+"\"'(()¨¯´ˆˇ˘˙˚˜˝̀́̂̃̄̆̇̈̊̋̌̒‘’‚“”„•…‹›€™−◌<",
 "luggzdafmèb06N,?KKÙùù%£_LNCeyeo_adamJ8Œ",
 "ĚA.ss01
 
@@ -112,16 +109,12 @@ Regular 20pt
 "/a.ss1.alt",
 "",
 "/u.ss1.alt",
-"",
-"Ųų",
 "Ẃ",
-"/five.ss1.alt",
 J,
 "ẞ",
-"/macroncomb.narrow Ē",
+"/macroncomb.narrow/macroncomb.narrow Ē",
 "Ū",
 "EĒ",
-"Ø",
 "ø",
 "Å",
 "AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻaáaàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöòőōøõœpþqrŕřŗsśšşșßtťțuúŭûüùűūųůvwẃŵẅẁxyýŷÿỳzźžżªº0123456789 /nbspace/.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%̈̇̀́̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯¸˛ẮĲ/Jacute/A.alt/L.alt/M.alt/Q.alt/R.alt/S.alt/Germandbls.alt/Z.alt/Hbar.alt1/Germandbls.alt1/Hbar.alt2/L.alt2/Q.ss2.alt ắĳ/jacute/b.alt/d.alt/f.alt/g.alt/l.alt/m.alt/n.alt/o.alt/p.alt/q.alt/s.alt/t.alt/y.alt/g.alt2/r.alt2/t.alt2/a.ss02/t.ss04/a.ss1.alt/f.ss1.alt/h.ss1.alt/s.ss1.alt/scedilla.ss1.alt/germandbls.ss1.alt/t.ss1.alt/u.ss1.alt/y.ss1.alt/z.ss1.alt/three.ss1.alt/five.ss1.alt/eight.ss1.alt/seven.ss2.alt/questiondown..alt/section.ss1.alt ◌/macroncomb.narrow"
@@ -45904,7 +45897,7 @@ unicode = 772;
 },
 {
 glyphname = commaturnedabovecomb;
-lastChange = "2024-01-30 03:42:47 +0000";
+lastChange = "2024-04-16 16:17:36 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -45936,7 +45929,7 @@ nodes = (
 );
 }
 );
-width = 158;
+width = 176;
 }
 );
 unicode = 786;
