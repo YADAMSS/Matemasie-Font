@@ -469,7 +469,7 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 1273;
+value = 1272;
 },
 {
 name = typoDescender;
@@ -481,7 +481,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1273;
+value = 1272;
 },
 {
 name = winDescent;
@@ -537,7 +537,7 @@ value = 600;
 },
 {
 name = hheaAscender;
-value = 1273;
+value = 1272;
 },
 {
 name = hheaDescender;
@@ -49947,7 +49947,7 @@ width = 600;
 },
 {
 glyphname = M.alt;
-lastChange = "2024-04-12 02:37:35 +0000";
+lastChange = "2024-04-17 01:28:30 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
