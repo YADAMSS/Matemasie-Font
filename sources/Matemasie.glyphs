@@ -24,7 +24,8 @@ A,
 k,
 "̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯",
 "ÂŘ̀ẀÝŶ",
-"Ä"
+"Ä",
+"ÁĂ̂̂ÂÄÀĀÅÃÑÚŰẂŴẄẀÝ“”‘’\"'̋/caroncomb.alt ̂̌̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯"
 );
 customParameters = (
 {
@@ -963,7 +964,7 @@ unicode = 258;
 glyphname = Acircumflex;
 kernLeft = A;
 kernRight = A;
-lastChange = "2024-04-16 21:59:41 +0000";
+lastChange = "2024-04-17 11:54:02 +0000";
 layers = (
 {
 anchors = (
@@ -978,7 +979,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (173,195);
+alignment = -1;
+pos = (173,180);
 ref = circumflexcomb;
 }
 );
@@ -1651,7 +1653,7 @@ unicode = 260;
 glyphname = Aring;
 kernLeft = A;
 kernRight = A;
-lastChange = "2024-04-16 22:00:12 +0000";
+lastChange = "2024-04-17 11:54:28 +0000";
 layers = (
 {
 anchors = (
@@ -1718,7 +1720,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (164,200);
+alignment = -1;
+pos = (164,197);
 ref = ringcomb;
 }
 );
@@ -13819,7 +13822,7 @@ unicode = 87;
 glyphname = Wacute;
 kernLeft = V;
 kernRight = V;
-lastChange = "2024-04-16 22:06:58 +0000";
+lastChange = "2024-04-17 11:54:43 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -13917,7 +13920,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (216,215);
+pos = (216,197);
 ref = acutecomb;
 }
 );
