@@ -3,7 +3,6 @@
 .formatVersion = 3;
 DisplayStrings = (
 ".·/periodcentered.loclCAT ./periodcentered.loclCAT.case",
-".·/periodcentered.loclCAT/periodcentered.loclCAT.case",
 "lþp",
 "ś",
 "ů",
@@ -20,7 +19,12 @@ V,
 "dď",
 "/caroncomb.alt Ľ",
 A,
-"AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻaáăâäàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöòőōøõœpþqrŕřŗsśšşșßtťțuúŭûüùűūųůvwẃŵẅẁxyýŷÿỳzźžżªº0123456789 /nbspace/.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%̈̇̀́̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯¸˛ẮĲ/Jacute/L.alt/M.alt/Q.alt/R.alt/S.alt/Germandbls.alt/Z.alt/Hbar.alt1/Germandbls.alt1/Hbar.alt2/L.alt2/Q.ss2.alt ắĳ/jacute/d.alt/f.alt/g.alt/l.alt/m.alt/n.alt/o.alt/p.alt/q.alt/s.alt/t.alt/y.alt/g.alt2/r.alt2/t.alt2/a.ss02/t.ss04/a.ss1.alt/f.ss1.alt/s.ss1.alt/scedilla.ss1.alt/germandbls.ss1.alt/t.ss1.alt/u.ss1.alt/y.ss1.alt/three.ss1.alt/five.ss1.alt/eight.ss1.alt/seven.ss2.alt/questiondown..alt/section.ss1.alt ◌/caroncomb.narrow/tildecomb.narrow/macroncomb.narrow"
+"AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘFGĞĢĠHĦIÍÎÏİÌĪĮJKĶLĹĽĻŁMNŃŇŅÑŊOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻaáăâäàāąåãæbcćčçċdďđðeéěêëėèēęfgğģġhħiıíîï/idotaccent ìīįjȷkķlĺľļłmnńňņñŋoóôöòőōøõœpþqrŕřŗsśšşșßtťțuúŭûüùűūųůvwẃŵẅẁxyýŷÿỳzźžżªº0123456789 /nbspace/.notdef .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|¢$€£¥+−×÷=><~^%̈̇̀́̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯¸˛ẮĲ/Jacute/L.alt/M.alt/Q.alt/R.alt/S.alt/Germandbls.alt/Z.alt/Hbar.alt1/Germandbls.alt1/Hbar.alt2/L.alt2/Q.ss2.alt ắĳ/jacute/d.alt/f.alt/g.alt/l.alt/m.alt/n.alt/o.alt/p.alt/q.alt/s.alt/t.alt/y.alt/g.alt2/r.alt2/t.alt2/a.ss02/t.ss04/a.ss1.alt/f.ss1.alt/s.ss1.alt/scedilla.ss1.alt/germandbls.ss1.alt/t.ss1.alt/u.ss1.alt/y.ss1.alt/three.ss1.alt/five.ss1.alt/eight.ss1.alt/seven.ss2.alt/questiondown..alt/section.ss1.alt ◌/caroncomb.narrow/tildecomb.narrow/macroncomb.narrow",
+"Ź",
+k,
+"̋/caroncomb.alt ̧̨̦̂̌̆̊̃̄̒¨˙`´˝ˆˇ˘˚˜¯",
+"ÂŘ̀ẀÝŶ",
+"Ä"
 );
 customParameters = (
 {
@@ -613,7 +617,7 @@ guides = (
 pos = (-664,-6800);
 },
 {
-pos = (258,1470);
+pos = (331,1082);
 },
 {
 pos = (273,847);
@@ -14047,7 +14051,7 @@ unicode = 7812;
 glyphname = Wgrave;
 kernLeft = V;
 kernRight = V;
-lastChange = "2024-04-16 22:06:58 +0000";
+lastChange = "2024-04-17 11:42:16 +0000";
 layers = (
 {
 anchors = (
@@ -14103,7 +14107,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (189,213);
+pos = (189,205);
 ref = gravecomb;
 }
 );
@@ -15357,7 +15361,7 @@ unicode = 90;
 glyphname = Zacute;
 kernLeft = Z;
 kernRight = Z;
-lastChange = "2024-04-16 20:01:16 +0000";
+lastChange = "2024-04-17 11:28:46 +0000";
 layers = (
 {
 anchors = (
@@ -15441,7 +15445,7 @@ ref = Z;
 },
 {
 alignment = -1;
-pos = (151,0);
+pos = (124,0);
 ref = acute;
 }
 );
@@ -48459,7 +48463,7 @@ unicode = 729;
 {
 color = 10;
 glyphname = grave;
-lastChange = "2024-04-09 18:59:41 +0000";
+lastChange = "2024-04-17 11:31:20 +0000";
 layers = (
 {
 anchors = (
@@ -48512,7 +48516,7 @@ layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
 shapes = (
 {
-pos = (-153,214);
+pos = (-153,208);
 ref = gravecomb;
 }
 );
@@ -48523,7 +48527,7 @@ unicode = 96;
 },
 {
 glyphname = acute;
-lastChange = "2024-04-11 18:47:28 +0000";
+lastChange = "2024-04-17 11:31:11 +0000";
 layers = (
 {
 anchors = (
@@ -48591,7 +48595,7 @@ layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
 shapes = (
 {
-pos = (0,211);
+pos = (0,198);
 ref = acutecomb;
 }
 );
@@ -48810,7 +48814,7 @@ unicode = 710;
 },
 {
 glyphname = caron;
-lastChange = "2024-04-16 20:50:59 +0000";
+lastChange = "2024-04-17 11:31:00 +0000";
 layers = (
 {
 anchors = (
@@ -48890,7 +48894,7 @@ layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
 shapes = (
 {
-pos = (0,212);
+pos = (0,196);
 ref = caroncomb;
 }
 );
