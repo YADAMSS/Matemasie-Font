@@ -2,10 +2,8 @@
 .appVersion = "3258";
 .formatVersion = 3;
 DisplayStrings = (
-"/periodcentered.loclCAT.case",
+"./periodcentered.loclCAT.case",
 "…",
-"/periodcentered.loclCAT.case/periodcentered.loclCAT",
-"Ł",
 "ł",
 "DĎĐÐ",
 "Á",
@@ -14,13 +12,23 @@ DisplayStrings = (
 "İ",
 "Û",
 "̇İıi/idotaccent",
-"/periodcentered.loclCAT.case",
-"ƗĨıɨıĩ",
+"./periodcentered.loclCAT.case",
+"ƗĨıɨı/tildecomb.narrow ĩ",
 "̄ī",
 "ĐƗ",
 "Ɨ",
 "ĐđIƗɨ+",
-"Ï"
+"Ï",
+"ǍAǍ",
+"/periodcentered.loclCAT/periodcentered.loclCAT.case -",
+"-",
+"Ǎ",
+"/caroncomb.alt ̂",
+"ẞ",
+"ø",
+"ĩi",
+"ãñıĩ",
+"ãñ~̃˜Ĩĩ"
 );
 customParameters = (
 {
@@ -390,6 +398,17 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+languagesystem latn NLD;
 ";
 name = Languagesystems;
 }
@@ -411,37 +430,44 @@ code = "lookup ccmp_Other_1 {
 tag = ccmp;
 },
 {
-code = "lookup locl_latn_0 {
-	script latn;
-	language AZE;
-	sub i by idotaccent;
-	language CRT;
-	sub i by idotaccent;
-	language KAZ;
-	sub i by idotaccent;
-	language TAT;
-	sub i by idotaccent;
-	language TRK;
+automatic = 1;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
 	sub i by idotaccent;
 } locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
 
+script latn;
+language ROM;
 lookup locl_latn_1 {
-	script latn;
-	language ROM;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	language MOL;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 } locl_latn_1;
+language MOL;
+lookup locl_latn_1;
 
+script latn;
+language CAT;
 lookup locl_latn_2 {
-	script latn;
-	language CAT;
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT.case;
-} locl_latn_2;";
-disabled = 1;
+} locl_latn_2;
+
+script latn;
+language NLD;
+lookup locl_latn_3 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
+";
 tag = locl;
 },
 {
@@ -450,7 +476,9 @@ sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;"
 tag = ordn;
 },
 {
-code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;";
+automatic = 1;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+";
 tag = case;
 },
 {
@@ -674,7 +702,7 @@ pos = (-664,-6800);
 pos = (331,1082);
 },
 {
-pos = (273,847);
+pos = (273,694);
 }
 );
 id = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -11540,7 +11568,7 @@ unicode = 536;
 },
 {
 glyphname = Germandbls;
-lastChange = "2024-04-16 19:11:39 +0000";
+lastChange = "2024-04-19 01:24:40 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -26985,7 +27013,7 @@ unicode = 333;
 glyphname = oslash;
 kernLeft = oslash;
 kernRight = "20";
-lastChange = "2024-04-16 21:14:52 +0000";
+lastChange = "2024-04-19 01:25:18 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -27496,6 +27524,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(120,49,o),
 (123,51,o),
 (126,51,cs),
 (129,51,o),
@@ -27554,8 +27583,7 @@ nodes = (
 (24,-14,cs),
 (51,-14,o),
 (96,30,o),
-(117,47,cs),
-(120,49,o)
+(117,47,cs)
 );
 }
 );
@@ -49923,6 +49951,7 @@ unicode = 7854;
 },
 {
 glyphname = Acaron;
+lastChange = "2024-04-19 00:43:43 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -51501,16 +51530,30 @@ unicode = 616;
 },
 {
 glyphname = itilde;
+kernLeft = dotlessi;
+kernRight = dotlessi;
+lastChange = "2024-04-19 01:34:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (164,0);
+},
+{
+name = top;
+pos = (164,600);
+}
+);
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 shapes = (
 {
 ref = idotless;
 },
 {
-pos = (-114,-200);
-ref = tildecomb.narrow;
+alignment = -1;
+pos = (-52,-2);
+ref = tildecomb;
 }
 );
 width = 335;
