@@ -6,16 +6,6 @@ DisplayStrings = (
 "ł",
 "DĎĐÐ",
 "Á",
-"CĆČÇĊ",
-"Ă",
-"Ɨ",
-"ĐđIƗɨ+",
-"Ï",
-"/periodcentered.loclCAT/periodcentered.loclCAT.case -",
-"-",
-"Ǎ",
-"ẞ",
-"ø",
 "ĩi",
 "ãñıĩ",
 "ãñ~̃˜Ĩĩ",
@@ -25,7 +15,9 @@ DisplayStrings = (
 "©",
 "Ẁ",
 "ŁØłø",
-"̌"
+"̌",
+c,
+"ẞ"
 );
 customParameters = (
 {
@@ -11565,7 +11557,7 @@ unicode = 536;
 },
 {
 glyphname = Germandbls;
-lastChange = "2024-04-19 01:24:40 +0000";
+lastChange = "2024-04-19 22:43:34 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -12193,8 +12185,11 @@ nodes = (
 (23,203,o),
 (10,433,o),
 (10,505,cs),
-(10,709,o),
-(115,814,o),
+(10,634,o),
+(52,724,o),
+(158,772,cs),
+(220,800,o),
+(303,814,o),
 (412,814,cs),
 (775,814,o),
 (815,658,o),
@@ -27010,7 +27005,7 @@ unicode = 333;
 glyphname = oslash;
 kernLeft = oslash;
 kernRight = "20";
-lastChange = "2024-04-19 01:25:18 +0000";
+lastChange = "2024-04-19 22:42:24 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -27560,8 +27555,11 @@ nodes = (
 (435,601,o),
 (376,614,o),
 (300,614,cs),
-(101,614,o),
-(12,519,o),
+(208,614,o),
+(140,594,o),
+(93,555,cs),
+(38,509,o),
+(12,437,o),
 (12,341,cs),
 (12,268,o),
 (27,203,o),
@@ -49991,7 +49989,7 @@ unicode = 7854;
 },
 {
 glyphname = Acaron;
-lastChange = "2024-04-19 00:43:43 +0000";
+lastChange = "2024-04-19 22:34:07 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
