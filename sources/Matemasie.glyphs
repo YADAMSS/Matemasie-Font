@@ -30250,7 +30250,7 @@ unicode = 537;
 {
 glyphname = germandbls;
 kernLeft = f;
-lastChange = "2024-04-20 15:17:02 +0000";
+lastChange = "2024-04-20 15:29:17 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -30859,6 +30859,12 @@ nodes = (
 (135,814,o),
 (25,712,o),
 (25,503,cs)
+);
+},
+{
+closed = 0;
+nodes = (
+(920,-176,l)
 );
 }
 );
