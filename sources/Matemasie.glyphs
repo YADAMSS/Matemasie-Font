@@ -3,8 +3,6 @@
 .formatVersion = 3;
 DisplayStrings = (
 "ŁØłø",
-"ẞ",
-"̌",
 "ß",
 "Ẅ",
 "Ů",
@@ -26977,7 +26975,7 @@ unicode = 333;
 glyphname = oslash;
 kernLeft = oslash;
 kernRight = "20";
-lastChange = "2024-04-20 15:15:26 +0000";
+lastChange = "2024-04-21 23:02:54 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -27461,8 +27459,8 @@ name = ogonek;
 pos = (526,0);
 },
 {
-name = "top ";
-pos = (313,600);
+name = top;
+pos = (334,600);
 }
 );
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -30253,7 +30251,7 @@ unicode = 537;
 {
 glyphname = germandbls;
 kernLeft = f;
-lastChange = "2024-04-20 15:29:17 +0000";
+lastChange = "2024-04-21 23:03:24 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -30794,6 +30792,16 @@ nodes = (
 width = 684;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (305,0);
+},
+{
+name = "top ";
+pos = (335,800);
+}
+);
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
 shapes = (
@@ -30806,8 +30814,11 @@ nodes = (
 (355,84,o),
 (313,92,o),
 (288,107,cs),
-(239,137,o),
-(245,200,o),
+(249,131,o),
+(245,176,o),
+(245,249,cs),
+(245,267,o),
+(245,287,o),
 (245,308,cs),
 (245,425,o),
 (252,475,o),
@@ -30862,12 +30873,6 @@ nodes = (
 (135,814,o),
 (25,712,o),
 (25,503,cs)
-);
-},
-{
-closed = 0;
-nodes = (
-(920,-176,l)
 );
 }
 );
