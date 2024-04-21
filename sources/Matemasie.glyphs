@@ -5,7 +5,10 @@ DisplayStrings = (
 "ŁØłø",
 "ẞ",
 "̌",
-"ß"
+"ß",
+"Ẅ",
+"Ů",
+"Ŭ"
 );
 customParameters = (
 {
@@ -14086,7 +14089,7 @@ unicode = 372;
 glyphname = Wdieresis;
 kernLeft = V;
 kernRight = V;
-lastChange = "2024-04-16 22:06:58 +0000";
+lastChange = "2024-04-21 20:59:14 +0000";
 layers = (
 {
 anchors = (
@@ -14102,7 +14105,7 @@ ref = W;
 },
 {
 alignment = -1;
-pos = (273,0);
+pos = (259,0);
 ref = dieresis;
 }
 );
@@ -55066,6 +55069,15 @@ value = "Copyright 2024 The Matemasie Project Authors (https://github.com/YADAMS
 );
 },
 {
+key = designers;
+values = (
+{
+language = ENG;
+value = "Adam Yeo";
+}
+);
+},
+{
 key = licenses;
 values = (
 {
@@ -55077,6 +55089,10 @@ value = "https://openfontlicense.org";
 {
 key = licenseURL;
 value = "https://openfontlicense.org";
+},
+{
+key = vendorID;
+value = YADS;
 }
 );
 stems = (
