@@ -17,7 +17,9 @@ DisplayStrings = (
 "ĀĒĪ/macroncomb.capitals Ō/macroncomb.capitals Ūāēīōū̄",
 D,
 Vv,
-w
+w,
+"¸˛",
+"ÇŞçş̧¸/scedilla.ss01"
 );
 customParameters = (
 {
@@ -48064,7 +48066,7 @@ unicode = 806;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2024-02-24 15:30:47 +0000";
+lastChange = "2024-04-25 08:43:15 +0000";
 layers = (
 {
 anchors = (
@@ -48173,6 +48175,18 @@ pos = (275,0);
 );
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
+width = 562;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (275,0);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "955D2C26-CC4D-4BFE-A358-713D182F5F6C";
+name = "25 Apr 24 at 10:42";
 shapes = (
 {
 closed = 1;
