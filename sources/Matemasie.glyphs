@@ -2,15 +2,13 @@
 .appVersion = "3258";
 .formatVersion = 3;
 DisplayStrings = (
-"/caroncomb.narrow",
-"Ť",
-"ť",
-"ľ",
-"/macroncomb.capitals",
-"/tildecomb.capitals Õ",
-"ź",
-"Ś",
-"Ľ"
+"Æ",
+"IĪIiīii",
+"AÁĂÂÄÀĀĄÅÃ",
+"dďđ",
+"HLŁHLHa",
+"Ï",
+"IÍÎÏİÌĪ"
 );
 customParameters = (
 {
@@ -3250,7 +3248,7 @@ unicode = 272;
 glyphname = Eth;
 kernLeft = Dcroat;
 kernRight = D;
-lastChange = "2024-04-18 20:10:43 +0000";
+lastChange = "2024-04-26 07:11:25 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -3397,7 +3395,7 @@ nodes = (
 );
 }
 );
-width = 935;
+width = 949;
 }
 );
 unicode = 208;
@@ -5032,7 +5030,7 @@ unicode = 288;
 {
 color = 10;
 glyphname = H;
-lastChange = "2024-04-16 18:28:21 +0000";
+lastChange = "2024-04-26 07:04:28 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -5257,7 +5255,7 @@ unicode = 72;
 },
 {
 glyphname = Hbar;
-lastChange = "2024-03-12 15:27:15 +0000";
+lastChange = "2024-04-26 07:12:50 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -5715,7 +5713,7 @@ nodes = (
 );
 }
 );
-width = 1136;
+width = 1134;
 }
 );
 unicode = 294;
@@ -6955,8 +6953,9 @@ unicode = 315;
 },
 {
 glyphname = Lslash;
-kernRight = Lslash;
-lastChange = "2024-04-22 12:38:46 +0000";
+kernLeft = L;
+kernRight = L;
+lastChange = "2024-04-26 07:05:38 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -7344,11 +7343,11 @@ width = 701;
 anchors = (
 {
 name = bottom;
-pos = (300,0);
+pos = (281,0);
 },
 {
 name = top;
-pos = (370,800);
+pos = (351,800);
 }
 );
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -7357,59 +7356,59 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(523,-14,o),
-(582,-5,o),
-(623,13,cs),
-(682,39,o),
-(701,82,o),
-(686,113,cs),
-(678,129,o),
-(647,171,o),
-(587,134,cs),
-(518,92,o),
-(418,65,o),
-(375,124,cs),
-(343,169,o),
-(363,225,o),
-(411,328,cs),
-(417,341,o),
-(427,349,o),
-(440,354,cs),
-(532,386,o),
-(698,433,o),
-(660,542,cs),
-(646,582,o),
-(604,611,o),
-(532,589,cs),
-(509,582,o),
-(528,620,o),
-(528,663,cs),
-(528,748,o),
-(475,814,o),
-(366,814,cs),
-(274,814,o),
-(147,757,o),
-(147,391,cs),
-(147,380,o),
-(140,369,o),
-(129,363,cs),
-(59,325,ls),
-(21,304,o),
-(14,288,o),
-(22,267,cs),
-(39,228,o),
-(96,253,o),
-(121,263,cs),
-(154,276,o),
-(155,252,o),
-(160,226,cs),
-(190,67,o),
-(276,-14,o),
-(459,-14,cs)
+(504,-14,o),
+(563,-5,o),
+(604,13,cs),
+(663,39,o),
+(682,82,o),
+(667,113,cs),
+(659,129,o),
+(628,171,o),
+(568,134,cs),
+(499,92,o),
+(399,65,o),
+(356,124,cs),
+(324,169,o),
+(344,225,o),
+(392,328,cs),
+(398,341,o),
+(408,349,o),
+(421,354,cs),
+(513,386,o),
+(679,433,o),
+(641,542,cs),
+(627,582,o),
+(585,611,o),
+(513,589,cs),
+(490,582,o),
+(509,620,o),
+(509,663,cs),
+(509,748,o),
+(456,814,o),
+(347,814,cs),
+(255,814,o),
+(128,757,o),
+(128,391,cs),
+(128,380,o),
+(121,369,o),
+(110,363,cs),
+(40,325,ls),
+(2,304,o),
+(-5,288,o),
+(3,267,cs),
+(20,228,o),
+(77,253,o),
+(102,263,cs),
+(135,276,o),
+(136,252,o),
+(141,226,cs),
+(171,67,o),
+(257,-14,o),
+(440,-14,cs)
 );
 }
 );
-width = 701;
+width = 639;
 }
 );
 unicode = 321;
@@ -23039,7 +23038,7 @@ color = 10;
 glyphname = i;
 kernLeft = i;
 kernRight = i;
-lastChange = "2024-04-16 20:29:00 +0000";
+lastChange = "2024-04-26 06:31:32 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -23143,7 +23142,6 @@ nodes = (
 width = 318;
 }
 );
-metricLeft = i;
 unicode = 105;
 },
 {
@@ -23951,7 +23949,7 @@ unicode = 236;
 glyphname = imacron;
 kernLeft = icircumflex;
 kernRight = icircumflex;
-lastChange = "2024-04-25 10:12:21 +0000";
+lastChange = "2024-04-26 06:43:48 +0000";
 layers = (
 {
 anchors = (
@@ -24006,14 +24004,17 @@ layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
 name = Regular;
 shapes = (
 {
+alignment = -1;
+pos = (-4,0);
 ref = idotless;
 },
 {
-pos = (-109,0);
+alignment = -1;
+pos = (-129,0);
 ref = macroncomb;
 }
 );
-width = 335;
+width = 318;
 }
 );
 unicode = 299;
@@ -55042,10 +55043,14 @@ T = 420;
 "@MMK_L_I" = {
 "@MMK_R_23" = 0;
 };
+"@MMK_L_L" = {
+H = 7;
+};
 "@MMK_L_e" = {
 G = 10;
 };
 "@MMK_L_i" = {
+"@MMK_R_icircumflex" = 0;
 j = 25;
 };
 AE = {
