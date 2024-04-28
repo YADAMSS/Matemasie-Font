@@ -2,7 +2,9 @@
 .appVersion = "3258";
 .formatVersion = 3;
 DisplayStrings = (
-J
+"¶",
+"hhHFlfẞ",
+"Ț"
 );
 customParameters = (
 {
@@ -21590,9 +21592,9 @@ unicode = 281;
 {
 color = 10;
 glyphname = f;
-kernLeft = f;
+kernLeft = l;
 kernRight = f;
-lastChange = "2024-04-16 20:20:43 +0000";
+lastChange = "2024-04-28 05:54:50 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -22382,9 +22384,9 @@ unicode = 289;
 {
 color = 10;
 glyphname = h;
-kernLeft = h;
+kernLeft = n;
 kernRight = n;
-lastChange = "2024-04-27 02:30:45 +0000";
+lastChange = "2024-04-28 05:55:20 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -26589,7 +26591,7 @@ color = 10;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
-lastChange = "2024-04-26 08:10:50 +0000";
+lastChange = "2024-04-28 05:43:59 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -26820,7 +26822,7 @@ unicode = 243;
 glyphname = ocircumflex;
 kernLeft = o;
 kernRight = o;
-lastChange = "2024-04-16 21:11:09 +0000";
+lastChange = "2024-04-28 05:43:30 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -55032,7 +55034,7 @@ T = 420;
 H = 7;
 };
 "@MMK_L_O" = {
-"@MMK_R_o" = -46;
+"@MMK_R_o" = -3;
 };
 "@MMK_L_e" = {
 G = 10;
