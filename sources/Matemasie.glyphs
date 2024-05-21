@@ -9,7 +9,25 @@ s,
 "jš",
 "jjijiĳ",
 "Ĳ",
-"ĳ"
+"ĳ",
+"Ì",
+A,
+"jȷ/jacute/a.ss01/f.ss01/g.ss01/l.ss01/m.ss01/n.ss01/o.ss01/p.ss01/q.ss01/r.ss01/s.ss01/scedilla.ss01/t.ss01/u.ss01/y.ss01/f.ss02/g.ss02/five.ss01/seven.ss01",
+"/f.ss02",
+"/g.ss02",
+"t/t.ss01",
+"đ",
+"dðoe",
+"/R.ss01",
+"/Q.ss01",
+"/M.ss01",
+"/Hbar.ss01",
+"/g.ss01",
+"/Germandbls.ss01 fF",
+"/Q.ss02",
+"/Z.ss01",
+"˛",
+"ħ"
 );
 customParameters = (
 {
@@ -19648,8 +19666,7 @@ unicode = 273;
 },
 {
 glyphname = eth;
-kernLeft = o;
-lastChange = "2024-05-17 01:33:50 +0000";
+lastChange = "2024-05-21 00:57:50 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -24495,7 +24512,9 @@ unicode = 106;
 },
 {
 glyphname = jdotless;
-lastChange = "2024-04-16 20:43:36 +0000";
+kernLeft = j;
+kernRight = j;
+lastChange = "2024-05-21 00:54:21 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -30359,7 +30378,8 @@ unicode = 537;
 {
 glyphname = germandbls;
 kernLeft = h;
-lastChange = "2024-04-28 05:28:21 +0000";
+kernRight = "3";
+lastChange = "2024-05-21 00:58:36 +0000";
 layers = (
 {
 associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -50854,7 +50874,9 @@ width = 600;
 },
 {
 glyphname = M.ss01;
-lastChange = "2024-04-26 09:55:16 +0000";
+kernLeft = M;
+kernRight = M;
+lastChange = "2024-05-21 00:59:33 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -50938,7 +50960,8 @@ width = 931;
 {
 glyphname = Q.ss01;
 kernLeft = O;
-lastChange = "2024-05-18 13:41:13 +0000";
+kernRight = Q;
+lastChange = "2024-05-21 00:59:23 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -51016,7 +51039,9 @@ width = 853;
 },
 {
 glyphname = R.ss01;
-lastChange = "2024-04-28 05:37:18 +0000";
+kernLeft = R;
+kernRight = R;
+lastChange = "2024-05-21 00:59:10 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -51232,7 +51257,9 @@ metricLeft = Germandbls;
 },
 {
 glyphname = Z.ss01;
-lastChange = "2024-04-18 19:17:54 +0000";
+kernLeft = Z;
+kernRight = Z;
+lastChange = "2024-05-21 01:01:46 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -51292,7 +51319,8 @@ width = 709;
 {
 glyphname = Q.ss02;
 kernLeft = O;
-lastChange = "2024-05-18 13:41:13 +0000";
+kernRight = Q;
+lastChange = "2024-05-21 01:01:32 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -51374,8 +51402,6 @@ nodes = (
 width = 878;
 }
 );
-metricLeft = q;
-metricRight = q;
 },
 {
 glyphname = Germandbls.ss02;
@@ -51839,7 +51865,9 @@ unicode = 307;
 },
 {
 glyphname = jacute;
-lastChange = "2024-04-16 20:51:18 +0000";
+kernLeft = j;
+kernRight = j;
+lastChange = "2024-05-21 00:54:27 +0000";
 layers = (
 {
 anchors = (
@@ -52063,7 +52091,9 @@ width = 634;
 },
 {
 glyphname = f.ss01;
-lastChange = "2024-04-18 19:25:32 +0000";
+kernLeft = f;
+kernRight = f;
+lastChange = "2024-05-21 00:54:40 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -52133,7 +52163,9 @@ metricRight = f;
 },
 {
 glyphname = g.ss01;
-lastChange = "2024-04-28 05:14:25 +0000";
+kernLeft = g;
+kernRight = g;
+lastChange = "2024-05-21 01:00:01 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -53162,7 +53194,8 @@ width = 565;
 },
 {
 glyphname = t.ss01;
-lastChange = "2024-04-18 19:23:58 +0000";
+kernLeft = t;
+lastChange = "2024-05-21 00:56:41 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -53224,8 +53257,6 @@ nodes = (
 width = 510;
 }
 );
-metricLeft = t;
-metricRight = t;
 },
 {
 glyphname = u.ss01;
@@ -53362,7 +53393,9 @@ metricRight = y;
 },
 {
 glyphname = f.ss02;
-lastChange = "2024-04-28 05:22:16 +0000";
+kernLeft = f;
+kernRight = f;
+lastChange = "2024-05-21 00:55:50 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -53436,7 +53469,9 @@ width = 474;
 },
 {
 glyphname = g.ss02;
-lastChange = "2024-04-18 19:21:19 +0000";
+kernLeft = g;
+kernRight = g;
+lastChange = "2024-05-21 00:56:13 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
@@ -53518,8 +53553,6 @@ nodes = (
 width = 704;
 }
 );
-metricLeft = g;
-metricRight = g;
 },
 {
 glyphname = s.ss02;
