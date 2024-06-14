@@ -3,16 +3,13 @@
 .formatVersion = 3;
 DisplayStrings = (
 "ĂĂĀĀĀĀĀÅÅÃÃĆČČĊĊÉÉÉÊÊÈÈĒĒĢĽŃŃááăăââããććččččċċďéěěē̒ģȷĺŕŕŗŗșșúúùùűůůẃẃẁẁýýŷźź",
-"ď",
-"Ĩ",
 I,
-"em,,,,,",
-"Í",
 "Ě",
-"Ÿ",
 Y,
 "!¡iphone 
-"
+",
+"Ắ",
+"Ă"
 );
 customParameters = (
 {
@@ -737,7 +734,7 @@ unicode = 258;
 },
 {
 glyphname = Abreveacute;
-lastChange = "2024-06-07 17:35:14 +0000";
+lastChange = "2024-06-14 10:50:32 +0000";
 layers = (
 {
 anchors = (
@@ -753,13 +750,13 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (194,553);
+pos = (346,553);
 ref = acutecomb;
 scale = (0.814,0.814);
 },
 {
 alignment = -1;
-pos = (184,16);
+pos = (244,16);
 ref = breve;
 }
 );
