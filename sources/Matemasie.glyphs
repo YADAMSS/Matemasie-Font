@@ -1,5 +1,5 @@
 {
-.appVersion = "3258";
+.appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
 "ĂĂĀĀĀĀĀÅÅÃÃĆČČĊĊÉÉÉÊÊÈÈĒĒĢĽŃŃááăăââããććččččċċďéěěē̒ģȷĺŕŕŗŗșșúúùùűůůẃẃẁẁýýŷźź",
@@ -9,7 +9,9 @@ Y,
 "!¡iphone 
 ",
 "Ắ",
-"Ă"
+"Ă",
+" ",
+"/nbspace"
 );
 customParameters = (
 {
@@ -40,7 +42,7 @@ value = 1;
 }
 );
 date = "2024-06-07 16:50:46 +0000";
-familyName = "Matemasie ";
+familyName = Matemasie;
 featurePrefixes = (
 {
 automatic = 1;
@@ -218,7 +220,7 @@ value = 1273;
 },
 {
 name = winDescent;
-value = 230;
+value = 241;
 },
 {
 name = underlineThickness;
@@ -8349,6 +8351,25 @@ width = 933;
 }
 );
 unicode = 7748;
+},
+{
+glyphname = Ngrave;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (328,198);
+ref = gravecomb;
+}
+);
+width = 933;
+}
+);
+unicode = 504;
 },
 {
 glyphname = Ntilde;
@@ -41318,13 +41339,14 @@ R = NoKerning;
 {
 color = 10;
 glyphname = nbspace;
-lastChange = "2024-06-07 16:46:29 +0000";
+lastChange = "2024-06-28 14:22:30 +0000";
 layers = (
 {
 layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
-width = 220;
+width = 185;
 }
 );
+metricWidth = space;
 unicode = 160;
 userData = {
 KernOnSpecialSpacing = {
@@ -75935,7 +75957,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "https://openfontlicense.org";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
