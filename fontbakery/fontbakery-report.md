@@ -38,76 +38,8 @@ These won't break the CI job for now, but will become effective after some time 
 
 
 
-<details><summary>[13] Matemasie-Regular.ttf</summary>
+<details><summary>[7] Matemasie-Regular.ttf</summary>
 <div>
-<details>
-    <summary>🔥 <b>FAIL</b> Ensure the font supports case swapping for all its glyphs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.glyphset.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>The following glyphs lack their case-swapping counterparts:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Glyph present in the font</th>
-<th align="left">Missing case-swapping counterpart</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">U+01F9: LATIN SMALL LETTER N WITH GRAVE</td>
-<td align="left">U+01F8: LATIN CAPITAL LETTER N WITH GRAVE</td>
-</tr>
-</tbody>
-</table>
- [code: missing-case-counterparts]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Checking OS/2 usWinAscent & usWinDescent. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.metrics.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>OS/2.usWinDescent value should be equal or greater than 241, but got 230 instead</p>
- [code: descent]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Name table records must not have trailing spaces. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>Name table record with key = (3, 1, 1033, 1) has trailing spaces that must be removed: 'Matemasie '</p>
- [code: trailing-space]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>🔥 <b>FAIL</b> Checking with fontTools.ttx <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.sanitize.html#"></a></summary>
     <div>
@@ -132,91 +64,6 @@ These won't break the CI job for now, but will become effective after some time 
  
 
 
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Space and non-breaking space have the same width? <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>Space and non-breaking space have differing width: The space glyph named space is 185 font units wide, non-breaking space named (uni00A0) is 220 font units wide, and both should be positive and the same. GlyphsApp has &quot;Sidebearing arithmetic&quot; (<a href="https://glyphsapp.com/tutorials/spacing">https://glyphsapp.com/tutorials/spacing</a>) which allows you to set the non-breaking space width to always equal the space width.</p>
- [code: different-widths]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Check copyright namerecords match license file. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.license.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: &quot;<a href="https://openfontlicense.org">https://openfontlicense.org</a>&quot; Must be changed to &quot;This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: <a href="https://openfontlicense.org">https://openfontlicense.org</a>&quot;</p>
- [code: wrong]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Check font names are correct <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.name.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>Font names are incorrect:</p>
-<table>
-<thead>
-<tr>
-<th align="left">nameID</th>
-<th align="left">current</th>
-<th align="left">expected</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">Family Name</td>
-<td align="left">**Matemasie **</td>
-<td align="left"><strong>Matemasie</strong></td>
-</tr>
-<tr>
-<td align="left">Subfamily Name</td>
-<td align="left">Regular</td>
-<td align="left">Regular</td>
-</tr>
-<tr>
-<td align="left">Full Name</td>
-<td align="left"><strong>Matemasie  Regular</strong></td>
-<td align="left"><strong>Matemasie Regular</strong></td>
-</tr>
-<tr>
-<td align="left">Postscript Name</td>
-<td align="left">Matemasie-Regular</td>
-<td align="left">Matemasie-Regular</td>
-</tr>
-</tbody>
-</table>
- [code: bad-names]
 
 
 
@@ -304,7 +151,7 @@ plus</p>
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: ĭ̦ i̦̇ i̦̊ i̦̋ ǐ̦ i̦̒ j̣̀ j̣́ ĵ̣ j̣̃ j̣̄ j̣̆ j̣̇ j̣̈ j̣̊ j̣̋ ǰ̣ j̣̒ j̦̀ j̦́</p>
 <p>Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Sar (Latn, 500,000 speakers), Ma’di (Latn, 584,000 speakers), Cicipu (Latn, 44,000 speakers), Ejagham (Latn, 120,000 speakers), Ekpeye (Latn, 226,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Mundani (Latn, 34,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Lugbara (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Igbo (Latn, 27,823,640 speakers), Koonzime (Latn, 40,000 speakers), South Central Banda (Latn, 244,000 speakers), Nateni (Latn, 100,000 speakers), Aghem (Latn, 38,843 speakers), Zapotec (Latn, 490,000 speakers), Gulay (Latn, 250,478 speakers), Yala (Latn, 200,000 speakers), Kom (Latn, 360,685 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Makaa (Latn, 221,000 speakers), Ebira (Latn, 2,200,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Navajo (Latn, 166,319 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Southern Kisi (Latn, 360,000 speakers), Avokaya (Latn, 100,000 speakers), Fur (Latn, 1,230,163 speakers), Dan (Latn, 1,099,244 speakers), Mfumte (Latn, 79,000 speakers), Dii (Latn, 71,000 speakers), Mango (Latn, 77,000 speakers), Nzakara (Latn, 50,000 speakers), Vute (Latn, 21,000 speakers), Bafut (Latn, 158,146 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Cicipu (Latn, 44,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ebira (Latn, 2,200,000 speakers), Nateni (Latn, 100,000 speakers), Koonzime (Latn, 40,000 speakers), Ekpeye (Latn, 226,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Sar (Latn, 500,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Yala (Latn, 200,000 speakers), Zapotec (Latn, 490,000 speakers), Mfumte (Latn, 79,000 speakers), Aghem (Latn, 38,843 speakers), Dii (Latn, 71,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Igbo (Latn, 27,823,640 speakers), Fur (Latn, 1,230,163 speakers), Kpelle, Guinea (Latn, 622,000 speakers), South Central Banda (Latn, 244,000 speakers), Nzakara (Latn, 50,000 speakers), Ma’di (Latn, 584,000 speakers), Navajo (Latn, 166,319 speakers), Avokaya (Latn, 100,000 speakers), Kom (Latn, 360,685 speakers), Vute (Latn, 21,000 speakers), Mango (Latn, 77,000 speakers), Lugbara (Latn, 2,200,000 speakers), Gulay (Latn, 250,478 speakers), Mundani (Latn, 34,000 speakers), Southern Kisi (Latn, 360,000 speakers), Ejagham (Latn, 120,000 speakers), Bafut (Latn, 158,146 speakers), Basaa (Latn, 332,940 speakers), Ngbaka (Latn, 1,020,000 speakers), Makaa (Latn, 221,000 speakers), Dan (Latn, 1,099,244 speakers).</p>
  [code: soft-dotted]
 
 
@@ -328,14 +175,14 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh</li>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, coptic, math, tifinagh, canadian-aboriginal, malayalam, syriac, tai-le</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: syriac, tai-le, coptic, canadian-aboriginal, tifinagh, malayalam, old-permic, math</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -353,7 +200,7 @@ definitions.</p>
 <li>U+1ECD LATIN SMALL LETTER O WITH DOT BELOW: try adding vietnamese</li>
 <li>U+1EE4 LATIN CAPITAL LETTER U WITH DOT BELOW: try adding vietnamese</li>
 <li>U+1EE5 LATIN SMALL LETTER U WITH DOT BELOW: try adding vietnamese</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: tibetan, symbols, lepcha, adlam, zanabazar-square, bengali, masaram-gondi, gujarati, thaana, psalter-pahlavi, thai, hanunoo, mongolian, syloti-nagri, telugu, balinese, sundanese, sinhala, new-tai-lue, chakma, pahawh-hmong, hebrew, tai-tham, modi, bassa-vah, tifinagh, mende-kikakui, tai-le, dogra, batak, soyombo, khudawadi, lao, armenian, ahom, tagalog, sogdian, buginese, devanagari, yi, elbasan, miao, buhid, grantha, saurashtra, mahajani, brahmi, tirhuta, khojki, khmer, old-permic, meetei-mayek, kaithi, sharada, javanese, warang-citi, tai-viet, nko, cham, newa, hanifi-rohingya, malayalam, limbu, math, bhaiksuki, kharoshthi, wancho, duployan, mandaic, kayah-li, takri, osage, myanmar, marchen, music, gunjala-gondi, coptic, phags-pa, siddham, manichaean, tamil, rejang, tagbanwa, caucasian-albanian, canadian-aboriginal, oriya, syriac, kannada, gurmukhi</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: tibetan, thaana, sharada, buhid, syriac, wancho, armenian, ahom, gurmukhi, miao, tamil, zanabazar-square, dogra, marchen, kaithi, nko, telugu, tirhuta, balinese, bhaiksuki, caucasian-albanian, oriya, hanunoo, cham, hebrew, mahajani, kannada, elbasan, new-tai-lue, grantha, bassa-vah, batak, kayah-li, takri, sogdian, syloti-nagri, coptic, khojki, tagalog, masaram-gondi, mende-kikakui, tifinagh, chakma, mongolian, hanifi-rohingya, myanmar, manichaean, phags-pa, gunjala-gondi, mandaic, thai, modi, yi, brahmi, sinhala, canadian-aboriginal, malayalam, limbu, newa, kharoshthi, lepcha, soyombo, rejang, buginese, saurashtra, duployan, bengali, khmer, sundanese, tai-le, warang-citi, javanese, symbols, meetei-mayek, gujarati, siddham, math, tagbanwa, psalter-pahlavi, old-permic, devanagari, tai-tham, osage, pahawh-hmong, tai-viet, adlam, lao, music, khudawadi</li>
 </ul>
 <p>Or you can add the above codepoints to one of the subsets supported by the font: <code>latin</code>, <code>latin-ext</code></p>
  [code: unreachable-subsetting]
@@ -390,8 +237,8 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 0 | 0 | 7 | 7 | 117 | 7 | 110 | 0 | 
-| 0% | 0% | 3% | 3% | 47% | 3% | 44% | 0% | 
+| 0 | 0 | 1 | 7 | 116 | 7 | 117 | 0 | 
+| 0% | 0% | 0% | 3% | 47% | 3% | 47% | 0% | 
 
 
 
