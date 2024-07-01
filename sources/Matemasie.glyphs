@@ -163,7 +163,7 @@ sub questiondown by questiondown.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = "Stylistic Set 1";
 }
 );
 tag = ss01;
@@ -181,7 +181,7 @@ sub y by y.ss02;
 labels = (
 {
 language = dflt;
-value = "";
+value = "Stylistic Set 2";
 }
 );
 tag = ss02;
@@ -193,7 +193,7 @@ code = "sub t by t.ss03;
 labels = (
 {
 language = dflt;
-value = "";
+value = "Stylistic Set 3";
 }
 );
 tag = ss03;
