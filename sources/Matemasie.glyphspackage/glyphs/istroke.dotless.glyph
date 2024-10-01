@@ -1,5 +1,5 @@
 {
-glyphname = istroke;
+glyphname = istroke.dotless;
 kernLeft = KO_istroke;
 layers = (
 {
@@ -129,5 +129,4 @@ width = 443;
 );
 metricLeft = i;
 metricRight = i;
-unicode = 616;
 }
