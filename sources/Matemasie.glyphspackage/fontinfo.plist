@@ -58,12 +58,15 @@ feature case;";
 tag = aalt;
 },
 {
-code = "lookup ccmp_Other_1 {
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb ogonekcomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-} ccmp_Other_1;";
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub istroke' @CombiningTopAccents by istroke.dotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+";
 tag = ccmp;
 },
 {
