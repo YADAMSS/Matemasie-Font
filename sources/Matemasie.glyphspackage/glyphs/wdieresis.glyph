@@ -1,0 +1,55 @@
+{
+glyphname = wdieresis;
+kernLeft = KO_w;
+kernRight = KO_w;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (467,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "6493308D-FA75-4DA2-B9C3-716E8145B858";
+name = "7 Apr 24 at 18:47";
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (201,0);
+ref = dieresiscomb;
+}
+);
+width = 926;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (456,0);
+},
+{
+name = top;
+pos = (457,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (264,5);
+ref = dieresiscomb;
+}
+);
+width = 928;
+}
+);
+unicode = 7813;
+}

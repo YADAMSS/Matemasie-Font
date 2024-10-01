@@ -1,0 +1,66 @@
+{
+glyphname = periodcentered.loclCAT.case;
+layers = (
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "C1265FE6-794B-4FFE-A19E-70B53C9C7D58";
+name = "3 Mar 24 at 02:24";
+shapes = (
+{
+closed = 1;
+nodes = (
+(230,217,o),
+(260,243,o),
+(260,291,cs),
+(260,340,o),
+(230,367,o),
+(180,367,cs),
+(130,367,o),
+(100,340,o),
+(100,291,cs),
+(100,243,o),
+(130,217,o),
+(180,217,cs)
+);
+}
+);
+width = 360;
+},
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "5453E4A4-ADA4-403B-ABB5-CEFFF2EA3BBC";
+name = "16 Apr 24 at 19:45";
+shapes = (
+{
+closed = 1;
+nodes = (
+(241,249,o),
+(283,291,o),
+(283,345,cs),
+(283,400,o),
+(241,442,o),
+(181,442,cs),
+(122,442,o),
+(79,400,o),
+(79,345,cs),
+(79,291,o),
+(122,249,o),
+(181,249,cs)
+);
+}
+);
+width = 360;
+},
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+pos = (0,264);
+ref = period;
+}
+);
+width = 304;
+}
+);
+}

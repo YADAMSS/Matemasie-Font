@@ -1,0 +1,61 @@
+{
+glyphname = Adieresis;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (424,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "C01BFFE9-8AFC-46DB-944C-76ADFA79809B";
+name = "7 Apr 24 at 17:55";
+shapes = (
+{
+ref = A;
+},
+{
+alignment = -1;
+pos = (201,0);
+ref = dieresis;
+}
+);
+width = 850;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (411,-3);
+},
+{
+name = ogonek;
+pos = (768,0);
+},
+{
+name = top;
+pos = (424,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (237,200);
+ref = dieresiscomb;
+}
+);
+visible = 1;
+width = 864;
+}
+);
+metricLeft = A;
+metricRight = A;
+unicode = 196;
+}

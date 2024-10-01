@@ -1,0 +1,26 @@
+{
+color = 10;
+glyphname = less;
+kernLeft = KO_less;
+kernRight = KO_less;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+pos = (557,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 557;
+}
+);
+unicode = 60;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

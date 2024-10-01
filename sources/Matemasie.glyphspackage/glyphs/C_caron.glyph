@@ -1,0 +1,55 @@
+{
+glyphname = Ccaron;
+kernLeft = KO_C;
+kernRight = KO_C;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (412,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "D7500B96-58F7-4246-A148-5DF8B3111145";
+name = "7 Apr 24 at 18:23";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (240,200);
+ref = caroncomb;
+}
+);
+width = 776;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (418,1);
+},
+{
+name = top;
+pos = (412,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (240,200);
+ref = caroncomb;
+}
+);
+width = 776;
+}
+);
+metricLeft = C;
+metricRight = C;
+unicode = 268;
+}

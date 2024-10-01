@@ -1,0 +1,33 @@
+{
+glyphname = ntilde;
+kernLeft = KO_n;
+kernRight = KO_n;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (285,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (77,0);
+ref = tildecomb;
+}
+);
+width = 625;
+}
+);
+metricLeft = n;
+metricRight = n;
+unicode = 241;
+}

@@ -1,0 +1,74 @@
+{
+glyphname = ccaron;
+kernLeft = KO_c;
+kernRight = KO_c;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (332,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "8F1FD515-8291-40FE-AD7E-EF35741A3531";
+name = "26 Jan 24 at 22:18";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (131,0);
+ref = caroncomb;
+}
+);
+width = 616;
+},
+{
+anchors = (
+{
+name = top;
+pos = (332,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "1A89D0EB-C94C-4309-9053-6F9632C9FF94";
+name = "7 Apr 24 at 18:23";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (131,0);
+ref = caroncomb;
+}
+);
+width = 616;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (313,0);
+},
+{
+name = top;
+pos = (332,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (131,0);
+ref = caroncomb;
+}
+);
+width = 616;
+}
+);
+unicode = 269;
+}

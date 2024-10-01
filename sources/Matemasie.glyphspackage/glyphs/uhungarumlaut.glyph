@@ -1,0 +1,119 @@
+{
+glyphname = uhungarumlaut;
+kernLeft = KO_u;
+kernRight = KO_u.ss01;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (337,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "FCBF7BF8-CDC0-4442-A333-A7AF32F08C3C";
+name = "12 Mar 24 at 21:59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(382,637,o),
+(405,643,o),
+(454,675,cs),
+(474,689,o),
+(513,715,o),
+(549,755,cs),
+(590,801,o),
+(588,840,o),
+(559,866,cs),
+(530,892,o),
+(491,891,o),
+(449,845,cs),
+(413,804,o),
+(391,764,o),
+(380,742,cs),
+(353,689,o),
+(349,667,o),
+(366,652,cs)
+);
+},
+{
+ref = u;
+},
+{
+closed = 1;
+nodes = (
+(177,638,o),
+(199,643,o),
+(248,675,cs),
+(269,689,o),
+(307,715,o),
+(343,755,cs),
+(385,801,o),
+(382,840,o),
+(353,866,cs),
+(324,892,o),
+(285,891,o),
+(244,845,cs),
+(208,805,o),
+(186,764,o),
+(174,742,cs),
+(147,690,o),
+(144,667,o),
+(160,652,cs)
+);
+}
+);
+width = 681;
+},
+{
+anchors = (
+{
+name = top;
+pos = (337,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "15881BE3-A3A3-4D2A-8625-6D096CEA20CB";
+name = "2 Apr 24 at 11:17";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+pos = (92,5);
+ref = hungarumlautcomb;
+}
+);
+width = 657;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+},
+{
+name = top;
+pos = (319,605);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (92,5);
+ref = hungarumlautcomb;
+}
+);
+width = 645;
+}
+);
+metricLeft = u;
+metricRight = u;
+unicode = 369;
+}

@@ -1,0 +1,68 @@
+{
+glyphname = Scommaaccent;
+kernLeft = KO_S;
+kernRight = KO_Scommaaccent;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (381,-32);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "B98159F5-36F8-411E-BB8D-983DFE45E1FF";
+name = "22 Jan 24 at 14:39";
+shapes = (
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(390,-232,o),
+(337,-257,o),
+(293,-263,cs),
+(263,-267,o),
+(234,-265,o),
+(221,-240,cs),
+(205,-208,o),
+(225,-184,o),
+(265,-164,cs),
+(330,-131,o),
+(335,-78,o),
+(381,-52,cs),
+(411,-35,o),
+(446,-40,o),
+(471,-73,cs),
+(502,-114,o),
+(483,-162,o),
+(430,-202,cs)
+);
+}
+);
+width = 787;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (352,-14);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (228,0);
+ref = commaaccentcomb;
+}
+);
+width = 721;
+}
+);
+unicode = 536;
+}

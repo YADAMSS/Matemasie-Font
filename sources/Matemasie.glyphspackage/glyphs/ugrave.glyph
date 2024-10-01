@@ -1,0 +1,55 @@
+{
+glyphname = ugrave;
+kernLeft = KO_u;
+kernRight = KO_u.ss01;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (328,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "48CA5515-84D3-48D9-A264-FA8EF7FECC22";
+name = "2 Apr 24 at 11:17";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (178,5);
+ref = gravecomb;
+}
+);
+width = 645;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+},
+{
+name = top;
+pos = (319,605);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (178,5);
+ref = gravecomb;
+}
+);
+width = 645;
+}
+);
+metricLeft = u;
+metricRight = u;
+unicode = 249;
+}

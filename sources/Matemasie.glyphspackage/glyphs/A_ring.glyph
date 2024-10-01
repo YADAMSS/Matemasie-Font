@@ -1,0 +1,81 @@
+{
+glyphname = Aring;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (430,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "53C46BBC-8FF4-4D72-B391-A094E6E3E2CA";
+name = "7 Apr 24 at 18:12";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (265,200);
+ref = ringcomb;
+}
+);
+width = 864;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (430,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "172E12B3-F0B4-42F3-AA30-F98004CC9262";
+name = "9 Apr 24 at 18:30";
+shapes = (
+{
+ref = A;
+},
+{
+alignment = -1;
+pos = (149,0);
+ref = ring;
+}
+);
+width = 850;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (398,3);
+},
+{
+name = ogonek;
+pos = (768,0);
+},
+{
+name = top;
+pos = (415,802);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (265,200);
+ref = ringcomb;
+}
+);
+width = 864;
+}
+);
+metricLeft = A;
+metricRight = A;
+unicode = 197;
+}

@@ -1,0 +1,55 @@
+{
+glyphname = Sacute;
+kernLeft = KO_S;
+kernRight = KO_S;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (350,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "CB5EDD7B-15C0-4741-9B7E-457138856323";
+name = "29 Mar 24 at 22:50";
+shapes = (
+{
+ref = S;
+},
+{
+alignment = -1;
+pos = (259,0);
+ref = acute;
+}
+);
+width = 711;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (371,0);
+},
+{
+name = top;
+pos = (401,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (278,200);
+ref = acutecomb;
+}
+);
+visible = 1;
+width = 721;
+}
+);
+unicode = 346;
+}

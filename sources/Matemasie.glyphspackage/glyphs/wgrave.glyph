@@ -1,0 +1,52 @@
+{
+glyphname = wgrave;
+kernLeft = KO_w;
+kernRight = KO_w;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (460,0);
+},
+{
+name = top;
+pos = (463,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (321,5);
+ref = gravecomb;
+}
+);
+width = 928;
+},
+{
+anchors = (
+{
+name = top;
+pos = (463,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "C6A89512-C437-44ED-8626-F875DFB9441B";
+name = "9 Apr 24 at 20:22";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (321,5);
+ref = gravecomb;
+}
+);
+width = 928;
+}
+);
+unicode = 7809;
+}

@@ -1,0 +1,54 @@
+{
+glyphname = ij;
+kernLeft = KO_idotaccent;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (541,0);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "3CFDCBAF-0FF5-499D-833E-B6BF07301181";
+name = "18 May 24 at 16:28";
+shapes = (
+{
+alignment = -1;
+pos = (30,0);
+ref = i;
+},
+{
+pos = (361,0);
+ref = j;
+}
+);
+width = 732;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (159,-14);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (380,0);
+ref = j;
+},
+{
+alignment = -1;
+ref = i;
+}
+);
+width = 744;
+}
+);
+metricLeft = i;
+metricRight = j;
+unicode = 307;
+}

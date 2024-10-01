@@ -1,0 +1,53 @@
+{
+color = 10;
+glyphname = parenleft;
+kernLeft = KO_parenleft;
+kernRight = KO_parenleft;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(190,267,o),
+(213,371,o),
+(286,508,c),
+(312,563,o),
+(353,629,o),
+(353,676,cs),
+(353,756,o),
+(296,800,o),
+(231,800,cs),
+(69,800,o),
+(25,489,o),
+(25,351,cs),
+(25,205,o),
+(68,84,o),
+(142,-25,cs),
+(178,-77,o),
+(208,-100,o),
+(232,-100,cs),
+(263,-100,o),
+(278,-77,o),
+(278,-57,cs),
+(278,-41,o),
+(268,-19,o),
+(248,21,cs),
+(227,68,o),
+(188,142,o),
+(190,223,cs)
+);
+}
+);
+width = 383;
+}
+);
+unicode = 40;
+userData = {
+KernOnName = parenleft;
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

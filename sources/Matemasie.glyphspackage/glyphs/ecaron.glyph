@@ -1,0 +1,57 @@
+{
+glyphname = ecaron;
+kernLeft = KO_e;
+kernRight = KO_e;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (281,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "173E3C38-A77C-42F0-B935-BE32D2BD637B";
+name = "7 Apr 24 at 18:31";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (100,0);
+ref = caroncomb;
+}
+);
+width = 598;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (291,0);
+},
+{
+name = ogonek;
+pos = (526,0);
+},
+{
+name = top;
+pos = (291,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (100,0);
+ref = caroncomb;
+}
+);
+width = 598;
+}
+);
+unicode = 283;
+}

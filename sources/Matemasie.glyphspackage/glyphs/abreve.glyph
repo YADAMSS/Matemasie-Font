@@ -1,0 +1,57 @@
+{
+glyphname = abreve;
+kernLeft = KO_a;
+kernRight = KO_a;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (340,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "A24CAD6E-292F-4E6C-8612-CC923D7C2550";
+name = "19 Jan 24 at 10:38";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (138,0);
+ref = brevecomb;
+}
+);
+width = 634;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (313,0);
+},
+{
+name = ogonek;
+pos = (563,0);
+},
+{
+name = top;
+pos = (332,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (138,0);
+ref = brevecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 259;
+}

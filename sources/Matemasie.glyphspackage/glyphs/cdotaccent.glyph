@@ -1,0 +1,53 @@
+{
+glyphname = cdotaccent;
+kernLeft = KO_c;
+kernRight = KO_c;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (312,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "8E074DE0-2721-43B1-9296-053EE56EC678";
+name = "7 Apr 24 at 18:26";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (216,0);
+ref = dotaccentcomb;
+}
+);
+width = 616;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (313,0);
+},
+{
+name = top;
+pos = (332,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (216,0);
+ref = dotaccentcomb;
+}
+);
+width = 616;
+}
+);
+unicode = 267;
+}

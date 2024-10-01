@@ -1,0 +1,49 @@
+{
+glyphname = guilsinglleft;
+kernLeft = KO_guillemetleft;
+kernRight = KO_guillemetleft;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(255,66,o),
+(266,76,o),
+(266,91,cs),
+(266,139,o),
+(138,202,o),
+(138,264,cs),
+(138,343,o),
+(304,368,o),
+(304,463,cs),
+(304,509,o),
+(270,555,o),
+(218,555,cs),
+(176,555,o),
+(138,525,o),
+(104,485,cs),
+(70,445,o),
+(10,359,o),
+(10,302,cs),
+(10,225,o),
+(120,128,o),
+(190,86,cs),
+(213,72,o),
+(229,66,o),
+(240,66,cs)
+);
+}
+);
+width = 314;
+}
+);
+unicode = 8249;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

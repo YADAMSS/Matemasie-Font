@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = bar;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(141,-88,o),
+(151,-74,o),
+(157,-31,cs),
+(189,276,o),
+(207,518,o),
+(211,657,cs),
+(211,768,o),
+(172,805,o),
+(118,805,cs),
+(64,805,o),
+(25,768,o),
+(25,657,cs),
+(29,518,o),
+(47,276,o),
+(79,-31,cs),
+(85,-74,o),
+(95,-88,o),
+(118,-88,cs)
+);
+}
+);
+width = 236;
+}
+);
+unicode = 124;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

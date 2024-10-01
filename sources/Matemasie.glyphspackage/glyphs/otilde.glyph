@@ -1,0 +1,41 @@
+{
+glyphname = otilde;
+kernLeft = KO_oacute;
+kernRight = KO_o;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (305,0);
+},
+{
+name = ogonek;
+pos = (526,0);
+},
+{
+name = top;
+pos = (309,600);
+},
+{
+name = "top ";
+pos = (313,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (96,0);
+ref = tildecomb;
+}
+);
+width = 634;
+}
+);
+metricLeft = o;
+metricRight = o;
+unicode = 245;
+}

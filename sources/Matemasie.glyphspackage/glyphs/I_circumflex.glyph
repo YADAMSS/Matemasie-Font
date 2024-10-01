@@ -1,0 +1,32 @@
+{
+glyphname = Icircumflex;
+kernLeft = KO_I;
+kernRight = KO_I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (363,0);
+},
+{
+name = top;
+pos = (356,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-3,195);
+ref = circumflexcomb;
+}
+);
+width = 394;
+}
+);
+metricLeft = I;
+unicode = 206;
+}

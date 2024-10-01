@@ -1,0 +1,87 @@
+{
+glyphname = Udieresis;
+kernLeft = KO_U;
+kernRight = KO_U;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (425,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "7DA82630-C567-4DED-A582-A7A4BBA632D5";
+name = "25 Jan 24 at 20:14";
+shapes = (
+{
+ref = U;
+},
+{
+closed = 1;
+nodes = (
+(251,920,o),
+(281,891,o),
+(327,891,cs),
+(373,891,o),
+(403,920,o),
+(403,965,cs),
+(403,1009,o),
+(373,1037,o),
+(327,1037,cs),
+(281,1037,o),
+(251,1009,o),
+(251,965,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(447,920,o),
+(477,891,o),
+(523,891,cs),
+(569,891,o),
+(599,920,o),
+(599,965,cs),
+(599,1009,o),
+(569,1037,o),
+(523,1037,cs),
+(477,1037,o),
+(447,1009,o),
+(447,965,cs)
+);
+}
+);
+width = 870;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (435,0);
+},
+{
+name = ogonek;
+pos = (782,0);
+},
+{
+name = top;
+pos = (451,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (248,200);
+ref = dieresiscomb;
+}
+);
+width = 898;
+}
+);
+unicode = 220;
+}

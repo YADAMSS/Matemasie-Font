@@ -1,0 +1,58 @@
+{
+glyphname = emacron;
+kernLeft = KO_e;
+kernRight = KO_e;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (291,0);
+},
+{
+name = ogonek;
+pos = (526,0);
+},
+{
+name = top;
+pos = (291,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (107,0);
+ref = macroncomb;
+}
+);
+width = 598;
+},
+{
+anchors = (
+{
+name = top;
+pos = (282,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "2A962DF9-E7BE-4B72-A222-40BAA4D2AD27";
+name = "3 Mar 24 at 01:00";
+shapes = (
+{
+ref = e;
+},
+{
+alignment = -1;
+pos = (115,0);
+ref = macroncomb;
+scale = (0.8768,1);
+}
+);
+width = 598;
+}
+);
+unicode = 275;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = idieresis;
+kernLeft = KO_idieresis;
+kernRight = KO_iacute;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-44,-50);
+ref = dieresiscomb;
+}
+);
+width = 302;
+}
+);
+unicode = 239;
+}

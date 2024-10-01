@@ -1,0 +1,70 @@
+{
+glyphname = Ygrave;
+kernLeft = KO_Y;
+kernRight = KO_Y;
+layers = (
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "BEA9F7BA-F03B-49DC-A6A8-810D615EF364";
+name = "12 Mar 24 at 22:17";
+shapes = (
+{
+closed = 1;
+nodes = (
+(475,856,o),
+(504,858,o),
+(517,883,cs),
+(533,915,o),
+(513,939,o),
+(473,959,cs),
+(408,992,o),
+(403,1045,o),
+(357,1071,cs),
+(327,1088,o),
+(292,1083,o),
+(267,1050,cs),
+(236,1009,o),
+(255,961,o),
+(308,921,cs),
+(348,891,o),
+(401,866,o),
+(445,860,cs)
+);
+},
+{
+ref = Y;
+}
+);
+width = 805;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (408,3);
+},
+{
+name = ogonek;
+pos = (563,0);
+},
+{
+name = top;
+pos = (400,801);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (269,201);
+ref = gravecomb;
+}
+);
+width = 808;
+}
+);
+unicode = 7922;
+}

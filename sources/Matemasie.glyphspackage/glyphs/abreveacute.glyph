@@ -1,0 +1,35 @@
+{
+glyphname = abreveacute;
+kernLeft = KO_a;
+kernRight = KO_a;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (320,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (138,0);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (218,388);
+ref = acutecomb;
+scale = (0.7655,0.7655);
+}
+);
+width = 634;
+}
+);
+metricLeft = a;
+metricRight = a;
+unicode = 7855;
+}

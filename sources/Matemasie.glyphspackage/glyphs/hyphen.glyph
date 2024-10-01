@@ -1,0 +1,45 @@
+{
+color = 10;
+glyphname = hyphen;
+kernLeft = KO_hyphen;
+kernRight = KO_hyphen;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(266,234,o),
+(330,247,o),
+(357,254,cs),
+(414,269,o),
+(437,287,o),
+(437,310,cs),
+(437,334,o),
+(416,347,o),
+(353,363,cs),
+(336,366,o),
+(273,379,o),
+(193,379,cs),
+(98,379,o),
+(72,347,o),
+(72,306,cs),
+(72,263,o),
+(100,234,o),
+(197,234,cs)
+);
+}
+);
+width = 509;
+}
+);
+unicode = 45;
+userData = {
+KernOnName = hyphen;
+KernOnSpecialSpacing = {
+L = hyphen;
+R = hyphen;
+};
+};
+}

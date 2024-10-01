@@ -1,0 +1,190 @@
+{
+glyphname = ordmasculine;
+kernLeft = KO_ordmasculine;
+layers = (
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+backgroundImage = {
+imagePath = "/Volumes/ADAM-DOC/DOCUMENTS/Google-project_african languages/20octobre/23 October2023/28 October2023/maremasie2/correctionlisa23-12-1/Screenshot 2023-12-03 at 22.02.41.png";
+pos = (-432,-660);
+scale = (8.0401,8.0401);
+};
+layerId = "B9DC2F25-4ACB-4124-8A9E-EA3338AAFD62";
+name = "3 Dec 23 at 22:21";
+shapes = (
+{
+closed = 1;
+nodes = (
+(46,717,o),
+(13,681,o),
+(13,616,cs),
+(13,537,o),
+(61,484,o),
+(121,484,cs),
+(179,484,o),
+(226,536,o),
+(226,615,cs),
+(226,681,o),
+(193,717,o),
+(119,717,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(105,538,o),
+(98,548,o),
+(98,564,cs),
+(98,580,o),
+(105,589,o),
+(120,589,cs),
+(135,589,o),
+(142,580,o),
+(142,564,cs),
+(142,548,o),
+(135,538,o),
+(120,538,cs)
+);
+}
+);
+width = 239;
+},
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+backgroundImage = {
+imagePath = "/Volumes/ADAM-DOC/DOCUMENTS/Google-project_african languages/20octobre/23 October2023/28 October2023/maremasie2/correctionlisa23-12-1/Screenshot 2023-12-03 at 22.02.41.png";
+pos = (-422,-660);
+scale = (8.0401,8.0401);
+};
+layerId = "46EC7D8D-5D8E-44D4-ADE2-DC44FF5BCF8E";
+name = "25 Jan 24 at 00:12";
+shapes = (
+{
+closed = 1;
+nodes = (
+(191,484,o),
+(244,535,o),
+(244,602,cs),
+(244,666,o),
+(191,717,o),
+(130,717,cs),
+(69,717,o),
+(13,666,o),
+(13,601,cs),
+(13,535,o),
+(69,484,o),
+(128,484,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(113,538,o),
+(104,549,o),
+(104,563,cs),
+(104,578,o),
+(113,589,o),
+(127,589,cs),
+(142,589,o),
+(151,578,o),
+(151,563,cs),
+(151,549,o),
+(142,538,o),
+(127,538,cs)
+);
+}
+);
+width = 257;
+},
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "E0958EEA-84B2-46C7-B343-893B228FE064";
+name = "3 Mar 24 at 10:09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,484,o),
+(234,536,o),
+(234,615,cs),
+(234,682,o),
+(201,718,o),
+(126,718,cs),
+(52,718,o),
+(19,682,o),
+(19,616,cs),
+(19,536,o),
+(68,484,o),
+(129,484,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(107,516,o),
+(97,531,o),
+(97,559,cs),
+(97,585,o),
+(107,600,o),
+(127,600,cs),
+(146,600,o),
+(156,585,o),
+(156,559,cs),
+(156,531,o),
+(146,516,o),
+(127,516,cs)
+);
+}
+);
+width = 257;
+},
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(334,382,o),
+(423,478,o),
+(423,623,cs),
+(423,746,o),
+(361,812,o),
+(224,812,cs),
+(87,812,o),
+(27,746,o),
+(27,625,cs),
+(27,478,o),
+(117,382,o),
+(229,382,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(188,441,o),
+(170,469,o),
+(170,520,cs),
+(170,568,o),
+(188,596,o),
+(226,596,cs),
+(260,596,o),
+(279,568,o),
+(279,520,cs),
+(279,469,o),
+(260,441,o),
+(226,441,cs)
+);
+}
+);
+width = 450;
+}
+);
+unicode = 186;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

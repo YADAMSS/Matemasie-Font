@@ -1,0 +1,72 @@
+{
+glyphname = Rcommaaccent;
+kernLeft = KO_R;
+kernRight = KO_R;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (383,-33);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "DC71CE19-CCB2-4D58-B87B-81182BF637A9";
+name = "22 Jan 24 at 14:36";
+shapes = (
+{
+ref = R;
+},
+{
+closed = 1;
+nodes = (
+(418,-225,o),
+(365,-250,o),
+(321,-256,cs),
+(291,-260,o),
+(262,-258,o),
+(249,-233,cs),
+(233,-201,o),
+(253,-177,o),
+(293,-157,cs),
+(358,-124,o),
+(363,-71,o),
+(409,-45,cs),
+(439,-28,o),
+(474,-33,o),
+(499,-66,cs),
+(530,-107,o),
+(511,-155,o),
+(458,-195,cs)
+);
+}
+);
+width = 848;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (405,-146);
+},
+{
+name = top;
+pos = (426,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (277,0);
+ref = commaaccentcomb;
+}
+);
+width = 877;
+}
+);
+unicode = 342;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Scircumflex;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (211,195);
+ref = circumflexcomb;
+}
+);
+width = 721;
+}
+);
+unicode = 348;
+}

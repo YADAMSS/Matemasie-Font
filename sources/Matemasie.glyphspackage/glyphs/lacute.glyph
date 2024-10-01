@@ -1,0 +1,76 @@
+{
+glyphname = lacute;
+kernLeft = KO_l;
+kernRight = KO_l;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (164,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "43028149-175B-4EB4-86D0-49ED1C9591D5";
+name = "9 Mar 24 at 10:35";
+shapes = (
+{
+ref = l;
+},
+{
+alignment = -1;
+pos = (55,0);
+ref = acute;
+}
+);
+width = 380;
+},
+{
+anchors = (
+{
+name = top;
+pos = (196,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "2691991E-FAEB-413C-B4B6-7D7AEA12FF89";
+name = "31 Mar 24 at 15:00";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+pos = (25,200);
+ref = acutecomb;
+}
+);
+width = 312;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (111,-7);
+},
+{
+name = top;
+pos = (156,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (25,200);
+ref = acutecomb;
+}
+);
+width = 330;
+}
+);
+unicode = 314;
+}

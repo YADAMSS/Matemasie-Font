@@ -1,0 +1,60 @@
+{
+color = 10;
+glyphname = grave;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (137,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "9762A6F1-EFBE-4A64-AB2A-9D805704AB97";
+name = "12 Mar 24 at 22:18";
+shapes = (
+{
+closed = 1;
+nodes = (
+(259,854,o),
+(282,872,o),
+(282,900,cs),
+(282,922,o),
+(263,940,o),
+(232,955,cs),
+(167,988,o),
+(162,1041,o),
+(116,1067,cs),
+(105,1073,o),
+(93,1077,o),
+(82,1077,cs),
+(45,1077,o),
+(11,1041,o),
+(11,1004,cs),
+(11,974,o),
+(31,944,o),
+(67,917,cs),
+(114,882,o),
+(179,854,o),
+(226,854,cs)
+);
+}
+);
+width = 293;
+},
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+pos = (0,208);
+ref = gravecomb;
+}
+);
+width = 311;
+}
+);
+metricLeft = gravecomb;
+metricRight = gravecomb;
+unicode = 96;
+}
