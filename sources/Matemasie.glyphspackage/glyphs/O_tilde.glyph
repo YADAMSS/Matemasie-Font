@@ -1,0 +1,68 @@
+{
+glyphname = Otilde;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (431,0);
+},
+{
+name = ogonek;
+pos = (776,0);
+},
+{
+name = top;
+pos = (431,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "43B3E1F7-168A-4B21-A99B-1B5A39FBC6B8";
+name = "16 Apr 24 at 21:04";
+shapes = (
+{
+ref = O;
+},
+{
+alignment = -1;
+pos = (174,0);
+ref = tilde;
+}
+);
+width = 862;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (431,0);
+},
+{
+name = ogonek;
+pos = (776,0);
+},
+{
+name = top;
+pos = (431,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (179,0);
+ref = tildecomb.capitals;
+}
+);
+width = 880;
+}
+);
+metricLeft = O;
+metricRight = O;
+unicode = 213;
+}

@@ -1,0 +1,75 @@
+{
+glyphname = igrave;
+kernLeft = KO_igrave;
+kernRight = KO_i;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (141,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "3997A067-CCFF-476A-9B7F-4FF19C1761F5";
+name = "12 Mar 24 at 22:19";
+shapes = (
+{
+closed = 1;
+nodes = (
+(196,-18,o),
+(215,7,o),
+(230,49,cs),
+(256,129,o),
+(287,260,o),
+(287,388,cs),
+(287,483,o),
+(228,535,o),
+(158,535,c),
+(88,535,o),
+(29,483,o),
+(29,388,cs),
+(29,260,o),
+(60,129,o),
+(86,49,cs),
+(101,7,o),
+(120,-18,o),
+(158,-18,cs)
+);
+},
+{
+pos = (-138,0);
+ref = gravecomb;
+}
+);
+width = 335;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (602,0);
+},
+{
+name = top;
+pos = (598,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (13,-50);
+ref = gravecomb;
+}
+);
+width = 302;
+}
+);
+metricLeft = i;
+metricRight = i;
+unicode = 236;
+}

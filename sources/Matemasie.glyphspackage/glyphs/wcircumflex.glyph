@@ -1,0 +1,90 @@
+{
+glyphname = wcircumflex;
+kernLeft = KO_w;
+kernRight = KO_w;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (459,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "CB28A6EB-A8E3-4B52-83E8-15D3168CA0C4";
+name = "12 Mar 24 at 21:47";
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,624,o),
+(339,642,o),
+(373,666,c),
+(426,705,ls),
+(450,722,o),
+(459,731,o),
+(469,731,cs),
+(479,731,o),
+(489,722,o),
+(507,709,cs),
+(528,694,o),
+(552,676,o),
+(565,666,cs),
+(599,642,o),
+(624,624,o),
+(643,642,cs),
+(658,658,o),
+(644,677,o),
+(626,715,cs),
+(613,740,o),
+(596,772,o),
+(576,807,cs),
+(549,855,o),
+(513,885,o),
+(469,885,cs),
+(425,885,o),
+(389,855,o),
+(362,807,cs),
+(342,772,o),
+(325,740,o),
+(312,715,cs),
+(294,677,o),
+(280,658,o),
+(295,642,cs)
+);
+},
+{
+ref = w;
+}
+);
+width = 934;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (597,1);
+},
+{
+name = top;
+pos = (603,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (260,0);
+ref = circumflexcomb;
+}
+);
+width = 928;
+}
+);
+metricLeft = W;
+metricRight = W;
+unicode = 373;
+}

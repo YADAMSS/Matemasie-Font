@@ -1,0 +1,36 @@
+{
+glyphname = Agrave;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (432,0);
+},
+{
+name = ogonek;
+pos = (768,0);
+},
+{
+name = top;
+pos = (382,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (294,200);
+ref = gravecomb;
+}
+);
+width = 864;
+}
+);
+metricRight = A;
+unicode = 192;
+}

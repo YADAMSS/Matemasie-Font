@@ -1,0 +1,36 @@
+{
+glyphname = Aacute;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (413,-2);
+},
+{
+name = ogonek;
+pos = (637,-3);
+},
+{
+name = top;
+pos = (436,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (300,200);
+ref = acutecomb;
+}
+);
+width = 864;
+}
+);
+metricRight = A;
+unicode = 193;
+}

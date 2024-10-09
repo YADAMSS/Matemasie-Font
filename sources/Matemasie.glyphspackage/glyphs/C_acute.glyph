@@ -1,0 +1,56 @@
+{
+glyphname = Cacute;
+kernLeft = KO_C;
+kernRight = KO_C;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (430,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "F98913BE-2BD6-45F0-91BE-B9B8C68C069B";
+name = "7 Apr 24 at 18:21";
+shapes = (
+{
+ref = C;
+},
+{
+alignment = -1;
+pos = (182,212);
+ref = acutecomb;
+}
+);
+width = 776;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (362,-1);
+},
+{
+name = top;
+pos = (430,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (307,200);
+ref = acutecomb;
+}
+);
+width = 776;
+}
+);
+metricLeft = C;
+metricRight = C;
+unicode = 262;
+}

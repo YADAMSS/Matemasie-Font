@@ -1,0 +1,37 @@
+{
+glyphname = Ydieresis;
+kernLeft = KO_Y;
+kernRight = KO_Y;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (408,3);
+},
+{
+name = ogonek;
+pos = (563,0);
+},
+{
+name = top;
+pos = (400,801);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (212,201);
+ref = dieresiscomb;
+}
+);
+width = 808;
+}
+);
+metricLeft = Y;
+metricRight = Y;
+unicode = 376;
+}

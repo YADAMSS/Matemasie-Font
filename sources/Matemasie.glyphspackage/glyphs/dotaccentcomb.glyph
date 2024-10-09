@@ -1,0 +1,73 @@
+{
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (286,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "16C11A90-BB90-45BB-9A4A-7A23524D42D5";
+name = "31 Jan 24 at 07:43";
+shapes = (
+{
+closed = 1;
+nodes = (
+(331,653,o),
+(361,682,o),
+(361,727,cs),
+(361,771,o),
+(331,799,o),
+(285,799,cs),
+(239,799,o),
+(209,771,o),
+(209,727,cs),
+(209,682,o),
+(239,653,o),
+(285,653,cs)
+);
+}
+);
+width = 571;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (115,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(172,658,o),
+(210,694,o),
+(210,750,cs),
+(210,805,o),
+(172,840,o),
+(115,840,cs),
+(58,840,o),
+(20,805,o),
+(20,750,cs),
+(20,694,o),
+(58,658,o),
+(115,658,cs)
+);
+}
+);
+width = 230;
+}
+);
+unicode = 775;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

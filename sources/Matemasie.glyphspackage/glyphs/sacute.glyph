@@ -1,0 +1,33 @@
+{
+glyphname = sacute;
+kernLeft = KO_s;
+kernRight = KO_s;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (313,3);
+},
+{
+name = top;
+pos = (325,606);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (199,6);
+ref = acutecomb;
+}
+);
+width = 560;
+}
+);
+metricLeft = s;
+metricRight = s;
+unicode = 347;
+}

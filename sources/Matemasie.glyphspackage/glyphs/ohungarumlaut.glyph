@@ -1,0 +1,100 @@
+{
+glyphname = ohungarumlaut;
+kernLeft = KO_oacute;
+kernRight = KO_o;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (290,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "1B78622C-477C-4450-8D36-A04A03E09EA8";
+name = "12 Mar 24 at 21:59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(330,637,o),
+(353,643,o),
+(402,675,cs),
+(422,689,o),
+(461,715,o),
+(497,755,cs),
+(538,801,o),
+(536,840,o),
+(507,866,cs),
+(478,892,o),
+(439,891,o),
+(397,845,cs),
+(361,804,o),
+(339,764,o),
+(328,742,cs),
+(301,689,o),
+(297,667,o),
+(314,652,cs)
+);
+},
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(125,638,o),
+(147,643,o),
+(196,675,cs),
+(217,689,o),
+(255,715,o),
+(291,755,cs),
+(333,801,o),
+(330,840,o),
+(301,866,cs),
+(272,892,o),
+(233,891,o),
+(192,845,cs),
+(156,805,o),
+(134,764,o),
+(122,742,cs),
+(95,690,o),
+(92,667,o),
+(108,652,cs)
+);
+}
+);
+width = 626;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (312,0);
+},
+{
+name = ogonek;
+pos = (562,10);
+},
+{
+name = top;
+pos = (312,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (92,0);
+ref = hungarumlautcomb;
+}
+);
+width = 634;
+}
+);
+metricRight = o;
+unicode = 337;
+}

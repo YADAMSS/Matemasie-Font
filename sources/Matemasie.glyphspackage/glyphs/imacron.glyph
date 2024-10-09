@@ -1,0 +1,70 @@
+{
+glyphname = imacron;
+kernLeft = KO_imacron;
+kernRight = KO_i;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (179,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "5DCFE67A-22E9-466F-82C0-A933231E2A79";
+name = "25 Apr 24 at 12:12";
+shapes = (
+{
+closed = 1;
+nodes = (
+(217,-18,o),
+(236,7,o),
+(251,49,cs),
+(277,129,o),
+(308,260,o),
+(308,388,cs),
+(308,483,o),
+(249,535,o),
+(179,535,c),
+(109,535,o),
+(50,483,o),
+(50,388,cs),
+(50,260,o),
+(81,129,o),
+(107,49,cs),
+(122,7,o),
+(141,-18,o),
+(179,-18,cs)
+);
+},
+{
+pos = (-84,72);
+ref = macroncomb;
+scale = (0.9403,0.9025);
+}
+);
+width = 374;
+},
+{
+anchors = (
+{
+name = top;
+pos = (179,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-41,-50);
+ref = macroncomb;
+}
+);
+width = 302;
+}
+);
+unicode = 299;
+}

@@ -1,0 +1,16 @@
+{
+glyphname = idotaccent;
+kernLeft = KO_idotaccent;
+kernRight = KO_idotaccent;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = i;
+}
+);
+width = 302;
+}
+);
+}

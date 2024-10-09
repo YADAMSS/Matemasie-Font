@@ -1,0 +1,54 @@
+{
+glyphname = Zcaron;
+kernLeft = KO_Z;
+kernRight = KO_Z;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (341,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "5759F7C1-F0A1-444E-9F4C-75014F14DB37";
+name = "31 Mar 24 at 15:01";
+shapes = (
+{
+ref = Z;
+},
+{
+alignment = -1;
+pos = (74,0);
+ref = caron;
+}
+);
+width = 720;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (408,3);
+},
+{
+name = top;
+pos = (400,801);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (210,201);
+ref = caroncomb;
+}
+);
+width = 730;
+}
+);
+unicode = 381;
+}

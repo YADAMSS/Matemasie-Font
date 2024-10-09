@@ -1,0 +1,19 @@
+{
+glyphname = Macute;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = M;
+},
+{
+pos = (333,202);
+ref = acutecomb;
+}
+);
+width = 946;
+}
+);
+unicode = 7742;
+}

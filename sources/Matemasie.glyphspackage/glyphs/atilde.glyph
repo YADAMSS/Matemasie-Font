@@ -1,0 +1,57 @@
+{
+glyphname = atilde;
+kernLeft = KO_a;
+kernRight = KO_a;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (341,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "B79B3F7E-05D8-4D07-A689-0AE1FF12E9FA";
+name = "7 Apr 24 at 18:21";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (116,0);
+ref = tildecomb;
+}
+);
+width = 634;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (313,0);
+},
+{
+name = ogonek;
+pos = (563,0);
+},
+{
+name = top;
+pos = (332,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (116,0);
+ref = tildecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 227;
+}

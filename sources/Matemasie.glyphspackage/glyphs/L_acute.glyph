@@ -1,0 +1,56 @@
+{
+glyphname = Lacute;
+kernLeft = KO_L;
+kernRight = KO_L;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (247,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "4D545CAC-796F-45AA-BA20-84B101224875";
+name = "29 Mar 24 at 22:54";
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+pos = (127,0);
+ref = acute;
+}
+);
+width = 549;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (198,-1);
+},
+{
+name = top;
+pos = (247,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (145,199);
+ref = acutecomb;
+}
+);
+width = 547;
+}
+);
+metricLeft = L;
+metricRight = L;
+unicode = 313;
+}

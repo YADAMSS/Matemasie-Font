@@ -1,0 +1,60 @@
+{
+glyphname = Ntilde;
+kernLeft = KO_N;
+kernRight = KO_N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (405,0);
+},
+{
+name = top;
+pos = (451,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "77820084-2254-4CCC-9F4A-85A2D622ABC9";
+name = "23 Apr 24 at 22:54";
+shapes = (
+{
+ref = N;
+},
+{
+alignment = -1;
+pos = (194,0);
+ref = tilde;
+}
+);
+width = 917;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (405,0);
+},
+{
+name = top;
+pos = (451,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (206,-2);
+ref = tildecomb.capitals;
+}
+);
+width = 933;
+}
+);
+metricLeft = N;
+metricRight = N;
+unicode = 209;
+}

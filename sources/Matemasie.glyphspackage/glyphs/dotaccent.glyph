@@ -1,0 +1,56 @@
+{
+glyphname = dotaccent;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (304,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "CA48D817-EC14-4F69-BA4C-896EC7F4064B";
+name = "10 Apr 24 at 00:36";
+shapes = (
+{
+closed = 1;
+nodes = (
+(361,874,o),
+(399,910,o),
+(399,966,cs),
+(399,1021,o),
+(361,1056,o),
+(304,1056,cs),
+(247,1056,o),
+(209,1021,o),
+(209,966,cs),
+(209,910,o),
+(247,874,o),
+(304,874,cs)
+);
+}
+);
+width = 609;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (283,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+pos = (0,214);
+ref = dotaccentcomb;
+}
+);
+width = 230;
+}
+);
+metricLeft = dotaccentcomb;
+metricRight = dotaccentcomb;
+unicode = 729;
+}

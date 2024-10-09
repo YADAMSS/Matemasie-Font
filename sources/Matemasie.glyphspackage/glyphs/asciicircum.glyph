@@ -1,0 +1,93 @@
+{
+color = 10;
+glyphname = asciicircum;
+kernLeft = KO_asciicircum;
+kernRight = KO_asciicircum;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (234,801);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "20C60B0C-5CAD-4556-928D-CBA750FDAAB6";
+name = "12 Mar 24 at 21:34";
+shapes = (
+{
+closed = 1;
+nodes = (
+(65,555,o),
+(78,555,cs),
+(94,555,o),
+(114,569,o),
+(138,586,cs),
+(163,604,o),
+(191,625,o),
+(191,625,cs),
+(214,643,o),
+(224,651,o),
+(234,651,cs),
+(243,651,o),
+(254,643,o),
+(277,625,cs),
+(277,625,o),
+(305,604,o),
+(330,586,cs),
+(354,569,o),
+(374,555,o),
+(390,555,cs),
+(403,555,o),
+(414,564,o),
+(414,577,cs),
+(414,591,o),
+(404,608,o),
+(391,635,cs),
+(378,660,o),
+(361,692,o),
+(341,727,cs),
+(314,775,o),
+(278,805,o),
+(234,805,cs),
+(190,805,o),
+(154,775,o),
+(127,727,cs),
+(107,692,o),
+(90,660,o),
+(77,635,cs),
+(64,608,o),
+(54,591,o),
+(54,577,cs),
+(54,564,o)
+);
+}
+);
+width = 486;
+},
+{
+anchors = (
+{
+name = top;
+pos = (253,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+pos = (0,4);
+ref = circumflexcomb;
+}
+);
+width = 400;
+}
+);
+unicode = 94;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

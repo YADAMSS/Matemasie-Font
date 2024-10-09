@@ -1,0 +1,67 @@
+{
+glyphname = Abreve;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (425,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+hints = (
+{
+horizontal = 1;
+place = (857,183);
+type = Stem;
+}
+);
+layerId = "F9ED0DB7-5338-448E-9104-07645F23584A";
+name = "7 Apr 24 at 17:56";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (190,200);
+ref = brevecomb;
+scale = (1.2236,1);
+}
+);
+width = 864;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (412,0);
+},
+{
+name = ogonek;
+pos = (768,0);
+},
+{
+name = top;
+pos = (425,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (234,200);
+ref = brevecomb;
+}
+);
+width = 864;
+}
+);
+metricLeft = A;
+metricRight = A;
+unicode = 258;
+}

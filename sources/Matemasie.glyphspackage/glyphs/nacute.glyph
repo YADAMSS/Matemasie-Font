@@ -1,0 +1,56 @@
+{
+glyphname = nacute;
+kernLeft = KO_n;
+kernRight = KO_n;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (285,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "400AE868-6F11-46E8-849E-6D29A0E80AC3";
+name = "29 Mar 24 at 22:16";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+ref = acutecomb;
+}
+);
+width = 603;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (285,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (165,0);
+ref = acutecomb;
+}
+);
+width = 625;
+}
+);
+metricLeft = n;
+metricRight = n;
+unicode = 324;
+}

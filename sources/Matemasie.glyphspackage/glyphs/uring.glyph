@@ -1,0 +1,52 @@
+{
+glyphname = uring;
+kernLeft = KO_u;
+kernRight = KO_u.ss01;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+},
+{
+name = top;
+pos = (319,605);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (149,5);
+ref = ringcomb;
+}
+);
+width = 645;
+},
+{
+anchors = (
+{
+name = top;
+pos = (330,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "AC72DE2A-5904-48D9-8D7D-EF2CDA62A2B6";
+name = "8 Apr 24 at 18:06";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (149,5);
+ref = ringcomb;
+}
+);
+width = 645;
+}
+);
+unicode = 367;
+}

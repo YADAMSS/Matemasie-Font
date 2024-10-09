@@ -1,0 +1,56 @@
+{
+glyphname = Omacron;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (384,810);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "1DF14AF7-65CA-4EE6-95E0-E23F646092E4";
+name = "12 Apr 24 at 03:04";
+shapes = (
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 862;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (431,0);
+},
+{
+name = ogonek;
+pos = (776,0);
+},
+{
+name = top;
+pos = (431,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (123,0);
+ref = macroncomb.capitals;
+}
+);
+width = 880;
+}
+);
+metricLeft = O;
+metricRight = O;
+unicode = 332;
+}

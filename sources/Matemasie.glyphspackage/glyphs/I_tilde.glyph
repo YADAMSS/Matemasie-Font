@@ -1,0 +1,21 @@
+{
+glyphname = Itilde;
+kernLeft = KO_I;
+kernRight = KO_I;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-64,0);
+ref = tildecomb.capitals;
+}
+);
+width = 394;
+}
+);
+unicode = 296;
+}

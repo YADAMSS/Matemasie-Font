@@ -1,0 +1,44 @@
+{
+color = 10;
+glyphname = period;
+kernLeft = KO_period;
+kernRight = KO_period;
+layers = (
+{
+guides = (
+{
+pos = (374,670);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,-14,o),
+(254,28,o),
+(254,82,cs),
+(254,137,o),
+(212,179,o),
+(152,179,cs),
+(93,179,o),
+(50,137,o),
+(50,82,cs),
+(50,28,o),
+(93,-14,o),
+(152,-14,cs)
+);
+}
+);
+width = 304;
+}
+);
+unicode = 46;
+userData = {
+KernOnName = period;
+KernOnSpecialSpacing = {
+L = period;
+R = period;
+};
+};
+}

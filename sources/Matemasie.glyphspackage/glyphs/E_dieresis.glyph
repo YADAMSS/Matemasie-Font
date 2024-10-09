@@ -1,0 +1,38 @@
+{
+glyphname = Edieresis;
+kernLeft = KO_Edieresis;
+kernRight = KO_Edieresis;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (391,-2);
+},
+{
+name = ogonek;
+pos = (666,0);
+},
+{
+name = top;
+pos = (439,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = E;
+},
+{
+alignment = -1;
+pos = (213,0);
+ref = dieresis;
+}
+);
+width = 774;
+}
+);
+metricLeft = E;
+metricRight = E;
+unicode = 203;
+}

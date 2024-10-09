@@ -1,0 +1,97 @@
+{
+glyphname = rcommaaccent;
+kernLeft = KO_r;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (238,-31);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "F6C39009-4B98-4526-B9CB-98E49A5EFE1D";
+name = "22 Jan 24 at 14:47";
+shapes = (
+{
+ref = r;
+},
+{
+closed = 1;
+nodes = (
+(217,-228,o),
+(164,-253,o),
+(120,-259,cs),
+(90,-263,o),
+(61,-261,o),
+(48,-236,cs),
+(32,-204,o),
+(52,-180,o),
+(92,-160,cs),
+(157,-127,o),
+(162,-74,o),
+(208,-48,cs),
+(238,-31,o),
+(273,-36,o),
+(298,-69,cs),
+(329,-110,o),
+(310,-158,o),
+(257,-198,cs)
+);
+}
+);
+width = 631;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (162,-14);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+backgroundImage = {
+imagePath = "/Volumes/ADAM-DOC/DOCUMENTS/Google-project_african languages/20octobre/23 October2023/28 October2023/From-Lisa/new_correction_2023:12:19/7Janvier2024/Screenshot 2024-01-19 at 10.14.05.png";
+pos = (-206,-331);
+scale = (14.8131,14.8131);
+};
+layerId = "A6BE368C-68E3-4A55-96A9-4FCB808A3DC2";
+name = "17 Feb 24 at 00:00";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (-16,0);
+ref = commaaccentcomb;
+}
+);
+width = 576;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (313,3);
+},
+{
+name = top;
+pos = (325,606);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (-16,0);
+ref = commaaccentcomb;
+}
+);
+width = 576;
+}
+);
+unicode = 343;
+}

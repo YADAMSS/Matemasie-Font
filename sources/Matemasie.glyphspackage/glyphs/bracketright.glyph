@@ -1,0 +1,78 @@
+{
+color = 10;
+glyphname = bracketright;
+kernLeft = KO_bracketright;
+layers = (
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "2A08C8AD-3E02-43B0-B411-549B6E2E03DA";
+name = "26 Mar 24 at 11:46";
+shapes = (
+{
+closed = 1;
+nodes = (
+(305,-99,o),
+(328,-97,o),
+(336,-74,cs),
+(353,-30,o),
+(364,255,o),
+(364,653,cs),
+(364,739,o),
+(353,778,o),
+(323,794,cs),
+(311,801,o),
+(287,804,o),
+(239,804,cs),
+(114,804,o),
+(32,770,o),
+(32,689,cs),
+(32,618,o),
+(75,589,o),
+(137,587,cs),
+(147,587,o),
+(150,582,o),
+(150,572,cs),
+(150,510,o),
+(207,162,o),
+(207,28,cs),
+(207,15,o),
+(207,14,o),
+(191,11,cs),
+(177,8,o),
+(170,7,o),
+(164,4,cs),
+(148,-3,o),
+(135,-11,o),
+(135,-38,cs),
+(135,-60,o),
+(144,-75,o),
+(162,-83,cs),
+(187,-94,o),
+(227,-99,o),
+(280,-99,cs)
+);
+}
+);
+width = 436;
+},
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+pos = (387,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 387;
+}
+);
+unicode = 93;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+R = NoKerning;
+};
+};
+}

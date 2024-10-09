@@ -1,0 +1,64 @@
+{
+color = 10;
+glyphname = backslash;
+kernLeft = KO_backslash;
+kernRight = KO_backslash;
+layers = (
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "DA5ED46C-CBB5-41FF-B6CC-B99AA3BE3811";
+name = "26 Mar 24 at 13:03";
+shapes = (
+{
+closed = 1;
+nodes = (
+(456,-24,o),
+(456,4,cs),
+(456,14,o),
+(453,26,o),
+(448,42,c),
+(347,334,o),
+(261,561,o),
+(206,689,cs),
+(171,764,o),
+(134,792,o),
+(96,792,cs),
+(56,792,o),
+(10,762,o),
+(10,707,cs),
+(10,681,o),
+(18,649,o),
+(37,610,cs),
+(100,485,o),
+(218,274,o),
+(377,9,c),
+(395,-18,o),
+(408,-30,o),
+(422,-30,cs),
+(431,-30,o)
+);
+}
+);
+width = 466;
+},
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+pos = (466,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 466;
+}
+);
+unicode = 92;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

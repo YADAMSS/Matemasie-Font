@@ -1,0 +1,63 @@
+{
+glyphname = guilsinglright;
+kernLeft = KO_guillemetright;
+kernRight = KO_guillemetright;
+layers = (
+{
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "157E12B9-6BBC-4222-9D37-EF345F1FDA74";
+name = "26 Mar 24 at 11:43";
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,66,o),
+(101,72,o),
+(124,86,cs),
+(194,128,o),
+(304,225,o),
+(304,302,cs),
+(304,359,o),
+(244,445,o),
+(210,485,cs),
+(176,525,o),
+(138,555,o),
+(96,555,cs),
+(44,555,o),
+(10,509,o),
+(10,463,cs),
+(10,368,o),
+(176,343,o),
+(176,264,cs),
+(176,202,o),
+(48,139,o),
+(48,91,cs),
+(48,76,o),
+(59,66,o),
+(74,66,cs)
+);
+}
+);
+width = 314;
+},
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+pos = (314,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 314;
+}
+);
+unicode = 8250;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

@@ -1,0 +1,55 @@
+{
+glyphname = racute;
+kernLeft = KO_r;
+kernRight = KO_r;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (315,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "991FF80D-742E-4D23-AC52-BFD4585EE347";
+name = "29 Mar 24 at 22:16";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (193,6);
+ref = acutecomb;
+}
+);
+width = 576;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (342,3);
+},
+{
+name = top;
+pos = (323,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (193,6);
+ref = acutecomb;
+}
+);
+width = 576;
+}
+);
+metricLeft = r;
+metricRight = r;
+unicode = 341;
+}

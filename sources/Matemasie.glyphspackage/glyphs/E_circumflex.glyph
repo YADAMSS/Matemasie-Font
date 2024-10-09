@@ -1,0 +1,58 @@
+{
+glyphname = Ecircumflex;
+kernLeft = KO_E;
+kernRight = KO_E;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (422,-4);
+},
+{
+name = ogonek;
+pos = (666,0);
+},
+{
+name = top;
+pos = (392,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (181,195);
+ref = circumflexcomb;
+}
+);
+width = 774;
+},
+{
+anchors = (
+{
+name = top;
+pos = (392,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "066AF235-8BA9-42B1-9066-AD5701974F2F";
+name = "7 Apr 24 at 18:34";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (181,195);
+ref = circumflexcomb;
+}
+);
+width = 774;
+}
+);
+metricLeft = E;
+metricRight = E;
+unicode = 202;
+}

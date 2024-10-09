@@ -1,0 +1,37 @@
+{
+glyphname = Edotaccent;
+kernLeft = KO_E;
+kernRight = KO_E;
+layers = (
+{
+anchors = (
+{
+name = "new anchor";
+pos = (383,-6);
+},
+{
+name = ogonek;
+pos = (666,0);
+},
+{
+name = top;
+pos = (408,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (266,200);
+ref = dotaccentcomb;
+}
+);
+width = 774;
+}
+);
+metricLeft = E;
+metricRight = E;
+unicode = 278;
+}

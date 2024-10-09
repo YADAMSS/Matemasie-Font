@@ -1,0 +1,78 @@
+{
+glyphname = Dcaron;
+kernLeft = KO_D;
+kernRight = KO_D;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (309,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "67CA6CC1-F3E0-4849-AF3D-8464721A013B";
+name = "2 Mar 24 at 20:41";
+shapes = (
+{
+ref = D;
+},
+{
+alignment = -1;
+pos = (143,0);
+ref = caron;
+}
+);
+width = 778;
+},
+{
+anchors = (
+{
+name = top;
+pos = (309,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "C7F4A4D5-520F-4116-9FB2-DA7E8A12F24C";
+name = "7 Apr 24 at 18:28";
+shapes = (
+{
+ref = D;
+},
+{
+alignment = -1;
+pos = (91,0);
+ref = caron;
+}
+);
+width = 778;
+},
+{
+anchors = (
+{
+name = "new anchor";
+pos = (389,5);
+},
+{
+name = top;
+pos = (309,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (107,200);
+ref = caroncomb;
+}
+);
+width = 793;
+}
+);
+metricLeft = D;
+metricRight = D;
+unicode = 270;
+}

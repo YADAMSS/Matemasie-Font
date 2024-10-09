@@ -1,0 +1,37 @@
+{
+glyphname = Ocircumflex;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (431,0);
+},
+{
+name = ogonek;
+pos = (776,0);
+},
+{
+name = top;
+pos = (431,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (240,14);
+ref = circumflex;
+}
+);
+width = 880;
+}
+);
+metricLeft = O;
+metricRight = O;
+unicode = 212;
+}

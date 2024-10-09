@@ -1,0 +1,34 @@
+{
+glyphname = Ycircumflex;
+kernLeft = KO_Y;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (408,3);
+},
+{
+name = ogonek;
+pos = (563,0);
+},
+{
+name = top;
+pos = (400,801);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (208,196);
+ref = circumflexcomb;
+}
+);
+width = 808;
+}
+);
+unicode = 374;
+}

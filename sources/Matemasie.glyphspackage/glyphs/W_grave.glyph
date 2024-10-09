@@ -1,0 +1,70 @@
+{
+glyphname = Wgrave;
+kernLeft = KO_W;
+kernRight = KO_W;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (452,800);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "3741CCD4-AB21-4639-B802-665B16E34A30";
+name = "12 Mar 24 at 22:16";
+shapes = (
+{
+closed = 1;
+nodes = (
+(570,855,o),
+(599,857,o),
+(612,882,cs),
+(628,914,o),
+(608,938,o),
+(568,958,cs),
+(503,991,o),
+(498,1044,o),
+(452,1070,cs),
+(422,1087,o),
+(387,1082,o),
+(362,1049,cs),
+(331,1008,o),
+(350,960,o),
+(403,920,cs),
+(443,890,o),
+(496,865,o),
+(540,859,cs)
+);
+},
+{
+ref = W;
+}
+);
+width = 962;
+},
+{
+anchors = (
+{
+name = top;
+pos = (474,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (356,196);
+ref = gravecomb;
+}
+);
+width = 984;
+}
+);
+metricLeft = W;
+metricRight = W;
+unicode = 7808;
+}

@@ -1,0 +1,157 @@
+{
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (261,600);
+},
+{
+name = top;
+pos = (262,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "8A83DA7F-B02E-4B2A-9618-9FE87679BAF2";
+name = "18 Dec 23 at 19:40";
+shapes = (
+{
+closed = 1;
+nodes = (
+(416,814,o),
+(419,775,o),
+(377,729,cs),
+(341,689,o),
+(303,663,o),
+(282,649,cs),
+(233,617,o),
+(211,612,o),
+(194,626,cs),
+(178,641,o),
+(181,664,o),
+(208,716,cs),
+(220,738,o),
+(242,779,o),
+(278,819,cs),
+(319,865,o),
+(358,866,o),
+(387,840,cs)
+);
+}
+);
+width = 562;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (261,600);
+},
+{
+name = top;
+pos = (262,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "9BBEFA60-08C2-4FC5-BFAD-D16AB908696B";
+name = "9 Mar 24 at 10:50";
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,649,o),
+(302,659,o),
+(365,706,cs),
+(418,746,o),
+(437,794,o),
+(406,835,cs),
+(381,868,o),
+(346,873,o),
+(316,856,cs),
+(270,830,o),
+(265,777,o),
+(200,744,cs),
+(160,724,o),
+(140,700,o),
+(156,668,cs),
+(169,643,o),
+(198,641,o),
+(228,645,cs)
+);
+}
+);
+width = 562;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (249,600);
+},
+{
+name = top;
+pos = (250,600);
+}
+);
+associatedMasterId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+layerId = "4C7C9CE4-0B4C-4146-9895-8DC011989D61";
+name = "9 Apr 24 at 18:38";
+shapes = (
+{
+alignment = -1;
+pos = (139,-214);
+ref = acute;
+}
+);
+width = 562;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (133,600);
+},
+{
+name = top;
+pos = (134,600);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(123,660,o),
+(188,688,o),
+(235,723,cs),
+(271,750,o),
+(291,780,o),
+(291,810,cs),
+(291,847,o),
+(257,883,o),
+(220,883,cs),
+(160,883,o),
+(136,795,o),
+(70,761,cs),
+(39,746,o),
+(20,728,o),
+(20,706,cs),
+(20,691,o),
+(29,660,o),
+(76,660,cs)
+);
+}
+);
+width = 311;
+}
+);
+unicode = 769;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

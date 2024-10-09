@@ -1,0 +1,31 @@
+{
+glyphname = Igrave;
+kernLeft = KO_I;
+kernRight = KO_I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (189,0);
+},
+{
+name = top;
+pos = (194,800);
+}
+);
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (58,200);
+ref = gravecomb;
+}
+);
+width = 394;
+}
+);
+unicode = 204;
+}

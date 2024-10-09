@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = bullet;
+layers = (
+{
+layerId = "49F060A0-2273-4F54-8B81-08E0B15B03EC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(182,250,o),
+(224,292,o),
+(224,346,cs),
+(224,401,o),
+(182,443,o),
+(122,443,cs),
+(63,443,o),
+(20,401,o),
+(20,346,cs),
+(20,292,o),
+(63,250,o),
+(122,250,cs)
+);
+}
+);
+width = 244;
+}
+);
+unicode = 8226;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}
